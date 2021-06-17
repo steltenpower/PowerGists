@@ -6,8 +6,11 @@ For the title shot: zoom in on (Wikipedia) page for the title, a draft if necess
 <pre>
 Electronic Lab Notebook:
 ========================
-Reproducibility: non-manual, web-base
-It's cooperation and support in the same context
+Reproducibility through:
+- No, or less install (differences). Possible within security context of data.
+- less manual copy-paste between different applications
+- Tighter feedback loop between people with different focus (tech-savvy or not, researchers and supporters, reviewers and communicators)
+
 
 Git(hub):
 =========
