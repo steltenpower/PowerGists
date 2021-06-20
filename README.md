@@ -3,7 +3,7 @@
 Idea: Very short and simple video clips to show/explain the WHY of things relating to (research) data
 For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.
 
-<pre>
+
 Electronic Lab Notebook:
 ========================
 Reproducibility through:
@@ -24,4 +24,3 @@ Uncoupling how to work with data. Entry in context. With tech help, constraint c
 data quality:
 =============
 Just a few examples. If you spell "bik", someone probably won't find the text by search term "bike". Spelling is important, use spell checkers.
-</pre>
