@@ -3,6 +3,14 @@ Some 'gists' below might inspire to a script for a video clip,<br>
 but for now just short messages to show/explain the WHY of things I tend to explain often (when 'wearing my research data cap')
 
 
+Towards (data) quality and speed:
+=================================
+- Tiny errors make big errors (elsewhere, later, seemingly unrelated often even unnoticed). Therefore preventing+finding errors should be close, early and relations made visible.
+- Fresh high-quality data should be rewarded by minimizing (other) disturbances. Wonder for a moment what analysis comes from 'just another thing to fill in for management'.
+- People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure data validation and immediate visualization and also analysis later/elsewhere will improve.
+- Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'.
+- Then learn what carpentries.org teaches about spreadsheets. 
+
 Electronic Lab Notebook:
 ========================
 Reproducibility through:
@@ -19,13 +27,6 @@ De facto standard for managing changes in file sets:
 - Asks to comment changes for readable history to navigate.
 - Many (related) workflow/project tools
 
-unlock your (DATA) potential:
-=============================
-- data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
-- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
-- linked data: associative as brains and communities
-- knowledge graphs: organizations organized, learning from (content from) each other while doing
-
 Open data:
 ==========
 - Open license
@@ -33,13 +34,12 @@ Open data:
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to do stuff with
 
-Towards (data) quality and speed:
-=================================
-- Tiny errors make big errors (elsewhere, later, seemingly unrelated often even unnoticed). Therefore preventing+finding errors should be close, early and relations made visible.
-- Fresh high-quality data should be rewarded by minimizing (other) disturbances. Wonder for a moment what analysis comes from 'just another thing to fill in for management'.
-- People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure data validation and immediate visualization and also analysis later/elsewhere will improve.
-- Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'.
-- Then learn what carpentries.org teaches about spreadsheets. 
+unlock your (DATA) potential:
+=============================
+- data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
+- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
+- linked data: associative as brains and communities
+- knowledge graphs: organizations organized, learning from (content from) each other while doing
 
 FAIR data:
 ==========
