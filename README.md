@@ -1,8 +1,5 @@
 # PowerGists
-
 Idea: Very short and simple video clips (or messages) to show/explain the WHY of things relating to (research) data
-
-[For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
 
 
 Electronic Lab Notebook:
@@ -35,8 +32,6 @@ Open data:
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to do stuff with
 
-
-
 Towards (data) quality and speed:
 =================================
 - Tiny errors make big errors
@@ -45,19 +40,25 @@ Towards (data) quality and speed:
 data quality:
 - Errors frustrate finding *******************************
 
-FAIR (simplified):
-=====
-Domain-specific tagging and archiving make something FINDABLE: keyword can give web address
-Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
-Open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data
-Allowing different things with different licenses makes something REUSABLE: using input data in output data
+FAIR data:
+==========
+- Domain-specific tagging and archiving make something FINDABLE: keyword can give web address
+- Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
+- Open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data
+- Allowing different things with different licenses makes something REUSABLE: using input data in output data
 
 Accessibility:
 ==============
 - Giving people freedom to pick their methods of interaction.
-- Devices are different, people are different, circumstances are different and all keep changing.
-- Disabilities, by law
+- Devices are different, people and their preferences are different, circumstances are different and all interact and keep changing.
+- Laws demand certain levels of accessibility, also to minimize limitations brought by handicaps.
+- Accessibility for people also gives (some) accessibility for their (digital) assistants
 
 SVG:
 ====
+- Graphics, objects, interactivity, zoom, searchable text
+- filters, styling, animations, infinite zoom
+- part of the (modular) web and specifically HTML
 
+
+* [For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
