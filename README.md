@@ -1,7 +1,8 @@
 # PowerGists
 
 Idea: Very short and simple video clips (or messages) to show/explain the WHY of things relating to (research) data
-For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.
+
+[For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
 
 
 Electronic Lab Notebook:
@@ -15,7 +16,7 @@ Reproducibility through:
 Git(hub):
 =========
 De facto standard for managing changes in file sets:
-- Simultaneously working on the same file with multiple apps or users is no problem.
+- Simultaneously working on the same file with multiple apps/users is no problem.
 - Related files can be kept consistent within 1 change.
 - Asks to comment changes for readable history to navigate.
 - Many (related) workflow/project tools
@@ -53,7 +54,10 @@ Allowing different things with different licenses makes something REUSABLE: usin
 
 Accessibility:
 ==============
-
+- Giving people freedom to pick their methods of interaction.
+- Devices are different, people are different, circumstances are different and all keep changing.
+- Disabilities, by law
 
 SVG:
 ====
+
