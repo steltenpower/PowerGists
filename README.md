@@ -21,7 +21,7 @@ De facto standard for managing changes in file sets:
 
 unlock your (DATA) potential:
 =============================
-- data-centric (manifesto): Not apps, but YOU decide what you mean.
+- data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
 - FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - linked data: associative as brains and communities
 - knowledge graphs: organizations organized, learning from (content from) each other while doing
