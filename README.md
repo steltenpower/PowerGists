@@ -1,5 +1,6 @@
 # PowerGists
-Idea: Very short and simple video clips (or messages) to show/explain the WHY of things relating to (research) data
+Some 'gists' below might inspire to a script for a video clip,<br>
+but for now just short messages to show/explain the WHY of things I tend to explain often (when 'wearing my research data cap')
 
 
 Electronic Lab Notebook:
