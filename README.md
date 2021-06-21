@@ -32,13 +32,16 @@ Open data:
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to do stuff with
 
-Towards (data) quality and speed:
+6Towards (data) quality and speed:
 =================================
-- Tiny errors make big errors (elsewhere, later)
+- Tiny errors make big errors (elsewhere, later, seemingly unrelated). Therefore preventing+finding errors should be close, early and obviously related.
+- BELOW IN PROGRESS
 - Uncoupling how to work with data. Entry in context. With tech help, constraint can be applied, immediate feedback charts added. With better data, better analysis. Possibly much later, and somewhere else.
 - Also less waiting for a specific date to pass, to bring out a report. That's paper-era thinking. Data can be very useful earlier too.
 data quality:
-- Errors frustrate finding *******************************
+- ABOVE IN PROGRESS
+- Start by turning on spelling checkers, especially because our digital assistents starting with general search functionality are easily 'confused'.
+- Then learn what carpentries.org teaches about spreadsheets. 
 
 FAIR data:
 ==========
@@ -56,10 +59,13 @@ Accessibility:
 
 SVG:
 ====
-- images that can be generated/interactive objects
+- images that can be static/generated/interactive objects
 - searchable text, filters, styling, animating, infinite zoom
 - part of the (modular) web and specifically HTML
 - abbreviation for Scalable Vector Graphics
+
+
+
 
 
 * [For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
