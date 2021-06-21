@@ -34,7 +34,7 @@ Open data:
 
 Towards (data) quality and speed:
 =================================
-- Tiny errors make big errors
+- Tiny errors make big errors (elsewhere, later)
 - Uncoupling how to work with data. Entry in context. With tech help, constraint can be applied, immediate feedback charts added. With better data, better analysis. Possibly much later, and somewhere else.
 - Also less waiting for a specific date to pass, to bring out a report. That's paper-era thinking. Data can be very useful earlier too.
 data quality:
@@ -56,9 +56,10 @@ Accessibility:
 
 SVG:
 ====
-- Graphics, objects, interactivity, zoom, searchable text
-- filters, styling, animations, infinite zoom
+- images that can be generated/interactive objects
+- searchable text, filters, styling, animating, infinite zoom
 - part of the (modular) web and specifically HTML
+- abbreviation for Scalable Vector Graphics
 
 
 * [For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
