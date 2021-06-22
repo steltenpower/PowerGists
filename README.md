@@ -16,8 +16,8 @@ Fully unlock your (DATA) potential:
 - linked data: associative as brains and communities
 - knowledge graphs: organizations organized, learning from (content from) each other while doing
 
-Electronic Lab Notebook:
-========================
+Electronic Lab Notebooks:
+=========================
 A shared on-line document in which writers and coders can cooperate. Reproducibility through:
 - No, or less install (differences). Possible within security context of data.
 - Less manual copy-paste between different applications. 
