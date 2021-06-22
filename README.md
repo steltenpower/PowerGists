@@ -44,7 +44,7 @@ FAIR data:
 ==========
 - Domain-specific tagging and archiving make something FINDABLE: keyword can give web address
 - Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
-- Open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data
+- Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data
 - Allowing different things with different licenses makes something REUSABLE: using input data in output data
 
 Accessibility:
@@ -57,9 +57,9 @@ Accessibility:
 SVG:
 ====
 - images that can be static/generated/interactive objects
-- searchable text, filters, styling, animating, infinite sharp zoom
-- part of the (modular) web and specifically (composable) HTML
-- abbreviation for Scalable Vector Graphics
+- searchable text in any shape, filters, styling, animating, infinite sharp zoom
+- part of the (modular) web and (specifically) composable HTML, used in about anything nowadays.
+- abbreviation of Scalable Vector Graphics
 
 <br><br><br>
 Some 'gists' above might inspire to a script for a video clip,<br>
