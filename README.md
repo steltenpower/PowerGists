@@ -1,5 +1,5 @@
-# PowerGists (or elevator pitches about cooperation, towards potential users/deciders easily scared off by tech-jargon)
-When you have just seconds to get non-tech-savvy potential users/deciders interested in what some technical subject can mean for improving cooperation.<br><br>
+# PowerGists
+(or elevator pitches about cooperation, towards potential users/deciders easily scared off by tech-jargon)
 
 Organisational first steps towards (data) quality and speed:
 ============================================================
