@@ -1,7 +1,6 @@
-# PowerGists
+# PowerGists (or elevator pitches about cooperation without tech jargon)
+When you have just seconds to get non-tech-savvy potential users/deciders interested in what some technical subject can mean for improving cooperation.
 Some 'gists' below might inspire to a script for a video clip,<br>
-but for now just short messages to show/explain the WHY of things I tend to explain often (when 'wearing my research data cap')
-
 
 Organisational first steps towards (data) quality and speed:
 ============================================================
