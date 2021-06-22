@@ -58,7 +58,7 @@ SVG:
 ====
 - images that can be static/generated/interactive objects
 - searchable text in any shape, filters, styling, animating, infinite sharp zoom
-- part of the (modular) web and (specifically) composable HTML, used in about anything digital nowadays.
+- part of the (modular) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
 
 <br><br><br>
