@@ -25,7 +25,7 @@ A shared on-line document in which writers and coders can cooperate. Reproducibi
 - Less manual copy-paste between different applications. 
 - Tighter feedback loop between people with different focus (tech-savvy or not, researchers and supporters, reviewers and communicators)
 - Backend can run on High Performance Computing too.
-- Jupyter is probably the most popular, a quick clip about it: https://www.youtube.com/watch?v=eJDxcR1V7Qg
+- Jupyter is probably the most popular, a quick clip about it: https://www.youtube.com/watch?v=eJDxcR1V7Qg (Others are Observable, Rnotebook from Rstudio and many Jupyter derivatives)
 
 Git(hub):
 =========
