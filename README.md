@@ -12,9 +12,9 @@ Organisational first steps towards (data) quality and speed:
 Fully unlock your (DATA) potential:
 ===================================
 - data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
-- linked data: associative as brains and communities
+- Linked Data: associative as brains and communities. Links databases and documents, internal and external, open and closed, and late integration systems.
 - FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
-- knowledge graphs: organizations organized, learning from (content from) each other while doing
+- Knowledge Graphs: organizations organized, learning from (content from) each other while doing
 
 Electronic Lab Notebooks:
 =========================
@@ -56,7 +56,7 @@ Accessibility:
 
 SVG:
 ====
-- images that can be static/generated/interactive objects
+- visuals that can be static/generated/interactive objects
 - searchable text in any shape, filters, styling, animating, infinite sharp zoom
 - part of the (modular) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
