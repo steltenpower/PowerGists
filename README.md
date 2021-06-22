@@ -3,8 +3,8 @@ Some 'gists' below might inspire to a script for a video clip,<br>
 but for now just short messages to show/explain the WHY of things I tend to explain often (when 'wearing my research data cap')
 
 
-First steps towards (data) quality and speed:
-=============================================
+Organisational first steps towards (data) quality and speed:
+============================================================
 - Tiny errors make big errors (elsewhere, later, seemingly unrelated often even unnoticed). Therefore preventing+finding errors should be close, early and relations made visible.
 - Fresh high-quality data should be rewarded by minimizing (other) disturbances. Wonder for a moment what analysis comes from 'just another thing to fill in for management'.
 - People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure data validation and immediate visualization and also analysis later/elsewhere will improve.
