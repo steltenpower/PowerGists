@@ -1,6 +1,5 @@
-# PowerGists (or elevator pitches about cooperation without tech jargon)
-When you have just seconds to get non-tech-savvy potential users/deciders interested in what some technical subject can mean for improving cooperation.
-Some 'gists' below might inspire to a script for a video clip,<br>
+# PowerGists (or elevator pitches about cooperation, towards potential users/deciders easily scared off by tech-jargon)
+When you have just seconds to get non-tech-savvy potential users/deciders interested in what some technical subject can mean for improving cooperation.<br><br>
 
 Organisational first steps towards (data) quality and speed:
 ============================================================
@@ -62,4 +61,6 @@ SVG:
 - part of the (modular) web and specifically (composable) HTML
 - abbreviation for Scalable Vector Graphics
 
-<br><br><br>[For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
+<br><br><br>
+Some 'gists' above might inspire to a script for a video clip,<br>
+[For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
