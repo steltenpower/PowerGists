@@ -12,8 +12,8 @@ Organisational first steps towards (data) quality and speed:
 Fully unlock your (DATA) potential:
 ===================================
 - data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
-- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - linked data: associative as brains and communities
+- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - knowledge graphs: organizations organized, learning from (content from) each other while doing
 
 Electronic Lab Notebooks:
