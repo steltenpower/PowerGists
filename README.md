@@ -3,13 +3,20 @@ Some 'gists' below might inspire to a script for a video clip,<br>
 but for now just short messages to show/explain the WHY of things I tend to explain often (when 'wearing my research data cap')
 
 
-Towards (data) quality and speed:
-=================================
+First steps towards (data) quality and speed:
+=============================================
 - Tiny errors make big errors (elsewhere, later, seemingly unrelated often even unnoticed). Therefore preventing+finding errors should be close, early and relations made visible.
 - Fresh high-quality data should be rewarded by minimizing (other) disturbances. Wonder for a moment what analysis comes from 'just another thing to fill in for management'.
 - People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure data validation and immediate visualization and also analysis later/elsewhere will improve.
 - Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'.
 - Then learn what carpentries.org teaches about spreadsheets. 
+
+Fully unlock your (DATA) potential:
+===================================
+- data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
+- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
+- linked data: associative as brains and communities
+- knowledge graphs: organizations organized, learning from (content from) each other while doing
 
 Electronic Lab Notebook:
 ========================
@@ -34,13 +41,6 @@ Open data:
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to do stuff with
 
-unlock your (DATA) potential:
-=============================
-- data-centric (manifesto): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
-- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
-- linked data: associative as brains and communities
-- knowledge graphs: organizations organized, learning from (content from) each other while doing
-
 FAIR data:
 ==========
 - Domain-specific tagging and archiving make something FINDABLE: keyword can give web address
@@ -61,9 +61,5 @@ SVG:
 - searchable text, filters, styling, animating, infinite zoom
 - part of the (modular) web and specifically (composable) HTML
 - abbreviation for Scalable Vector Graphics
-
-
-
-
 
 <br><br><br>[For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
