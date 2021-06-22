@@ -20,11 +20,12 @@ Fully unlock your (DATA) potential:
 
 Electronic Lab Notebook:
 ========================
-Reproducibility through:
+A shared on-line document in which writers and coders can cooperate. Reproducibility through:
 - No, or less install (differences). Possible within security context of data.
 - Less manual copy-paste between different applications. 
 - Tighter feedback loop between people with different focus (tech-savvy or not, researchers and supporters, reviewers and communicators)
 - Backend can run on High Performance Computing too.
+- Jupyter is probably the most popular, a quick clip about it: https://www.youtube.com/watch?v=eJDxcR1V7Qg
 
 Git(hub):
 =========
