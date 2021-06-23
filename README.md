@@ -9,8 +9,8 @@ Organisational first steps towards (data/content) quality and speed:
 - Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'.
 - Let everybody learn a few basic rules to [avoid Excel pitfalls](https://github.com/steltenpower/avoid-Excel-pitfalls) towards 'tidy data'.
 
-Fully unlock your (DATA) potential:
-===================================
+Fully unlock your (DATA) cooperation potential:
+===============================================
 - [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
 - [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. Links databases and documents, internal and external, open and closed, and late integration systems.
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
