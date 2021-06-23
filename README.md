@@ -13,7 +13,7 @@ Fully unlock your (DATA) potential:
 ===================================
 - [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU decide what you mean, where to store it, in what format and how and where access regime is defined.
 - Linked Data: associative as brains and communities. Links databases and documents, internal and external, open and closed, and late integration systems.
-- FAIR data: Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
+- [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - Knowledge Graphs: organizations organized, learning from (content from) each other while doing
 
 Electronic Lab Notebooks:
