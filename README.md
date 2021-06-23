@@ -61,6 +61,26 @@ SVG:
 - part of the (modular) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
 
+SUGGESTIONS<br>
+WELCOME<br>
+FOR<br>
+OTHER<br>
+SUBJECTS<br>
+TO<br>
+BE<br>
+GENERATING<br>
+INTEREST<br>
+FOR<br>
+WITH<br>
+THESE<br>
+MICRO<br>
+EXPLANATIONS<br>
+OF<br>
+WHY<br>
+========
+
+
+
 <br><br><br>
 Some 'gists' above might inspire to a script for a video clip,<br>
 [For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
