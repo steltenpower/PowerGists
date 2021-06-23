@@ -57,7 +57,7 @@ Accessibility:
 SVG:
 ====
 - visuals that can be static/generated/interactive objects
-- searchable text in any shape, filters, styling, animating, infinite sharp zoom, intrinsically structured/layered
+- searchable text in any shape, filters, styling, animating, infinite sharp zoom, intrinsically structured/layered/relatable
 - part of the (modular) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
 
