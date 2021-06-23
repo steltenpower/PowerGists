@@ -40,7 +40,7 @@ Open data:
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to do stuff with
 
-FAIR (data) principles:
+[FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
 - Domain-specific tagging and archiving make something FINDABLE: keyword can give web address
 - Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
