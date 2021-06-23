@@ -46,6 +46,7 @@ Open data:
 - Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
 - Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data
 - Allowing different things with different licenses makes something REUSABLE: using input data in output data
+- For maximum effect the above should be as early as possible, without taking focus away from the primary work. For example: [A suggestion for FAIR filesViewing](https://github.com/steltenpower/FAIRfilesViewing)
 
 Accessibility:
 ==============
