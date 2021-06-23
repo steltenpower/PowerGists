@@ -11,7 +11,7 @@ Organisational first steps towards (data/content) quality and speed:
 
 Fully unlock your (data) cooperation potential:
 ===============================================
-- [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU decide what you mean, where to store it, in what format and how and where is defined what roles/groups/people have access.
+- [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU decide what you mean, where to store it, in what format and how and where is defined what roles/groups/people have what access.
 - [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. Links databases and documents, internal and external, open and closed, including late integration systems like ESB.
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing
