@@ -21,7 +21,7 @@ Electronic Lab Notebooks:
 Shared on-line documents in which writers and 'programming analysts' can cooperate. Reproducibility through:
 - No, or less install (differences). Possible within security context of data.
 - Less manual copy-paste between different applications. 
-- Tighter feedback loop between people with different focus (tech-savvy or not, researchers and supporters, reviewers and communicators)
+- Tighter feedback loop between people with different focus (tech-savvy or not, researchers and supporters, codecheckers/reviewers and communicators)
 - Backend can run on High Performance Computing (HPC) too.
 - [Jupyter](https://www.youtube.com/watch?v=eJDxcR1V7Qg) is probably the most popular and has many derivatives. Others are Rnotebook(Rstudio) and ObservableHQ.
 
