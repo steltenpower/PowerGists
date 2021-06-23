@@ -52,7 +52,7 @@ Accessibility:
 - Giving people freedom to pick their methods of interaction.
 - Devices are different, people and their preferences are different, circumstances are different and all interact and keep changing.
 - Laws demand certain levels of accessibility, also to minimize limitations brought by handicaps.
-- Accessibility for people also gives (some) accessibility for their (digital) assistants
+- Accessibility for people (also a11y), gives (some) accessibility for their (digital) assistants too
 
 SVG:
 ====
