@@ -35,7 +35,7 @@ De facto standard for managing changes in file sets:
 
 Open data:
 ==========
-- Open licenses, e.g. Creative Commons](https://creativecommons.org/)
+- Open licenses, e.g. [Creative Commons](https://creativecommons.org/)
 - No logins, cookies, or custom apps needed
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to process
