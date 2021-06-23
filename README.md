@@ -38,7 +38,7 @@ Open data:
 - Open license
 - No logins, cookies, or custom apps needed
 - Open specifications and open vocabularies to validate against
-- Next to legally open, also easy to do stuff with
+- Next to legally open, also easy to automatically process
 
 [FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
