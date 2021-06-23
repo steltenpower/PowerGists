@@ -16,8 +16,8 @@ Fully unlock your (data) cooperation potential:
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing
 
-Electronic Lab Notebooks:
-=========================
+Electronic Notebooks:
+=====================
 Shared on-line documents in which writers and 'programming analysts' can cooperate. Reproducibility through:
 - No, or less install (differences). Possible within security context of data.
 - Less manual copy-paste between different applications. 
