@@ -15,6 +15,7 @@ Fully unlock your (data) cooperation potential:
 - [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. Links databases and documents, internal and external, open and closed, including late integration systems like ESB.
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation
 - [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing
+- If you have done a lot of the above, you better allow for Artificial Intelligence (AI) too 
 
 Electronic Notebooks:
 =====================
