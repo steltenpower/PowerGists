@@ -3,7 +3,7 @@
 
 Organisational first steps towards (data/content) quality and speed:
 ====================================================================
-- Tiny errors make big errors (elsewhere, later, seemingly unrelated, often even unnoticed). Therefore preventing+finding errors should be close, early and relations made visible.
+- Tiny errors make big errors (elsewhere, later, seemingly unrelated, often even unnoticed). Therefore preventing and finding errors should be close, early and relations made visible.
 - Fresh high-quality data should be rewarded by minimizing (other) disturbances. Wonder for a moment what analysis comes from 'just another thing to fill in for management'.
 - People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure immediate validation, sharing and loosely coupled visualization and also analysis elsewhere will improve immediately.
 - Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'. The more data is combined, the more sensitive it is to data imperfections.
