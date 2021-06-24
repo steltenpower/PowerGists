@@ -42,6 +42,7 @@ Open data:
 - No logins, cookies, or custom apps needed
 - Open specifications and open vocabularies to validate against
 - Next to legally open, also easy to process
+- Beware: Not all advertised as open data really is. Example: House of Representatives of The Netherlands 'open data'.
 
 [FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
