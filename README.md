@@ -1,5 +1,5 @@
 # PowerGists
-(My personal cheatsheets for elevator pitch/dialogue about cooperation, towards potential users/deciders easily scared off by tech jargon or implementation details)
+(My personal cheatsheets for elevator pitch/dialogue to only spark interest for ways of tech-supported cooperation. Tech jargon and implementation details are for later.)
 
 Organisational first steps towards (data/content) quality and speed:
 ====================================================================
