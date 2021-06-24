@@ -14,7 +14,7 @@ Fully unlock your (data) cooperation potential:
 - [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU decide what you mean, where to store it, in what format and how and where is defined what roles/groups/people have what access.
 - [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. Links databases and documents, internal and external, open and closed, including late integration systems like ESBs. Enables querying any combination of sources, as if one virtual dataset.
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation. Everybody in research data management is working on this. Training by [carpentries.org](carpentries.org) and others gets researchers on board.
-- [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing. Applied in many contexts, sometimes with specific names like Enterprise Knowledge Graphs
+- [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing. Gartner(paywalled):["Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://www.gartner.com/document/3996989)
 - If you have done a lot of the above, you better allow for Artificial Intelligence (AI) too 
 
 Electronic Notebooks:
