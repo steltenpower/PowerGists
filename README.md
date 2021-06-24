@@ -8,6 +8,7 @@ Organisational first steps towards (data/content) quality and speed:
 - People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure immediate validation, sharing and loosely coupled visualization and also analysis elsewhere will improve immediately.
 - Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'.
 - Let everybody learn a few basic rules to [avoid Excel pitfalls](https://github.com/steltenpower/avoid-Excel-pitfalls), towards 'tidy data'.
+- Use pairing to ...
 
 Fully unlock your (data) cooperation potential:
 ===============================================
