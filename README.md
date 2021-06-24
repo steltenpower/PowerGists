@@ -8,7 +8,7 @@ Organisational first steps towards (data/content) quality and speed:
 - People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure immediate validation, sharing and loosely coupled visualization and also analysis elsewhere will improve immediately.
 - Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'. The more data is combined, the more sensitive it is to data imperfections.
 - Let everybody learn a few basic rules to [avoid Excel pitfalls](https://github.com/steltenpower/avoid-Excel-pitfalls), towards 'tidy data'.
-- Pairing, instead of some of the alternation between group discussion and lone work: More immediate-feedback hands-on working with 2. Both at 1 desk making good use of richness of In-Real-Life communication with gestures, objects, etc., and remote with audio connection and simultaneously working in the same application context. As this is a different social construct, it allows for more personalized communication and concrete learning, passed on to sessions with others where applicable.
+- Pairing, instead of some of the alternation between group discussion and lone work: More immediate-feedback hands-on working with 2. Both at 1 desk making good use of richness of In-Real-Life communication with gestures, objects, etc., And remote with audio connection and simultaneously working in the same application context. As this is a different social construct, it allows for more personalized communication and concrete learning, passed on to sessions with others where applicable.
 
 Fully unlock your (data) cooperation potential:
 ===============================================
