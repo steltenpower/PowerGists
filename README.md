@@ -21,7 +21,7 @@ Fully unlock your (data) cooperation potential:
 Electronic Notebooks:
 =====================
 Shared on-line documents in which writers and 'programming analysts' can cooperate effectively and reproducibly through:
-- Tighter feedback loop between people with different focus (tech-savvy or not, researchers and supporters, codecheckers/reviewers and communicators)
+- Tighter feedback loop between people with different focus (tech-savvy and not, researchers and supporters, codecheckers/reviewers and communicators)
 - Less manual copy-paste between different applications. 
 - No, or less, install (differences). Possible within security context of data.
 - Backend can run on High Performance Computing (HPC) too.
