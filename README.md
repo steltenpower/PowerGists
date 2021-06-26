@@ -17,7 +17,7 @@ Fully unlock your (data) cooperation potential:
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation. Everybody in research data management is working on this. Training by [carpentries.org](carpentries.org) and others gets researchers on board.
 - [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing. Gartner (paywalled):["Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://www.gartner.com/document/3996989)
 - If you have done a lot of the above, you better allow for Artificial Intelligence (AI) too 
-- SoLiD (SOcial LInked Data): every user of an application has fine-grained control of their data, hosted outside the application in a so-called dataPOD. Less scattered data, less repeated fields, less monopoly power.
+- SoLiD (Social Linked Data): users of applications have fine-grained control of their data, hosted outside the applications, together in a so-called personal dataPOD. Less scattered data, more standardized therefore less repeated fields, less monopoly power.
 
 Electronic Notebooks:
 =====================
