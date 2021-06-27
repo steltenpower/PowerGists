@@ -12,7 +12,7 @@ Organisational first steps towards (data/content) quality and speed:
 
 Fully unlock your (data) cooperation potential:
 ===============================================
-- [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU as an organisation decide what you mean exactly, where to store it, in what format, and how and where is defined what roles/groups/people have what access (full/no/structural/anonimized/synthetic, stream/read/write/reshare).
+- [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU as an organisation decide what you mean exactly, where to store it, in what open format, and how and where is defined what roles/groups/people have what access (full/no/structural/anonimized/synthetic, stream/read/write/reshare). You may want applications that are open source with active communities too.
 - [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. Links databases and documents, internal and external, open and closed, including late integration systems like ESBs, by early chosen standard vocabularies. Enables querying any combination of sources, as if one virtual dataset.
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling earlier, wider, AI-assisted cooperation. Everybody in research data management is working on this. Training by [carpentries.org](carpentries.org) and others gets researchers on board.
 - [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020): organizations organized, learning from (content from) each other while doing. Gartner (paywalled):["Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://www.gartner.com/document/3996989)
