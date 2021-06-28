@@ -63,7 +63,7 @@ SVG:
 ====
 - static/generated/interactive VISUALS consisting of objects that are intrinsically structured/layered/relatable, making it the usual format for visualizing anything expressed in some data file or domain-specific language.
 - searchable text in any shape, filters, styling, animating, infinite sharp zoom
-- part of the (modular) web and (specifically) composable HTML; anything in the browser and loads of apps too.
+- part of the (modular and semantic) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
 
 SUGGESTIONS<br>
