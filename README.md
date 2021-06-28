@@ -46,9 +46,10 @@ Open data:
 
 [FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
-- Rich domain-specific 'tagging' and archiving make something FINDABLE (via general and domain-specific search engines): keyword can give web address
+- Rich domain-specific metadata 'tagging' and archiving make something FINDABLE (via general and domain-specific search engines): keyword can give web address
 - Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
-- Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data
+- Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data.
+Helps findable too.
 - Allowing different things with different licenses makes something REUSABLE: using input data in output data
 - For maximum effect the above should be as EARLY as possible, within the primary workflow. For example: [A suggestion for FAIR filesViewing](https://github.com/steltenpower/FAIRfilesViewing)
 
