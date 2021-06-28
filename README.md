@@ -66,6 +66,11 @@ SVG:
 - part of the (modular and semantic) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
 
+Artificial Intelligence:
+========================
+Is advanced pattern recognition. Might elaborate later.
+
+
 SUGGESTIONS<br>
 WELCOME<br>
 FOR<br>
