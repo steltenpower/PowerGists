@@ -15,7 +15,7 @@ Fully unlock your (data) cooperation potential:
 - [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU as an organisation decide what you mean exactly, where to store it, in what open format, and how and where is defined what roles/groups/people have what access (full/no/structural/privacy-improved/synthetic, stream/read/write/reshare). You may want applications that are open source with active communities too.
 - [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. Links databases and documents, internal and external, open and closed, including late integration systems like ESBs, by early chosen standard vocabularies. Enables querying any combination of sources, as if one virtual dataset. Also known as "semantic web".
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling faster research with earlier, wider, AI-assisted cooperation. Everybody in research data management is working on this. Training by [carpentries.org](carpentries.org) and others gets researchers on board.
-- <a name="KG">[Knowledge Graphs*](https://open.hpi.de/courses/knowledgegraphs2020)</a>: Organizations organized, learning from (content from) each other while doing. [Gartner short video "Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://cfvod.kaltura.com/pd/p/585951/sp/58595100/serveFlavor/entryId/1_2dmwcmmz/v/1/ev/5/flavorId/1_tgmjrzqe/name/a.mp4) and (paywalled) [the full article](https://www.gartner.com/document/3996989). *=link to MOOC I did.
+- <a name="KG">[Knowledge Graphs*](https://open.hpi.de/courses/knowledgegraphs2020)</a>: Organizations organized, learning from (content from) each other while doing. [Gartner short video "Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://cfvod.kaltura.com/pd/p/585951/sp/58595100/serveFlavor/entryId/1_2dmwcmmz/v/1/ev/5/flavorId/1_tgmjrzqe/name/a.mp4) and (paywalled) [the full article](https://www.gartner.com/document/3996989). *=link to course I did.
 - SoLiD? (Social Linked Data): users of applications have fine-grained control of their data, hosted outside the applications, together in a so-called personal dataPOD. Less scattered data, more standardized therefore less repeated fields, less monopoly power.
 
 Electronic Notebooks:
@@ -63,8 +63,9 @@ SVG:
 ====
 - static/generated/interactive VISUALS consisting of objects that are intrinsically structured/layered/relatable, making it a common (often 'under the hood') format for visualizing anything expressed in some regular data format or domain-specific language.
 - searchable text in any shape, filters, styling, animating, infinite sharp zoom
-- part of the (modular and semantic) web and (specifically) composable HTML; anything in the browser and loads of apps too.
+- part of the (open, modular and semantic) web and (specifically) composable HTML; anything in the browser and loads of apps too.
 - abbreviation of Scalable Vector Graphics
+- Give me a time limit up-front when you ask me about this: On invitation I've written some technical articles on how to code/create things with SVG, given some presentations, but most importantly I've brought people together on SVG and other graphical web technologies from all around the world, being the main organisor twice: University of Twente (2005) and Google HeadQuarters (2009)
 
 Artificial Intelligence (AI):
 ========================
