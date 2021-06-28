@@ -58,6 +58,7 @@ Accessibility:
 - Devices are different, people and their preferences are different, circumstances are different and all interact and keep changing.
 - Laws demand certain levels of accessibility, also to minimize limitations brought by handicaps.
 - Accessibility for people (also a11y), gives (some) accessibility for their (digital) assistants too
+- Being data-centric, you might have APIs to allow (custom) User Interfaces that fit productivity and creativity. It's about the result after all, speaking the same language. Of course there's efficiency in having a strong default for tools, but you're not enforcing absolutely all different people to use the same hammer for every nail, or even screw, are you? 
 
 SVG:
 ====
