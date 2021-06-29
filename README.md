@@ -73,29 +73,21 @@ SVG:
 
 Artificial Intelligence (AI):
 ========================
-Is advanced pattern recognition. Might elaborate later.
+Is advanced pattern recognition applied. Might elaborate later.
 
-
-SUGGESTIONS<br>
-WELCOME<br>
-FOR<br>
-OTHER<br>
-SUBJECTS<br>
-TO<br>
-BE<br>
-GENERATING<br>
-INTEREST<br>
-FOR<br>
-WITH<br>
-THESE<br>
-MICRO<br>
-EXPLANATIONS<br>
-OF<br>
-WHY<br>
+HAVE A SUBJECT TO ADD?
 ========
+...
 
+WHICH TO TURN INTO A VIDEO (SCRIPT)?
+===
+*For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary*
 
-
-<br><br><br>
-Some 'gists' above might inspire to a script for a video clip,<br>
-[For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary.]
+AND FOR THOSE NOW INTERESTED IN SEEING SOME ACTUAL ACTION:
+===
+I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities, with no or minimized setup and coding.
+*If that or anything else I mentioned here makes you want to talk with me, you'll figure out how.*<br>
+<br>
+On the subject of playgrounds ...
+<br>
+Scientific 'papers' are narratives in increasingly rich publications: Already data is demanded almost everywhere and some journals/platforms want eNotebooks to ease (code)review, but not too far in the future expect interactive models that anybody can turn the knobs in, helping them understand.
