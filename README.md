@@ -18,6 +18,7 @@ Fully unlock your (data) cooperation potential:
 - <a name="KG">[Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020) (link is to course I did)</a>: Organizations organized, learning from (content from) each other while doing. [Gartner short video "Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://cfvod.kaltura.com/pd/p/585951/sp/58595100/serveFlavor/entryId/1_2dmwcmmz/v/1/ev/5/flavorId/1_tgmjrzqe/name/a.mp4) and (paywalled) [the full article](https://www.gartner.com/document/3996989).
 - SoLiD? (Social Linked Data): users of applications have fine-grained control of their data, hosted outside the applications, together in a so-called personal dataPOD. Less scattered data, more standardized therefore less repeated fields, less monopoly power.
 - Data Management Plans and both data and everything else IT on the balance sheet, for both value and vulnerability.
+- Project results may need assistance and dynamic infrastructure to enable (later) moving it to a different project or standing organisation.
 
 Electronic Notebooks:
 =====================
