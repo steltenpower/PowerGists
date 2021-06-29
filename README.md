@@ -8,12 +8,12 @@ Organisational first steps towards (data/content) quality and speed:
 - People working/living in immediate context of the data usually know best what values/patterns make sense. Help them configure immediate validation, sharing and loosely coupled visualization and also analysis elsewhere will improve immediately.
 - Start by turning on spelling checkers, especially because our digital assistents (starting with search) are easily 'confused'. The more data is combined, the more sensitive it is to data imperfections.
 - Let everybody learn a few basic rules to [avoid Excel pitfalls](https://github.com/steltenpower/avoid-Excel-pitfalls), towards 'tidy data'.
-- Pairing, instead of some of the alternation between group discussion and lone work: More immediate-feedback hands-on working with 2 people. Both at 1 desk making good use of richness of In-Real-Life communication with gestures, objects, etc., And remote with audio connection and simultaneously working in the same application context. As this is a different social construct, it allows for more personalized communication and concrete learning, passed on to sessions with others where applicable.
+- Pairing, instead of some of the alternation between group discussion and lone work: More immediate-feedback hands-on working with 2 people. Both at 1 desk making good use of richness of In-Real-Life communication with gestures, physical objects, etc., And remote with audio connection and simultaneously working in the same application context. As this is a different social construct, it allows for more personalized communication and concrete learning, passed on to sessions with others where applicable.
 
 Fully unlock your (data) cooperation potential:
 ===============================================
 - [data-centric (manifesto)](http://datacentricmanifesto.org/): Not apps, but YOU as an organisation decide what you mean exactly, where to store it, in what open format, and how and where is defined what roles/groups/people have what access (full/no/structural/privacy-improved/synthetic, remote/read/write/reshare). You may want applications that are open source with active communities too. You most likely need data-cleaning tools like OpenRefine.
-- [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. [Links](https://dvcs.w3.org/hg/rdf/raw-file/tip/rdf-primer/example-graph.jpg) databases and [documents](https://rdfa.info/), internal and external, [open](https://lod-cloud.net/clouds/lod-cloud.svg) and closed, including late integration systems like ESBs, by early chosen standard [vocabularies](https://lov.linkeddata.es/dataset/lov/). Enables querying any combination of sources, as if one virtual dataset. Also known as "semantic web".
+- [Linked Data](https://en.wikipedia.org/wiki/Linked_data): associative as brains and communities. [Links](https://dvcs.w3.org/hg/rdf/raw-file/tip/rdf-primer/example-graph.jpg) databases and [documents](https://rdfa.info/), internal and external, [open](https://lod-cloud.net/clouds/lod-cloud.svg) and closed, including late integration systems like ESBs, by early chosen standard [vocabularies](https://lov.linkeddata.es/dataset/lov/). Enables querying any combination of sources, as if one virtual dataset. Also known as "semantic web". Most Linked Data is 'hidden under the hood' by programmers, I wondered if end users could be more directly involved with the concepts which resulted in a rough draft for [multi-user knowledge-based mindmapping/dialogue](https://github.com/steltenpower/Train-Of-Thought).
 - [FAIR data](#fair-data-principles): Findable-Accessible-INTEROPERABLE-Reusable; enabling faster research with earlier, wider, AI-assisted cooperation. Everybody in research data management is working on this. Training by [carpentries.org](carpentries.org) and others gets researchers on board.
 - <a name="KG">[Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020) (link is to course I did)</a>: Organizations organized, learning from (content from) each other while doing. [Gartner short video "Top Trends in Data and Analytics for 2021: Graph Relates Everything"](https://cfvod.kaltura.com/pd/p/585951/sp/58595100/serveFlavor/entryId/1_2dmwcmmz/v/1/ev/5/flavorId/1_tgmjrzqe/name/a.mp4) and (paywalled) [the full article](https://www.gartner.com/document/3996989).
 - SoLiD? (Social Linked Data): users of applications have fine-grained control of their data, hosted outside the applications, together in a so-called personal dataPOD. Less scattered data, more standardized therefore less repeated fields, less monopoly power.
@@ -22,7 +22,7 @@ Fully unlock your (data) cooperation potential:
 Electronic Notebooks:
 =====================
 Shared on-line documents in which writers and 'programming analysts' can cooperate effectively and reproducibly through:
-- Tighter feedback loop between people with different focus (tech-savvy and not, researchers and supporters, codecheckers/reviewers and communicators)
+- Tighter feedback loop between people with different focus: tech-savvy and not, researchers and supporters, codecheckers/reviewers and communicators. A web in which I'd love to be adding value, helping, connecting.
 - Less manual copy-paste between different applications. 
 - No, or less, install (differences). Possible within security context of data.
 - Backend can run on High Performance Computing (HPC) too.
@@ -48,7 +48,7 @@ Open data:
 [FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
 - Rich domain-specific metadata 'tagging' and archiving make something FINDABLE (via general and domain-specific search engines): keyword can give web address
-- Persistent identifiers and (machine-readable) conditions for visitors make something ACCESSIBLE: web address can give file
+- Persistent identifiers and (machine-readable) prerequisites for visitors make and keep something ACCESSIBLE: web address can give file. Persistent identifiers (DOI, ORCID, etc.) are not only infrastructure less vulnerable to common changes, but usually also demand metadata, wich helps Findable.
 - Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data.
 Helps findable too.
 - Allowing different things with different licenses makes something REUSABLE: using input data in output data
