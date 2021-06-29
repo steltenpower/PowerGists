@@ -83,7 +83,7 @@ WHICH TO TURN INTO A VIDEO (SCRIPT)?
 ===
 *For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary*
 
-AND FOR THOSE NOW INTERESTED IN SEEING SOME ACTUAL ACTION:
+NOW INTERESTED IN SEEING SOME ACTUAL ACTION:
 ===
 I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities, with no or minimized setup and coding.
 *If that or anything else I mentioned here makes you want to talk with me, you'll figure out how.*<br>
