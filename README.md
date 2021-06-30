@@ -19,7 +19,7 @@ Fully unlock your (data) cooperation potential:
 - SoLiD? (Social Linked Data): users of applications have fine-grained control of their data, hosted outside the applications, together in a so-called personal dataPOD. Less scattered data, more standardized therefore less repeated fields, less monopoly power.
 - Data Management Plans and both data and everything else IT on the balance sheet, for both value and vulnerability.
 - Project results may need assistance and dynamic infrastructure to enable (later) moving it to a different project or standing organisation.
-- Clearly there are different types of IT (office IT, research IT, factory IT, etc.) that need different people. If you haven't yet figured out what type I think about the most,  surf.nl and esciencecenter.nl give an idea.
+- Clearly there are different types of IT (office IT, research IT, factory IT, etc.) that need different people. If you haven't yet figured out what type of IT I think about the most, surf.nl and esciencecenter.nl give an idea.
 
 Electronic Notebooks:
 =====================
@@ -84,7 +84,7 @@ WHICH TO TURN INTO A VIDEO (SCRIPT)?
 ===
 *For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary*
 
-NOW INTERESTED IN SEEING SOME ACTUAL ACTION:
+NOW INTERESTED IN SEEING SOME ACTUAL ACTION?:
 ===
 I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities, with no or minimized setup and coding.
 *If that or anything else I mentioned here makes you want to talk with me, you'll figure out how.*<br>
@@ -92,3 +92,7 @@ I'll be helping on collecting/configuring data playgrounds where you can try and
 On the subject of playgrounds ...
 <br>
 Scientific 'papers' are narratives in increasingly rich publications: Already data is demanded almost everywhere and some journals/platforms want eNotebooks to ease (code)review, but not too far in the future expect interactive models that anybody can turn the knobs on, helping them understand.
+
+STILL DON'T THINK I'M CRAZY?:
+===
+I do have [crazy ideas](https://github.com/topics/steltenrepo?o=desc&s=updated) though, that I write down to clear my mind. But I have no time to further research or implement them, but maybe you can help in some way ...
