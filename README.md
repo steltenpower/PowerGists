@@ -19,6 +19,7 @@ Fully unlock your (data) cooperation potential:
 - SoLiD? (Social Linked Data): users of applications have fine-grained control of their data, hosted outside the applications, together in a so-called personal dataPOD. Less scattered data, more standardized therefore less repeated fields, less monopoly power.
 - Data Management Plans and both data and everything else IT on the balance sheet, for both value and vulnerability.
 - Project results may need assistance and dynamic infrastructure to enable (later) moving it to a different project or standing organisation.
+- Clearly there are different types of IT (office IT, research IT, factory IT, etc.) that need different people. If you haven't yet figured out what type I think about the most,  surf.nl and esciencecenter.nl give an idea.
 
 Electronic Notebooks:
 =====================
