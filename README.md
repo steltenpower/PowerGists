@@ -78,7 +78,7 @@ Is advanced pattern recognition applied. Might elaborate later.
 
 HAVE A SUBJECT TO ADD?
 ========
-...
+Just let me know what you have/want
 
 WHICH TO TURN INTO A VIDEO (SCRIPT)?
 ===
