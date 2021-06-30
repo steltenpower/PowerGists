@@ -99,3 +99,8 @@ Scientific 'papers' are a narrative part in increasingly richer publications: Al
 STILL DON'T THINK I'M CRAZY?:
 ===
 I do have [crazy ideas](https://github.com/topics/steltenrepo?o=desc&s=updated) though, that I write down to clear my mind. But I have no time to further research or implement them, but maybe you can help in some way ...
+
+WHAT ABOUT JARGON?:
+===
+If you insist, have some:
+AJB,BOM,CSS,D3,ELN,FUN,GIT,HTML,i18n,JS,K-means,LOVE,md,N3,OWL,P-value,QA,RE,SVG,TSV,UX,VRE,WWW,XR,YAML,ZZZ
