@@ -30,6 +30,7 @@ Shared on-line documents in which writers and 'programming analysts' can coopera
 - Backend can run on High Performance Computing (HPC) too.
 - [Jupyter](https://www.youtube.com/watch?v=eJDxcR1V7Qg) is probably the most popular and has many derivatives. Others are Rnotebook(Rstudio) and ObservableHQ.
 - For different contexts it is possible to view a conversion to a different format: static Word/PDF, stand-alone interactive HTML, data-linked but non-editable notebook.
+- Properly explained in (paywalled) ["Using Jupyter for Reproducible Scientific Workflows"](https://doi.org/10.1109/mcse.2021.3052101)
 
 Git(hub):
 =========
