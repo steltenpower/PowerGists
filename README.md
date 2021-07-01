@@ -47,7 +47,7 @@ Open data:
 - No logins, cookies, or custom apps needed
 - Open specifications and open vocabularies to validate against.
 - Next to legally open, also easy to process
-- Beware: Not all advertised as open data really is. Example: House of Representatives of The Netherlands 'open data'.
+- Beware: Not all advertised as open data really is. Example: House of Representatives of The Netherlands 'open data'. Scraping :-(
 
 [FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
@@ -103,4 +103,4 @@ I do have [crazy ideas](https://github.com/topics/steltenrepo?o=desc&s=updated) 
 WHAT ABOUT JARGON?:
 ===
 If you insist, have some:<br>
-AJB,BOM,CSS,D3,ELN,FUN,GIT,HTML,i18n,JS,K-means,LOVE,md,N3,OWL,P-value,QA,RE,SVG,TSV,UX,VRE,WWW,XR,YAML,ZZZ
+AJB,BOM,CSS,D3,ELN,FUN,GIS,HTML,i18n,JS,K-means,LOVE,md,N3,OWL,P-value,QA,RE,SVG,TSV,UX,VRE,WWW,XR,YAML,ZZZ
