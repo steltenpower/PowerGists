@@ -94,7 +94,7 @@ I'll be helping on collecting/configuring data playgrounds where you can try and
 <br>
 On the subject of playgrounds ...
 <br>
-Scientific 'papers' are a narrative part in increasingly richer publications: Already data is demanded almost everywhere and some journals/platforms want eNotebooks to ease (code)review, but not too far in the future expect interactive models that anybody can turn the knobs on, helping them understand.
+Scientific 'papers' are a narrative part in increasingly richer publications: Already data is demanded almost everywhere and some journals/platforms want eNotebooks to ease (code)review, but not too far in the future expect interactive models that anybody can turn the knobs on, helping them understand[.](https://doi.org/10.1016/j.patter.2020.100103)
 
 STILL DON'T THINK I'M CRAZY?:
 ===
