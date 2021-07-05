@@ -52,7 +52,7 @@ Open data:
 [FAIR (data) principles](https://www.go-fair.org/fair-principles/):
 ======================
 - Rich domain-specific metadata 'tagging' and archiving make something FINDABLE (via general and domain-specific search engines): keyword can give web address
-- Persistent identifiers and (machine-readable) prerequisites for visitors make and keep something ACCESSIBLE: web address can give file. Persistent identifiers (DOI, ORCID, etc.) are not only infrastructure less vulnerable to common changes, but usually also demand metadata, wich helps Findable.
+- Persistent identifiers and (machine-readable) prerequisites for visitors make and keep something ACCESSIBLE: web address can give file. Persistent identifiers (DOI, ORCID, etc.) are not only infrastructure less vulnerable to common changes, but usually also demand standardized metadata, wich helps Findable.
 - Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data.
 Helps findable too.
 - Allowing different things with different licenses makes something REUSABLE: using input data in output data
