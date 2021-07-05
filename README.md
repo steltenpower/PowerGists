@@ -1,5 +1,5 @@
 # PowerGists
-Some PERSONAL cheatsheets for elevator pitch/dialogue to spark interest for value that tech-supported ways of cooperation can deliver. Tech jargon, examples, implementation details are for later. It is NOT VERY SELF-EXPLAINING, as it was written for ME. Below are some core ingredients that I use in custom explanation quite often. Even though it was not aimed to be communication language by itself, some say it does help them as such.
+Some PERSONAL cheatsheets for elevator pitch/dialogue to spark interest for value that tech-supported ways of cooperation can deliver. Tech jargon, examples, implementation details are for later. The content is NOT VERY SELF-EXPLAINING, as they are core ingredients written for only ME, that I tend to explain in actual communication often in some specific contexts. Some people still found it useful as such, so I shared it here.
 
 Organisational first steps towards (data/content) quality and speed:
 ====================================================================
