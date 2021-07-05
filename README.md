@@ -53,9 +53,9 @@ Open data:
 ======================
 - Rich domain-specific metadata 'tagging' and archiving make something FINDABLE (via general and domain-specific search engines): keyword can give web address
 - Persistent identifiers and (machine-readable) prerequisites for visitors make and keep something ACCESSIBLE: web address can give file. Persistent identifiers (DOI, ORCID, etc.) are not only infrastructure less vulnerable to common changes, but usually also demand standardized metadata, wich helps Findable.
-- Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data.
+- Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data (including formats commonly referred to as content).
 Helps findable too.
-- Allowing different things with different licenses makes something REUSABLE: using input data in output data
+- Allowing different things with different licenses makes something REUSABLE: using input data in output data. Licenses are found in metadata, the file itself, or both.
 - For maximum effect the above should be as EARLY as possible, within the primary workflow. For example: [A suggestion for FAIR filesViewing](https://github.com/steltenpower/FAIRfilesViewing)
 
 Accessibility:
