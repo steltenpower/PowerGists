@@ -33,7 +33,7 @@ Shared on-line documents in which writers and 'programming analysts' can coopera
 - Properly explained in (paywalled) ["Using Jupyter for Reproducible Scientific Workflows"](https://doi.org/10.1109/mcse.2021.3052101)
 - Notebooks became much friendlier to non-techies, since this was shot, but [some basic principles shown in short video](https://www.youtube.com/watch?v=HW29067qVWk).
 
-Git(hub):
+Git(Hub/Lab/etc):
 =========
 De facto standard for managing changes in file sets:
 - Simultaneously working on the same file with multiple apps/users is no problem.
