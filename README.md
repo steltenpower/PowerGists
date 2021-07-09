@@ -74,6 +74,10 @@ SVG:
 - abbreviation of Scalable Vector Graphics
 - Give me a time limit up-front when you ask me about this: On invitation I've written some technical articles on how to code/create things with SVG, given some presentations, but most importantly I've brought people together on SVG and other graphical web technologies from all around the world, being the main organisor twice: University of Twente (2005) and Google HeadQuarters (2009)
 
+APA:
+===
+paper-era thing I'll explain later
+
 Artificial Intelligence (AI):
 ========================
 Is advanced pattern recognition applied. Might elaborate later.
