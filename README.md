@@ -26,7 +26,8 @@ Electronic Notebooks:
 Shared on-line documents in which writers and 'programming analysts' can cooperate effectively and reproducibly through:
 - Tighter feedback loop between people with different focus: tech-savvy and not, researchers and supporters (both of the dedicated official and technical community type), codecheckers/reviewers and communicators. A web in which I'd love to be adding value, helping, connecting.
 - Less manual copy-paste between different applications. 
-- No, or less, install (differences). Possible within security context of data. Make sure early that people you (might) need in that security context, are allowed. Paperwork can take long, or make things near impossible. Actually technically activating access takes just seconds.
+- No, or less, install (differences).
+- Possible within security context of data. Make sure early that people you (might) need in that security context, are ready to be added, as non-disclosure paperwork can take long, or make things near impossible.
 - Backend can run on High Performance Computing (HPC) too.
 - [Jupyter](https://www.youtube.com/watch?v=eJDxcR1V7Qg) is probably the most popular and has many derivatives. Others are Rnotebook(Rstudio) and ObservableHQ.
 - For different contexts it is possible to view a conversion to a different format: static Word/PDF, stand-alone interactive HTML, data-linked but non-editable notebook.
