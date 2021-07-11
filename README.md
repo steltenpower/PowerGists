@@ -56,7 +56,7 @@ Open data:
 - Persistent identifiers and (machine-readable) prerequisites for visitors make and keep something ACCESSIBLE: web address can give file. Persistent identifiers (DOI, ORCID, etc.) are not only infrastructure less vulnerable to common changes, but usually also demand standardized metadata, wich helps Findable.
 - Common open file formats and vocabulaires make something INTEROPERABLE: file can give compatible data (including formats commonly referred to as content).
 Helps findable too.
-- Allowing different things with different licenses makes something REUSABLE: using input data in output data. Licenses are found in metadata, the file itself, or both.
+- Licenses make data REUSABLE: allowing using input data in result data. Licenses, possibly more than one, are found in metadata, the file itself, or both.
 - For maximum effect the above should be as EARLY as possible, within the primary workflow. For example: [A suggestion for FAIR filesViewing](https://github.com/steltenpower/FAIRfilesViewing)
 
 Accessibility:
@@ -80,7 +80,7 @@ Literature references, citation styles, APA, reference managers, citation/refere
 When you're building on or using, the work of others, you have to mention that.
 For consistency and findability several styles for such reference/citation are designed.
 Scientific articles are demanded to use a specific style, by journals (even though most are digital-only nowadays).
-Generating in that style is usually done by reference managers (Endnote, Zotero, others) based on data in exchange formats (BibTeX, RIS, others)
+Generating in that style is usually done by reference managers (Endnote, Zotero, others) based on data in exchange formats (BibTeX, RIS, others). Before you start storing your references somewhere, make sure you can export them in common formats.
 
 Artificial Intelligence (AI):
 ========================
