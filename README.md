@@ -74,9 +74,20 @@ SVG:
 - abbreviation of Scalable Vector Graphics
 - Give me a time limit up-front when you ask me about this: On invitation I've written some technical articles on how to code/create things with SVG, given some presentations, but most importantly I've brought people together on SVG and other graphical web technologies from all around the world, being the main organisor twice: University of Twente (2005) and Google HeadQuarters (2009)
 
-APA:
+Literature references, citation styles, APA, reference managers, citation/reference exchange data formats:
 ===
-paper-era thing I'll explain later
+When you're building on, or using the work of others, you have to mention that.
+For consistency and findability several styles for such reference/citation are designed.
+Scientific journals demand articles to use a specific one.
+To help automation of using such a style Citation Style Language (CSL) 
+
+BIBTEX
+
+Endnote, Zotero
+
+
+paper-era thing.
+
 
 Artificial Intelligence (AI):
 ========================
