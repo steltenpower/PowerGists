@@ -76,18 +76,10 @@ SVG:
 
 Literature references, citation styles, APA, reference managers, citation/reference exchange data formats:
 ===
-When you're building on, or using the work of others, you have to mention that.
+When you're building on or using, the work of others, you have to mention that.
 For consistency and findability several styles for such reference/citation are designed.
-Scientific journals demand articles to use a specific one.
-To help automation of using such a style Citation Style Language (CSL) 
-
-BIBTEX
-
-Endnote, Zotero
-
-
-paper-era thing.
-
+Scientific articles are demanded to use a specific style, by journals (even though most are digital-only nowadays).
+Generating in that style is usually done by reference managers (Endnote, Zotero, others) based on data in exchange formats (BibTeX, RIS, others)
 
 Artificial Intelligence (AI):
 ========================
