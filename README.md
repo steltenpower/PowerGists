@@ -84,6 +84,10 @@ Literature references, citation styles, APA, reference managers, citation/refere
 - Before you start storing your references somewhere, make sure you can export them in common formats.
 - The global network of citations between works is used to find more related work, people to cooperate with and to do impact analysis. Use DOIs and ORCIDs (unique identifiers for works and researchers) and see [OpenCitations](http://opencitations.net/about), Scopus, Web Of Science, Google Scholar and others, but also [alt(ernative) metrics](https://en.wikipedia.org/wiki/Altmetrics)
 
+Containers:
+===
+Rather well-explained in https://www.youtube.com/watch?v=HelrQnm3v4g
+
 Artificial Intelligence (AI):
 ========================
 Is advanced pattern recognition applied. Might elaborate later.
