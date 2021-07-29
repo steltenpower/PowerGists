@@ -1,6 +1,8 @@
 # PowerGists
 Some PERSONAL CHEATSHEETS for elevator pitch/dialogue to spark interest for value that tech-supported ways of cooperation can deliver. Tech jargon, examples, implementation details are for later. The content is NOT SUPER SELF-EXPLAINING, as they are core ingredients WRITTEN FOR ONLY MYSELF, that I tend to explain in actual communication often in some specific contexts. Some people still found it useful as such, so I shared it here.
 
+![](https://steenschledermann.files.wordpress.com/2014/05/no-thanks-were-too-busy1.jpg)
+
 Organisational first steps towards (data/content) quality and speed:
 ====================================================================
 - Tiny errors make big errors (elsewhere, later, seemingly unrelated, often even unnoticed). Therefore preventing and finding errors should be close, early and relations made visible.
