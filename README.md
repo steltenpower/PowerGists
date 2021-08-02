@@ -102,7 +102,26 @@ WHICH TO TURN INTO A VIDEO (SCRIPT)?
 ===
 eNotebooks maybe?
 *For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary*
-
+<pre>
+PAPER GOT CLOUDY:
+- clay and catapults
+- trees and airplanes
+- glass and floppies
+- web and multi-cursor
+STILL WASTING THROUGH PASTING:
+- manual errors
+- less insight in progress
+- no source, no trying and learning
+- no updates
+WEDDING BY EMBEDDING
+- general web embeds
+- and specific notebook code cells
+- 
+CONVERT
+- you can convert notebooks into many common formats
+- or convert people into using them directly
+- Try Jupyter, Rnotebook and Observable
+</pre>
 NOW INTERESTED IN SEEING SOME ACTUAL ACTION?:
 ===
 I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities, with no or minimized setup and coding.
