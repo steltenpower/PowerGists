@@ -104,9 +104,10 @@ eNotebooks maybe? Let me try ...<br><br>
 _ wikipedia article on Electronic_lab_notebook as title screen_
 _fuzz and fade out everything but the title and then slam a question on 4 times: WHAT? WHY? WHERE? HOW?_
 
-PAPER GOT CLOUDY _scrolling horizontally through time_:
-- _cavemen chiseling tablet, then sending it with trebuchet_ "To ease the heavy transport, writers wished for lighter tablets"
-- _Throwing a paper airplane towards someone else's desk, which on the way get hits by bird droppings_ A featherlight material was found, however easily stained"
+PAPER GOT CLOUDY, _scrolling horizontally through time_:
+- _cavemen chiseling tablet, then sending it with trebuchet_ ; "To ease the heavy transport, writers wished for lighter tablets"
+- _Throwing a paper airplane towards someone else's desk_ ; "A featherlight material was found"
+-  _which on the way get hits by bird droppings; "however easily stained"
 - "A problem much later found to be a feature too" _bird loses feather by flying heavy tablet, which drops on the lighter tablet drawing a line_
 - "Too shield these documents from stains, all sorts of envelopes were designed" _show envelopes and floppy disks_
 -  from which it could be projected on glass plates" _floppy is thrown to the next person_
