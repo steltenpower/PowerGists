@@ -100,28 +100,35 @@ Just let me know what you have/want
 
 WHICH TO TURN INTO A VIDEO (SCRIPT)?
 ===
-eNotebooks maybe?
-*For the title shot: zoom in on (Wikipedia) page for the title, a draft if necessary*
-<pre>
-PAPER GOT CLOUDY:
-- clay and catapults
-- trees and airplanes
-- glass and floppies
+eNotebooks maybe? Let me try ...<br><br>
+_ wikipedia article on Electronic_lab_notebook as title screen_
+_fuzz and fade out everything but the title and then slam a question on 4 times: WHAT? WHY? WHERE? HOW?_
+
+PAPER GOT CLOUDY _scrolling horizontally through time_:
+- _cavemen chiseling tablet, then sending it with trebuchet_ "To ease the heavy transport, writers wished for lighter tablets"
+- _Throwing a paper airplane towards someone else's desk, which on the way get hits by bird droppings_ A featherlight material was found, however easily stained"
+- "A problem much later found to be a feature too" _bird loses feather by flying heavy tablet, which drops on the lighter tablet drawing a line_
+- "Too shield these documents from stains, all sorts of envelopes were designed" _show envelopes and floppy disks_
+-  from which it could be projected on glass plates" _floppy is thrown to the next person_
+- "A typewriter was modified to work behind this glass plate too and named a projection changer (PC)" 
+- 
 - web and multi-cursor
-STILL WASTING THROUGH PASTING:
+
+WASTING THROUGH PASTING:
 - manual errors
 - less insight in progress
 - no source, no trying and learning
 - no updates
-WEDDING BY EMBEDDING
+
+WEDDING BY EMBEDDING:
 - general web embeds
 - and specific notebook code cells
-- 
-CONVERT
+
+CONVERT OR NOT?:
 - you can convert notebooks into many common formats
 - or convert people into using them directly
 - Try Jupyter, Rnotebook and Observable
-</pre>
+
 NOW INTERESTED IN SEEING SOME ACTUAL ACTION?:
 ===
 I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities, with no or minimized setup and coding.
