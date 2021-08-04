@@ -114,15 +114,14 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - "Projection Chambers (PCs) made those popular"; _a monitor being a glass plate, a lamp and a disk station half way_
 - "For untalented scribblers, an internal stamp contraption operated by external rows of keys could be added"; _connecting a keyboard_
 - "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" _show cursor_
-- "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" _add antennas to PCs, throw a wad of paper into the clouds, add some sparks to both_
+- "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
 
-All of the above is nonsense to make a point: our documents are still rather static, editing rather manual, and cooperating clumsely managed. Especially when everybody in this multi-disciplinary world keeps talking about something I have not even mentioned yet: DATA!, FAIR?
+All of the above is nonsense to make a point: Isn't most of our document interaction like a sheet of paper behind a glass plate? It's rather static, editing rather manual, and cooperating limited. Especially when everybody in this multi-disciplinary world keeps talking about something I have not even mentioned yet: DATA!, FAIR?
 
-
-WASTING THROUGH PASTING:
+You mostly bring that in by COPY-PASTING, IS WASTING:
 - manual errors
 - less insight in progress
-- no source, no trying and learning
+- no source, no trying and learning, not reproducible
 - no updates
 
 WEDDING BY EMBEDDING:
