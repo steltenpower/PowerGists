@@ -104,17 +104,20 @@ eNotebooks maybe? Let me try ...<br><br>
 _ wikipedia article on Electronic_lab_notebook as title screen_
 _fuzz and fade out everything but the title and then slam a question on 4 times: WHAT? WHY? WHERE? HOW?_
 
-PAPER GOT CLOUDY, _scrolling horizontally through time_:
-- _cavemen chiseling tablets_ ; "invention of writing was applauded". Illiterates.
-- then sending it with trebuchet_ ; "To ease the heavy transport, writers wished for lighter tablets"
-- _Throwing a paper airplane towards someone else's desk_ ; "A featherlight material was found"
--  _which on the way get hits by bird droppings; "however easily stained"
-- "A problem much later found to be a feature too" _bird loses feather by flying heavy tablet, which drops on the lighter tablet drawing a line_
-- "Too shield these documents from stains, all sorts of envelopes were designed" _show envelopes and floppy disks_
--  from which it could be projected on glass plates" _floppy is thrown to the next person_
-- "A typewriter was modified to work behind this glass plate too and named a projection changer (PC)" 
-- 
-- web and multi-cursor
+PAPER, HISTORY?, _scrolling horizontally through time_:
+- "how it all started ..." ; _cavemen chiseling tablets_ 
+- "be where the readers are, one thought" ; _trebucheting_
+- "Luckily lighter materials were found"; _after chiseling something paperthin, it is folded into an airplane and thrown_
+- "Easily stained however";  _hit by bird droppings mid flight_
+- "Later found to be a feature too"; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_
+- "Too shield these documents from stains, all sorts of envelopes were created"; _show paper envelope and floppy disk being passed on_
+- "Projection Chambers (PCs) made those popular"; _a monitor being a glass plate, a lamp and a disk station half way_
+- "For untalented scribblers, an internal stamp contraption operated by external rows of keys could be added"; _connecting a keyboard_
+- "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" _show cursor_
+- "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" _add antennas to PCs, throw a wad of paper into the clouds, add some sparks to both_
+
+All of the above is nonsense to make a point: our documents are still rather static, editing rather manual, and cooperating clumsely managed. Especially when everybody in this multi-disciplinary world keeps talking about something I have not even mentioned yet: DATA!, FAIR?
+
 
 WASTING THROUGH PASTING:
 - manual errors
