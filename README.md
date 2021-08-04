@@ -121,12 +121,12 @@ As you're probably confused now, I have some questions:
 - "What, that our narratives nowadays are often heavily based on, was not mentioned at all? ...."
 - "Aren't many documents much like a sheet of paper behind a glass plate still? How not?"
 - "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
-- _.... becomes DATA
+- _.... becomes DATA_
 
 COPY-PASTING, IS WASTING: _show document surrounded by some popular applications like SPPS, Excel, etc._
-- Just as with typos, manual copy-paste errors might never been found, let alone fixed
+- Just as with typos, manual copy-paste errors might never get found, let alone fixed
 - That what gets pasted doesn't show what happened before, how it came into being.
-- As there's no source
+- That what gets pasted
 - after it's pasted it can't be experimented with. There's no source, no trying and learning, not reproducible
 - no updates
 
