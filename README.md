@@ -108,23 +108,26 @@ _fuzz and fade out everything but the title and then slam a question on 4 times:
 PAPER, HISTORY?, _scrolling horizontally through time_:
 - "how it all started ..." ; _cavemen chiseling tablets_ 
 - "be where the readers are, one thought" ; _trebucheting_
-- "Luckily lighter materials were found"; _after chiseling something paperthin, it is folded into an airplane and thrown_
-- "Easily stained however";  _hit by bird droppings mid flight_
-- "Later found to be a feature too"; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_
-- "To shield these documents from stains, all sorts of envelopes were created"; _show paper envelope and floppy disk being passed on_
-- "Projection Chambers (PCs) made those popular"; _a monitor being a glass plate, a lamp and a disk station half way_
-- "For untalented scribblers, an internal stamp contraption operated by external rows of keys could be added"; _connecting a keyboard_
-- "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" _show cursor_
-- "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
+- "Luckily lighter materials were found" ; _after chiseling something paperthin, it is folded into an airplane and thrown_
+- "Easily stained however" ;  _hit by bird droppings mid flight_
+- "Later found to be a feature too" ; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_
+- "To shield these documents from stains, all sorts of envelopes were created" ; _show paper envelope and floppy disk being passed on_
+- "Projection Chambers (PCs) made those popular" ; _a glass plate, a lamp and a disk station half way_
+- "For untalented scribblers, an internal stamp contraption operated by external rows of keys was offered" ; _connecting a keyboard_
+- "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" ; _show cursor_
+- "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" ; _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
 
-All of the above is nonsense to make a point: Isn't most of our document interaction like a sheet of paper behind a glass plate? It's rather static, editing rather manual, and cooperating limited. Especially when taking into account that what everybody in this multi-disciplinary world keeps talking about (DATA!) was not mentioned yet. Fair?
+As you're probably confused now, I have some questions:
+- "What, that our narratives nowadays are often heavily based on, was not mentioned at all? ...."
+- "Aren't many documents much like a sheet of paper behind a glass plate still? How not?"
+- "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
+- _.... becomes DATA
 
-
-
-You mostly bring that in by COPY-PASTING, IS WASTING:
-- manual errors
-- less insight in progress
-- no source, no trying and learning, not reproducible
+COPY-PASTING, IS WASTING: _show document surrounded by some popular applications like SPPS, Excel, etc._
+- Just as with typos, manual copy-paste errors might never been found, let alone fixed
+- That what gets pasted doesn't show what happened before, how it came into being.
+- As there's no source
+- after it's pasted it can't be experimented with. There's no source, no trying and learning, not reproducible
 - no updates
 
 WEDDING BY EMBEDDING:
