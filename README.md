@@ -117,7 +117,9 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" _show cursor_
 - "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
 
-All of the above is nonsense to make a point: Isn't most of our document interaction like a sheet of paper behind a glass plate? It's rather static, editing rather manual, and cooperating limited. Especially when everybody in this multi-disciplinary world keeps talking about something I have not even mentioned yet: DATA!, FAIR?
+All of the above is nonsense to make a point: Isn't most of our document interaction like a sheet of paper behind a glass plate? It's rather static, editing rather manual, and cooperating limited. Especially when taking into account that what everybody in this multi-disciplinary world keeps talking about (DATA!) was not mentioned yet. Fair?
+
+
 
 You mostly bring that in by COPY-PASTING, IS WASTING:
 - manual errors
@@ -126,13 +128,13 @@ You mostly bring that in by COPY-PASTING, IS WASTING:
 - no updates
 
 WEDDING BY EMBEDDING:
-- general web embeds
-- and specific notebook code cells
+- 'general web embeds'; _show photo, video, webrtc communication, data feed, etc_
+- "and notebook specific code cells" ; _animation of external programs turning into internal cells_
 
 CONVERT OR NOT?:
-- you can convert notebooks into many common formats
-- or convert people into using them directly
-- Try Jupyter, Rnotebook and Observable
+- "you can convert notebooks into many common formats" _docx PDF dashboards view-only-notebooks etc_
+- "or invite people into using them directly _notebooks for training, testing, reviewing, publishing" ; _show logos for carpentries, codecheck, etc_
+- "Try Jupyter, Rnotebook, observableHQ, and take a peek at what extensions are available" ; _show logos for Jupyter, Rnotebook, ObservableHQ, nbconvert, fast_ai?_
 
 NOW INTERESTED IN SEEING SOME ACTUAL ACTION?:
 ===
