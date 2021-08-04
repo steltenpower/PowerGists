@@ -110,7 +110,7 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - "Luckily lighter materials were found"; _after chiseling something paperthin, it is folded into an airplane and thrown_
 - "Easily stained however";  _hit by bird droppings mid flight_
 - "Later found to be a feature too"; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_
-- "Too shield these documents from stains, all sorts of envelopes were created"; _show paper envelope and floppy disk being passed on_
+- "To shield these documents from stains, all sorts of envelopes were created"; _show paper envelope and floppy disk being passed on_
 - "Projection Chambers (PCs) made those popular"; _a monitor being a glass plate, a lamp and a disk station half way_
 - "For untalented scribblers, an internal stamp contraption operated by external rows of keys could be added"; _connecting a keyboard_
 - "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" _show cursor_
