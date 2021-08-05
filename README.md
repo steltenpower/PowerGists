@@ -117,22 +117,22 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" ; _show cursor_
 - "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" ; _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
 
-As you're probably confused now, I have some questions:
+As you may be confused now by this strange intro, I have some questions:
 - "What, that our narratives nowadays are often heavily based on, was not mentioned at all? ...."
-- "Aren't many documents much like a sheet of paper behind a glass plate still? How not?"
+- "Aren't many documents much like a sheet of paper behind a glass plate? How not?"
 - "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
 - _.... becomes DATA_
 
 COPY-PASTING, IS WASTING: _show document surrounded by some popular applications like SPPS, Excel, etc._
-- Just as with typos, manual copy-paste errors might never get found, let alone fixed
-- That what gets pasted doesn't show what happened before, how it came into being.
-- That what gets pasted
-- after it's pasted it can't be experimented with. There's no source, no trying and learning, not reproducible
-- no updates
+- Just as with typos, manual copy-paste errors might never get found, let alone fixed ; __
+- That what gets pasted in, doesn't show what happened before, how a thought process iterated it. Though the paster might not have logged it either.
+- The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for reproducibility.
+- After it's pasted it can't be experimented with. No trying, discussing, learning, improving.
+- If what is copied is updated later, the copy will be out-of-date.
 
 WEDDING BY EMBEDDING:
 - 'general web embeds'; _show photo, video, webrtc communication, data feed, etc_
-- "and notebook specific code cells" ; _animation of external programs turning into internal cells_
+- "and notebook specific code cells" ; _animation of external programs turning into internal editable cells_
 
 CONVERT OR NOT?:
 - "you can convert notebooks into many common formats" _docx PDF dashboards view-only-notebooks etc_
