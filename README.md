@@ -141,7 +141,7 @@ CONVERT OR NOT?:
 
 NOW INTERESTED IN SEEING SOME ACTUAL ACTION?:
 ===
-I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities, with no or minimized setup and coding.
+I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities on easy to grasp subjects, with no or minimized setup and coding.
 *If that or anything else I mentioned here makes you want to talk with me, you'll figure out how.*<br>
 <br>
 On the subject of playgrounds ...
