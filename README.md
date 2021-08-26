@@ -83,7 +83,7 @@ Literature references, citation styles, APA, reference managers, citation/refere
 - When you're building on or using, the work of others, you have to mention that.
 - For findability and consistency, which also helps readability, several styles for such reference/citation have been designed.
 - Scientific articles must use a specific style, demanded by journals, even though most are digital-only nowadays ([shift choice to read-time?](https://github.com/steltenpower/CitationStyleOnReading)).
-- Generating in that style (APA, Vancouver, others) is usually done by reference managers (Endnote, Zotero, others) based on data in exchange formats (BibTeX, RIS, others).
+- Generating in that style (APA, Vancouver, others) is usually done by reference managers (Zotero, Endnote, others) based on data in exchange formats (BibTeX, RIS, others).
 - Before you start storing your references somewhere, make sure you can export them in common formats.
 - The global network of citations between works is used to find more related work, people to cooperate with and to do impact analysis. Use DOIs and ORCIDs (unique identifiers for works and researchers) and see [OpenCitations](http://opencitations.net/about), Scopus, Web Of Science, Google Scholar and others, but also [alt(ernative) metrics](https://en.wikipedia.org/wiki/Altmetrics)
 
