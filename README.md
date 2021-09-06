@@ -95,8 +95,12 @@ Artificial Intelligence (AI):
 ========================
 I might translate the following dutch bit for this:
 <pre>
-De term AI schrikt mensen af (ondoorgrondbare magie denken sommigen), ik begin vaak met te zeggen: patroonherkenning. En dat expliciete algoritmes (code tikken of genereren) en impliciete (de patroonherkenning dus) ook samen kunnen werken.
-Wat ik zelf een fantastisch voorbeeld vind is de dataset van handgeschreven digits van de Amerikaanse post. Daarover kan iedereen redeneren:
+De term AI schrikt mensen af (ondoorgrondbare magie denken sommigen),
+ik begin vaak met te zeggen: patroonherkenning.
+En dat expliciete algoritmes (code tikken of genereren)
+en impliciete (de patroonherkenning dus) ook samen kunnen werken.
+Wat ik zelf een fantastisch voorbeeld vind is de dataset van handgeschreven cijfers
+van de Amerikaanse post. Daarover kan iedereen redeneren:
 Als je AI vraagt dat op te delen in 10 bakjes, waar zal het dan ongeveer in opgedeeld worden? 
 Hoezo ongeveer?
 En als je om minder bakjes vraagt? 
@@ -104,8 +108,10 @@ En om meer?
 Hoe zou iemand met verstand van postcodes zo'n postsysteem kunnen verbeteren?
 En als die ook verstand van statistiek heeft?
 En wat zou je kunnen doen met gevallen waar algoritme erg onzeker over is?
-Wat doe je om te testen of studenten aardig met materie over weg kunnen ipv alleen exact wat je je ze eerder hebt voorgelegd?
-En dan vervolgens allerlei mooie krachtige voorbeelden noemen van wat AI kan en ook hoe het al in onze dagelijkse software wordt gebruikt (volgens mij zelfs in Paint).
+Wat doe je om te testen of studenten aardig met materie over weg kunnen,
+ipv alleen exact wat je je ze eerder hebt voorgelegd?
+En dan vervolgens allerlei mooie krachtige voorbeelden noemen van wat AI kan
+en ook hoe het al in onze dagelijkse software wordt gebruikt (volgens mij zelfs in Paint).
 Misschien nog XAI (eXplainable AI) aanstippen.
 Sowieso aanstippen dat AI fouten herhaalt die je in de data hebt, zo is er o.a. racistische AI.
 En AI kan aardig interpoleren, maar slecht extrapoleren.
