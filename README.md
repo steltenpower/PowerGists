@@ -153,7 +153,7 @@ COPY-PASTING, IS WASTING: _show document surrounded by some popular applications
 - If what is copied is updated later, the copy will be out-of-date.
 
 WEDDING BY EMBEDDING:
-- 'general web embeds'; _show photo, video, webrtc communication, data feed, etc_
+- 'general web embeds'; _show photo, video, interactive whiteboard, iframe, any web content from elsewhere_
 - "and notebook specific code cells" ; _animation of external programs turning into internal editable cells_
 
 CONVERT OR NOT?:
