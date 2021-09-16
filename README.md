@@ -125,16 +125,16 @@ WHICH TO TURN INTO A VIDEO (SCRIPT)?
 ===
 eNotebooks maybe? Let me try ...<br><br>
 _ wikipedia article on Electronic_lab_notebook as title screen_
-_fuzz and fade out everything but the title and then slam a question on 4 times: WHAT? WHY? WHERE? HOW?_
+_fuzz and fade out everything but the title and then slam a question on 4 times: "WHAT?", "WHY?", "WHERE?", "HOW?"_
 
 PAPER, HISTORY?, _scrolling horizontally through time_:
-- "how it all started ..." ; _cavemen chiseling tablets_ 
-- "be where the readers are, one thought" ; _trebucheting_
-- "Luckily lighter materials were found" ; _after chiseling something paperthin, it is folded into an airplane and thrown_
-- "Easily stained however" ;  _hit by bird droppings mid flight_
-- "Later found to be a feature too" ; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_
+- "how it all started ..." ; _cavemen chiseling tablets_ , somewhat similar to https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg
+- "be where the readers are, one thought" ; _trebucheting_ , somewhat similar to https://www.toonpool.com/user/3107/files/send_email_380405.jpg
+- "Luckily lighter materials were found" ; _after chiseling something paperthin, it is folded into an airplane and thrown_ , somewhat similar to https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png
+- "Easily stained however" ;  _hit by bird droppings mid flight_, somewhat similar to https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png
+- "Later found to be a feature too" ; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_ , somewhat similar to https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU
 - "To shield these documents from stains, all sorts of envelopes were created" ; _show paper envelope and floppy disk being passed on_
-- "Projection Chambers (PCs) made those popular" ; _a glass plate, a lamp and a disk station half way_
+- "Projection Chambers (PCs) made those popular" ; _a glass plate, a lamp and a disk station half way_ , very slightly related to https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUf_O7IuBBsC1My4v6Hunpvqd05x4_YvSA&usqp=CAU
 - "For untalented scribblers, an internal stamp contraption operated by external rows of keys was offered" ; _connecting a keyboard_
 - "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" ; _show cursor_
 - "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" ; _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
