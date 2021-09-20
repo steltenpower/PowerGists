@@ -139,7 +139,7 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - "For knowing where the next stamp was aimed at, a sort of crosshair named CURSOR was part of the system" ; _show cursor_
 - "Nowadays documents can be edited by multiple PCs at the same time, resulting in multiple cursors shown, though technological explanations remain foggy" ; _add antennas to PCs, throw a wad of paper into a cloud, add some sparks to both_
 
-As you may be confused now by this strange intro, I have some questions:
+That intro of fantasy and strange reality, might have confused you enough to open your mind. Some questions:
 - "What, that our narratives nowadays are often heavily based on, was not mentioned at all? ...."
 - "Aren't many documents much like a sheet of paper behind a glass plate? How not?"
 - "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
