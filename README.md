@@ -145,7 +145,7 @@ That intro of fantasy and strange reality, might have confused you enough to ope
 - "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
 - _.... becomes DATA_
 
-COPY-PASTING, IS WASTING: _show document surrounded by some popular applications like SPPS, Excel, etc._
+COPY-PASTING, OFTEN WASTING: _show document surrounded by some popular applications like SPPS, Excel, etc._
 - Just as with typos, manual copy-paste errors might never get found, let alone fixed ; __
 - That what gets pasted in, doesn't show what happened before, how a thought process iterated it. Though the paster might not have logged it either.
 - The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for reproducibility.
