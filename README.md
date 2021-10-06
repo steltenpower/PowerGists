@@ -36,7 +36,7 @@ Shared on-line documents in which writers and 'programming analysts' can coopera
 - Properly explained in (paywalled) ["Using Jupyter for Reproducible Scientific Workflows"](https://doi.org/10.1109/mcse.2021.3052101)
 - Notebooks became much friendlier especially to non-techies since, but see [some basic principles shown in short video](https://www.youtube.com/watch?v=HW29067qVWk).
 - There are Jupyter kernels for dozens of languages (R,Python,JavaScript seem most popular) and Wikipedia Abstract will soon make language choice 'less relevant'.
-- Thinking about a very short video that even gets non-techies living in MS Word interested [below](#which-to-turn-into-a-video-script). 
+- Thinking about a very short video that even gets non-techies living in MS Word interested: [below](#which-to-turn-into-a-video-script). 
 
 Git(Hub/Lab/etc):
 =========
