@@ -162,6 +162,8 @@ CONVERT OR NOT?:
 - "or invite people into using them directly _notebooks for training, testing, reviewing, publishing" ; _show logos for carpentries, codecheck, etc_
 - "Try Jupyter, Rnotebook, observableHQ, and take a peek at what extensions are available" ; _show logos for Jupyter, Rnotebook, ObservableHQ, nbconvert, fast_ai?_
 
+Make it so that Jupyter and others can (and are allowed to) easily re-use (parts) ?
+
 NOW INTERESTED IN SEEING SOME ACTUAL ACTION?:
 ===
 I'll be helping on collecting/configuring data playgrounds where you can try and experience possibilities on easy to grasp subjects, with no or minimized setup and coding.
