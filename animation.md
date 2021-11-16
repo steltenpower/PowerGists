@@ -6,7 +6,7 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - "be where the readers are, one thought" ; _trebucheting_ , somewhat similar to ![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 - "Luckily lighter materials were found" ; _after chiseling something paperthin, it is folded into an airplane and thrown_ , somewhat similar to ![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 - "Easily stained however" ;  _hit by bird droppings mid flight_, somewhat similar to ![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
-- "Later found to be a feature too" ; _heavy tablet hits bird in air, losing a feather , scratching same light tablet on landing_ , somewhat similar to https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU
+- "Which made some people angry and inventful"![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 - "To shield these documents from stains, all sorts of envelopes were created" ; _show paper envelope and floppy disk being passed on_
 - "Projection Chambers (PCs) made those popular" ; _a glass plate, a lamp and a disk station half way_ , very slightly related to https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUf_O7IuBBsC1My4v6Hunpvqd05x4_YvSA&usqp=CAU
 - "For untalented scribblers, an internal stamp contraption operated by external rows of keys was offered" ; _connecting a keyboard_
