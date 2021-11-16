@@ -2,7 +2,7 @@ _ [wikipedia article on Electronic_lab_notebook](https://en.wikipedia.org/wiki/E
 _fuzz and fade out everything but the title and then slam a question on 4 times: "WHAT?", "WHY?", "WHERE?", "HOW?"_
 
 PAPER, HISTORY?, _scrolling horizontally through time_:
-- "how it all started ..." ; _cavemen chiseling tablets_ , somewhat similar to ![tablets](https://s3.aazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
+- "how it all started ..." ; _cavemen chiseling tablets_ , somewhat similar to ![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 - "be where the readers are, one thought" ; _trebucheting_ , somewhat similar to ![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 - "Luckily lighter materials were found" ; _after chiseling something paperthin, it is folded into an airplane and thrown_ , somewhat similar to ![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 - "Easily stained however" ;  _hit by bird droppings mid flight_, somewhat similar to ![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
