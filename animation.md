@@ -10,7 +10,7 @@ PAPER, HISTORY?, _scrolling horizontally through time_:
 - For lousy scriblers some mechanical contraption was developed ![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 - Against sneezing and bird droppings many people covered their paper document with a glass plate and put a big lamp behind it.![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 - When electronics became available most of the typewriter moved behind the paper between the glass plate and the lamp, leaving only a thin keyboard in front of the paper, attached by some wire ![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
-- "Nowadays there are also invisible wires, that through some cloud (nobody has ever seen), can attach to a paper document somewhere else" ![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
+- "Nowadays there are also invisible wires, that through some cloud (nobody has ever identified), can attach to a paper document somewhere else" ![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 
 That intro of fantasy and strange reality, might have confused you enough to open your mind. Some questions:
 - "What, that our narratives nowadays are often heavily based on, was not mentioned at all? ...."
