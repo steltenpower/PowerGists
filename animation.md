@@ -8,7 +8,7 @@ How it all started ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstoc
 
 Be where the readers are, one thought<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 
-Luckily lighter materials were found<br>_after CHISELING something paperthin, it is folded into an airplane and thrown, landing on someone's desk_ , somewhat similar to ![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
+Luckily lighter materials were found<br>[_after CHISELING something paperthin, it is folded into an airplane and thrown, landing on someone's desk]<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 
 Easily stained however<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
 
