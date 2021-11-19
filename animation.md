@@ -1,7 +1,3 @@
-![wikipedia article on Electronic_lab_notebook](<Electronic lab Notebook.png>)
-
----
-
 A LITTLE BIT OF PAPER HISTORY
 
 How it all started ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
@@ -63,3 +59,6 @@ CONVERT OR NOT?:
 - "or invite people into them with just a link" _for training, testing, reviewing, publishing or getting in-context support" ; _show logos for carpentries, codecheck, etc_
 - "Try Jupyter, Rnotebook, observableHQ, others, and take a peek at what extensions are available" ; _show logos for Jupyter, Rnotebook, ObservableHQ, nbconvert, fast_ai?_
 
+---
+
+![wikipedia article on Electronic_lab_notebook](<Electronic lab Notebook.png>)
