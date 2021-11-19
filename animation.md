@@ -10,11 +10,11 @@ Be where the readers are, one thought<br>![trebucheting](https://www.toonpool.co
 
 Luckily lighter materials were found<br>_after CHISELING something paperthin, it is folded into an airplane and thrown, landing on someone's desk_ , somewhat similar to ![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 
-Easily stained however<br>_hit by bird droppings_ ![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
+Easily stained however<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
 
 Which made some people angry and inventful<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
-For lousy scriblers some mechanical contraption was developed<br>[typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
+For lousy scriblers some mechanical contraption was developed<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 
 Against sneezing and bird droppings many people covered their paper document with a glass plate and put a big lamp behind it<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
