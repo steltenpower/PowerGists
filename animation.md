@@ -22,9 +22,13 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 # PAPER STILL
 
-- What, that our narratives nowadays are often heavily based on, was not mentioned so far?
-### ???? *(4 characters)*<br><br>DATA !!!!
-- Aren't many documents much like a sheet of paper behind a glass plate however? How not?
+What 4-letter word, that our narratives nowadays are often heavily based on, was not mentioned so far ????
+
+hints: ????-driven or better ????-assisted
+
+DATA !!!!
+
+But, aren't many documents still much like a sheet of paper behind a glass plate however?
 
 ---
 
