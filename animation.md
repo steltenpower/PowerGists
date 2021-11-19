@@ -1,4 +1,4 @@
-PAPER HISTORY
+# PAPER HISTORY
 
 How it all started ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
@@ -20,14 +20,15 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 ---
 
-PAPER STILL
+# PAPER STILL
+
 - What, that our narratives nowadays are often heavily based on, was not mentioned so far?
 # ???? *(4 characters)*<br><br>DATA !!!!
 - Aren't many documents much like a sheet of paper behind a glass plate however? How not?
 
 ---
 
-# BEYOND PAPER
+# BETTER PAPER ?
 
 ## 1 REPRODUCIBILITY
 - "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
