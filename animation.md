@@ -31,6 +31,9 @@ That intro of fantasy and strange reality, might have confused you enough to ope
 
 ---
 
+# BEYOND PAPER
+
+## 1 REPRODUCIBILITY
 - "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
 - "COPY-PASTING?" _show document surrounded by some popular applications like SPPS, Excel, MATLAB, Firefox, etc._
 - OFTEN WASTING:
@@ -40,15 +43,14 @@ That intro of fantasy and strange reality, might have confused you enough to ope
 - After it's pasted, it can't be experimented with. No trying, discussing, learning, improving.
 - If what is copied is updated later, the copy will be out-of-date.
 
----
-
-"EMBED INSTEAD":
+EMBED INSTEAD:
 - 'general web embeds'; _show photo, video, interactive whiteboard, iframe, any web content from elsewhere_
 - "and notebook specific RUNNING CODE cells" ; _animation of external programs turning into internal editable cells_
 - "And of course your familiar text paragraphs"
 
 ---
 
+## TIGHTER COOPERATION
 "Most importantly: Many non-techies love it because without being forced to code themselves, they have their techy colleagues in the same shared document doing their magic."
 
 Give it a try?
