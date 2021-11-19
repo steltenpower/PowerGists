@@ -1,7 +1,7 @@
 _ [wikipedia article on Electronic_lab_notebook](https://en.wikipedia.org/wiki/Electronic_lab_notebook) as title screen_
 _fuzz and fade out everything but the title and then slam a question on 4 times: "WHAT?", "WHY?", "WHERE?", "HOW?"_
-
-PAPER, HISTORY?, _scrolling horizontally through time_:
+---
+A LITTLE BIT OF PAPER HISTORY, _scrolling horizontally through time_:
 - "how it all started ..." ; _cavemen chiseling tablets_ , somewhat similar to ![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 - "be where the readers are, one thought" ; _trebucheting_ , somewhat similar to ![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 - "Luckily lighter materials were found" ; _after CHISELING something paperthin, it is folded into an airplane and thrown, landing on someone's desk_ , somewhat similar to ![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
