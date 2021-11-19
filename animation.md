@@ -1,15 +1,15 @@
-![wikipedia article on Electronic_lab_notebook](Electronic lab notebook.png)
+![wikipedia article on Electronic_lab_notebook](Electronic lab Notebook.png)
 ---
 
-A LITTLE BIT OF PAPER HISTORY, _scrolling horizontally through time_:
-- "how it all started ..." ; _cavemen chiseling tablets_ , somewhat similar to ![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
-- "be where the readers are, one thought" ; _trebucheting_ , somewhat similar to ![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
+A LITTLE BIT OF PAPER HISTORY
+- "how it all started ..."![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
+- "be where the readers are, one thought"![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 - "Luckily lighter materials were found" ; _after CHISELING something paperthin, it is folded into an airplane and thrown, landing on someone's desk_ , somewhat similar to ![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 - "Easily stained however" ;  _hit by bird droppings_ ![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
 - "Which made some people angry and inventful"![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 - For lousy scriblers some mechanical contraption was developed ![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 - Against sneezing and bird droppings many people covered their paper document with a glass plate and put a big lamp behind it.![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
-- When electronics became available most of the typewriter moved behind the paper between the glass plate and the lamp, leaving only a thin keyboard in front of the paper, attached by some wire ![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
+- When electronics became available most of the typewriter moved in between the glass plate and the lamp, leaving only a thin keyboard in front of the paper, attached by some wire ![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 - "Nowadays there are also invisible wires, that through some cloud (nobody has ever identified), can attach to a paper document somewhere else" ![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 ---
 That intro of fantasy and strange reality, might have confused you enough to open your mind. Some questions:
