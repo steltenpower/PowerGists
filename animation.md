@@ -20,7 +20,7 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
  
 ---
 
-That intro of fantasy and strange reality, might have confused you enough to open your mind. Some questions:
+Hoping that strange intro opened your mind, some questions:
 - What, that our narratives nowadays are often heavily based on, was not mentioned at all so far?
 # ???? *(4 characters)*<br><br>DATA !!!!
 - Aren't many documents much like a sheet of paper behind a glass plate however? How not?
