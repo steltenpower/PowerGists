@@ -26,8 +26,7 @@ Nowadays there are also invisible wires, that through some cloud (nobody has eve
 
 That intro of fantasy and strange reality, might have confused you enough to open your mind. Some questions:
 - What, that our narratives nowadays are often heavily based on, was not mentioned at all so far?
-# ???? *(4 characters)*
-# DATA !!!!
+# ???? *(4 characters)*<br>DATA !!!!
 - Aren't many documents much like a sheet of paper behind a glass plate? How not?
 
 ---
