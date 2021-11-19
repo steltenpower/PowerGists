@@ -12,7 +12,7 @@ But shit makes some inventful<br>![feather pen](https://encrypted-tbn0.gstatic.c
 
 For lousy scriblers some mechanical contraption was developed<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 
-Against sneezing and bird droppings many people covered their paper document with a glass plate and put a big lamp behind it<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
+Against sneezing and bird droppings many people covered their paper document with a glass plate and put a lamp behind it<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
 Electronics moved most of the typewriter behind the paper, leaving only a thin keyboard in front of it, attached by some wire<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
