@@ -1,4 +1,4 @@
-![wikipedia article on Electronic_lab_notebook](Electronic lab Notebook.png)
+![wikipedia article on Electronic_lab_notebook](<Electronic lab Notebook.png>)
 ---
 
 A LITTLE BIT OF PAPER HISTORY
