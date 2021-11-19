@@ -23,7 +23,7 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 # PAPER STILL
 
 - What, that our narratives nowadays are often heavily based on, was not mentioned so far?
-# ???? *(4 characters)*<br><br>DATA !!!!
+### ???? *(4 characters)*<br><br>DATA !!!!
 - Aren't many documents much like a sheet of paper behind a glass plate however? How not?
 
 ---
@@ -47,7 +47,7 @@ EMBED INSTEAD:
 
 ---
 
-## TIGHTER COOPERATION
+### TIGHTER COOPERATION
 "Most importantly: Many non-techies love it because without being forced to code themselves, they have their techy colleagues in the same shared document doing their magic."
 
 Give it a try?
