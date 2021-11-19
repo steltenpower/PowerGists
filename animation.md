@@ -1,4 +1,4 @@
-A LITTLE BIT OF PAPER HISTORY
+PAPER HISTORY
 
 How it all started ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
@@ -17,11 +17,11 @@ Against sneezing and bird droppings many people covered their paper document wit
 Electronics moved most of the typewriter behind the paper, leaving only a thin keyboard in front of it, attached by some wire<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
 Nowadays invisible wires connect to some cloud that allows typing on papers elsewhere<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
- 
+
 ---
 
-Hoping that strange intro opened your mind, some questions:
-- What, that our narratives nowadays are often heavily based on, was not mentioned at all so far?
+PAPER STILL
+- What, that our narratives nowadays are often heavily based on, was not mentioned so far?
 # ???? *(4 characters)*<br><br>DATA !!!!
 - Aren't many documents much like a sheet of paper behind a glass plate however? How not?
 
