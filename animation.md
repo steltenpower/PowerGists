@@ -1,4 +1,4 @@
-_ [wikipedia article on Electronic_lab_notebook](https://en.wikipedia.org/wiki/Electronic_lab_notebook) as title screen_
+[wikipedia article on Electronic_lab_notebook](https://en.wikipedia.org/wiki/Electronic_lab_notebook) as title screen_
 _fuzz and fade out everything but the title and then slam a question on 4 times: "WHAT?", "WHY?", "WHERE?", "HOW?"_
 ---
 A LITTLE BIT OF PAPER HISTORY, _scrolling horizontally through time_:
