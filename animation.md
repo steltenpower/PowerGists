@@ -28,7 +28,7 @@ hints: ????-driven or better ????-assisted
 
 DATA !!!!
 
-But, aren't many documents still much like a sheet of paper behind a glass plate however?
+But, aren't many documents still much like a sheet of paper in some sort of typewriter?
 
 ---
 
