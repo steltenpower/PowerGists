@@ -34,7 +34,7 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 # NO COPY-PASTE WASTE !
 
-- Just as with typos, manual copy-paste errors might never get found, let alone fixed ; __
+- Just as with typos, manual copy-paste errors might never get found, let alone fixed
 - That what gets pasted in, doesn't show what happened before, how a thought process iterated it. And the paster might not have logged it either.
 - The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for REPRODUCIBILITY.
 - After it's pasted, it can't be experimented with. No trying, discussing, learning, improving.
