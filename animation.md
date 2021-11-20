@@ -34,12 +34,12 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 # NO COPY-PASTE WASTE !
 
-_[document surrounded by some popular applications like SPPS, Excel, MATLAB, Firefox, etc.]_
 - Just as with typos, manual copy-paste errors might never get found, let alone fixed ; __
 - That what gets pasted in, doesn't show what happened before, how a thought process iterated it. And the paster might not have logged it either.
 - The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for REPRODUCIBILITY.
 - After it's pasted, it can't be experimented with. No trying, discussing, learning, improving.
 - If what is copied is updated later, the copy will be out-of-date.
+_[Word icon surrounded by icons for Matlab, SPSS, Excel, atlas.ti, Qualtrics, etc. and arrows towards Word and a big red cross through all]_
 
 # EMBED INSTEAD !
 
@@ -47,6 +47,8 @@ With so-called Electronic Lab Notebooks you can enrich your writing with
 - anything from the web. Dynamic things too.
 - RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues in the same shared document doing their magic.
 
-_[Word icon surrounded by icons for Matlab, SPSS, Excel, atlas.ti, Qualtrics, etc. and arrows towards Word]_
+In my order of preference:
+_[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
+
 
 psst: Notebooks can be exported to stone tablet file format (also known as PDF).
