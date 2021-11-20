@@ -32,38 +32,18 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 ---
 
-# BETTER PAPER ?
+# NO COPY-PASTE WASTE !
 
-## 1 REPRODUCIBILITY
-- "How do you get non-text into documents? Do you see risks for non-reproducibility? Can these be limited?"
-- "COPY-PASTING?" _show document surrounded by some popular applications like SPPS, Excel, MATLAB, Firefox, etc._
-- OFTEN WASTING:
+[_ document surrounded by some popular applications like SPPS, Excel, MATLAB, Firefox, etc._]
 - Just as with typos, manual copy-paste errors might never get found, let alone fixed ; __
 - That what gets pasted in, doesn't show what happened before, how a thought process iterated it. And the paster might not have logged it either.
-- The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for reproducibility.
+- The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for REPRODUCIBILITY.
 - After it's pasted, it can't be experimented with. No trying, discussing, learning, improving.
 - If what is copied is updated later, the copy will be out-of-date.
 
-EMBED INSTEAD:
-- 'general web embeds'; _show photo, video, interactive whiteboard, iframe, any web content from elsewhere_
-- "and notebook specific RUNNING CODE cells" ; _animation of external programs turning into internal editable cells_
-- "And of course your familiar text paragraphs"
+# EMBED INSTEAD !
 
----
+With so-called Electronic Lab Notebooks you can enrich your writing with
+- anything from the web. Dynamic things too.
+- RUNNING CODE cells. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues in the same shared document doing their magic."
 
-### TIGHTER COOPERATION
-"Most importantly: Many non-techies love it because without being forced to code themselves, they have their techy colleagues in the same shared document doing their magic."
-
-Give it a try?
-
----
-
-CONVERT OR NOT?:
-- "you can convert notebooks into many common formats" _docx PDF dashboards view-only-notebooks etc_
-
-- "or invite people into them with just a link" _for training, testing, reviewing, publishing or getting in-context support" ; _show logos for carpentries, codecheck, etc_
-- "Try Jupyter, Rnotebook, observableHQ, others, and take a peek at what extensions are available" ; _show logos for Jupyter, Rnotebook, ObservableHQ, nbconvert, fast_ai?_
-
----
-
-![wikipedia article on Electronic_lab_notebook](<Electronic lab Notebook.png>)
