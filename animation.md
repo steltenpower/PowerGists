@@ -45,5 +45,6 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 With so-called Electronic Lab Notebooks you can enrich your writing with
 - anything from the web. Dynamic things too.
-- RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues in the same shared document doing their magic."
+- RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues in the same shared document doing their magic.
 
+psst: Notebooks can be exported to stone tablet file format (also known as PDF).
