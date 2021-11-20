@@ -39,6 +39,7 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 - The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for REPRODUCIBILITY.
 - After it's pasted, it can't be experimented with. No trying, discussing, learning, improving.
 - If what is copied is updated later, the copy will be out-of-date.
+- 
 _[Word icon surrounded by icons for Matlab, SPSS, Excel, atlas.ti, Qualtrics, etc. and arrows towards Word and a big red cross through all]_
 
 # EMBED INSTEAD !
