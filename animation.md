@@ -46,7 +46,7 @@ _[Word icon surrounded by icons for Matlab, SPSS, Excel, atlas.ti, Qualtrics, et
 
 With so-called **Electronic Lab Notebooks** you can enrich your writing with
 - anything from the web. Dynamic things too.
-- RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues in the same shared document doing their magic.
+- RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic.
 
 # JOIN TOO !
 In my order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
