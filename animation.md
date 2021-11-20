@@ -51,4 +51,4 @@ With so-called Electronic Lab Notebooks you can enrich your writing with
 # JOIN TOO !
 In my order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
 
-_psst: Notebooks can be exported to stone tablet format (also known as PDF), but don't!_
+_psst: Notebooks can be exported to several dynamic and static formats, but you don't want to slow down progress by using stone tablets (also known as PDFs), do you?_
