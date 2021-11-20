@@ -49,6 +49,6 @@ With so-called **Electronic Lab Notebooks** you can enrich your writing with
 - RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic.
 
 # JOIN TOO !
-In my order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
+For open smy order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
 
-_psst: Notebooks can be exported to several dynamic and static formats, but you don't want to slow down progress by using stone tablets (also known as PDFs), do you?_
+_psst: Notebooks can be exported to several formats, both dynamic (dashboards, websites, etc.) and static (stone tablets now named PDF).
