@@ -34,11 +34,9 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 # NO COPY-PASTE WASTE !
 
-- Just as with typos, manual copy-paste errors might never get found, let alone fixed
-- That what gets pasted in, doesn't show what happened before, how a thought process iterated it. And the paster might not have logged it either.
-- The version pasted in doesn't just come with a unambiguous recipe (interpretable by people or algorithms) for REPRODUCIBILITY.
-- After it's pasted, it can't be experimented with. No trying, discussing, learning, improving.
-- If what is copied is updated later, the copy will be out-of-date.
+- Some manual copy-paste errors are not just unlikely, but impossible to find, thus fix. Similar to typos.
+- The interative thought process resulting in content is not part of the pasting: no version control on the output and where applicable no protocol or source code, let alone properly versioned. That's disastrous for REPRODUCIBILITY and for trying, discussing, learning and improving.
+- There's no synchronization between input and output content of a copy-paste action
 
 _[Word icon surrounded by icons for Matlab, SPSS, Excel, atlas.ti, Qualtrics, etc. and arrows towards Word and a big red cross through all]_
 
