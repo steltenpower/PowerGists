@@ -1,3 +1,9 @@
+<style type="text/css">
+    .classname{
+        width: 200px;
+    }
+</style>
+
 # PAPER HISTORY
 
 How it all started ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
