@@ -51,4 +51,4 @@ _[Show the writing, the web content and the RUNNING CODE blocks]_
 # JOIN TOO !
 For **open science**, my order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
 
-PS: Notebooks can be exported to several formats, both dynamic (dashboards, websites, etc.) and static (stone tablets now named PDF)._
+_psst: Notebooks can be exported to several formats, both dynamic (dashboards, websites, etc.) and static (stone tablets now named PDF)._
