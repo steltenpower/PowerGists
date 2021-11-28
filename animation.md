@@ -44,7 +44,7 @@ Those who do use data, often copy-paste it into a document, but:
 # EMBED INSTEAD !
 In so-called **Electronic Lab Notebooks** you can enrich your text with **CODE** processing **LIVE DATA** and of course its results, often plots. 
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
-Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic (including embedding almost anything already on the web!!)
+##*Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic (including embedding almost anything already on the web!!)*
 
 
 # JOIN TOO !
