@@ -34,7 +34,7 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 # NO COPY-PASTE WASTE !
 
-Those who do use data, often copy-paste it into a document:
+Those who do use data, often copy-paste it into a document, but:
 ![CopyPasteWaste](CopyPasteWaste.png)
 - Some manual copy-paste errors are not just unlikely, but impossible to find, thus fix. Similar to typos.
 - The interative thought process resulting in content is not part of the pasting: no version control on the output and where applicable no protocol or source code, let alone properly versioned. That's disastrous for REPRODUCIBILITY and for trying, discussing, learning and improving.
@@ -42,7 +42,7 @@ Those who do use data, often copy-paste it into a document:
 
 
 # EMBED INSTEAD !
-In so-called **Electronic Lab Notebooks** you can enrich your **text** with **CODE** processing live data and of course its results, often plots. 
+In so-called **Electronic Lab Notebooks** you can enrich your text with **CODE** processing **live** data and of course its results, often plots. 
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic (including embedding almost anything already on the web!!)
 
