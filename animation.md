@@ -42,11 +42,11 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 # EMBED INSTEAD !
 
-With so-called **Electronic Lab Notebooks** you can enrich your writing with
-- anything from the web. Dynamic things too.
-- RUNNING CODE blocks. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic.
+With so-called **Electronic Lab Notebooks** you can enrich your **text** with
+- anything from the **web**. Dynamic things too.
+- RUNNING **CODE** blocks and their results, often plots. Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic.
 
-_[Show the writing, the web content and the RUNNING CODE blocks]_
+![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 
 # JOIN TOO !
 For **open science**, my order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
