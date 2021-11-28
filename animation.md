@@ -38,7 +38,7 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 - The interative thought process resulting in content is not part of the pasting: no version control on the output and where applicable no protocol or source code, let alone properly versioned. That's disastrous for REPRODUCIBILITY and for trying, discussing, learning and improving.
 - There's no (later) synchronization between input and output content of a copy-paste action
 
-_[Word icon surrounded by icons for Matlab, SPSS, Excel, atlas.ti, Qualtrics, etc. and arrows towards Word and a big red cross through all]_
+![CopyPasteWaste](CopyPasteWaste.png)
 
 # EMBED INSTEAD !
 
