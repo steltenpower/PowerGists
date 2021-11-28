@@ -50,4 +50,4 @@ In so-called **Electronic Lab Notebooks** you can enrich your text with **CODE**
 # JOIN TOO !
 For **open science**, my order of preference: _[icons for Jupyter, Rstudio Rnotebooks, Observable Notebooks]_
 
-_psst: Notebooks can be exported to several formats, both dynamic (dashboards, websites, etc.) and static (stone tablets now named PDF)._
+_psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
