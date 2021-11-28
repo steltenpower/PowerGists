@@ -34,11 +34,12 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 # NO COPY-PASTE WASTE !
 
+Those who do use data, often copy-paste it into a document:
+![CopyPasteWaste](CopyPasteWaste.png)
 - Some manual copy-paste errors are not just unlikely, but impossible to find, thus fix. Similar to typos.
 - The interative thought process resulting in content is not part of the pasting: no version control on the output and where applicable no protocol or source code, let alone properly versioned. That's disastrous for REPRODUCIBILITY and for trying, discussing, learning and improving.
 - There's no (later) synchronization between input and output content of a copy-paste action
 
-![CopyPasteWaste](CopyPasteWaste.png)
 
 # EMBED INSTEAD !
 
