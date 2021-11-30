@@ -52,3 +52,11 @@ For **open science** reasons, my order of preference is: Jupyter, R notebooks, O
 ![notebook brands](notebooks.png)
 
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
+
+END
+
+---
+
+- Sicco de Knecht liked the above
+- If you like this, you probably like [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) too. Have a coder available for a bit?
+- A bit more difficult to wrap your head around, but the more powerful: [Train of Thought](https://github.com/steltenpower/Train-Of-Thought/blob/main/README.md). Slowly moving forward, possibly a lot faster soon.
