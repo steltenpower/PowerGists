@@ -22,7 +22,7 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 # PAPER STILL
 
-What 4-letter word, that our narratives nowadays are often heavily based on, was not mentioned so far ????
+What 4-letter word, that our narratives nowadays are often heavily based on, was not mentioned so far ?
 
 hints: ????-driven, or better: ????-assisted
 
