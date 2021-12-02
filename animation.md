@@ -43,7 +43,7 @@ Those who do use data, often copy-paste it into a document, but:
 
 # EMBED INSTEAD !
 Enrich your text with algorithms (also known as **CODE**) that can process **LIVE DATA** and show results, often plots.
-So-called Electronic Lab notebooks can do this.
+Electronic Lab notebooks is often used as the general term for software that can do this.
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic (including embedding almost anything already on the web!!)*
 
