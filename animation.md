@@ -36,10 +36,10 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 Those who do use data, often copy-paste it into a document, but:
 ![CopyPasteWaste](CopyPasteWaste.png)
-- If in manually copy-pasting a mistake is made, that often is impossible to detect in the result, let alone possible to repair.
-- The process that created something, is not part of what's pasted; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
-- It's awfully difficult to manage files consistent with each other within specified versions
-- There's no (later) synchronization between input and output of a copy-paste action
+- If in manually copy-pasting a mistake is made, that mistake is often impossible to detect in the result, let alone repairable.
+- As you copy only a result, you miss the process behind it; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
+- It's awfully difficult to keep files consistent with each other (within specified versions)
+- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 
 # EMBED INSTEAD !
 Enrich your text with algorithms (also known as **CODE**) that can process **LIVE DATA** and show results, often plots.<br>
