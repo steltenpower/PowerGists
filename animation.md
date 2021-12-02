@@ -38,7 +38,7 @@ Those who do use data, often copy-paste it into a document, but:
 ![CopyPasteWaste](CopyPasteWaste.png)
 - If in manual copy-pasting a mistake is made, that often is impossible to detect in the result, let alone possible to repair.
 - The process that created something, is not part of what's pasted; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
-- It's much more difficult to manage files consistent with each other within specified versions
+- It's awfully difficult to manage files consistent with each other within specified versions
 - There's no (later) synchronization between input and output of a copy-paste action
 
 # EMBED INSTEAD !
