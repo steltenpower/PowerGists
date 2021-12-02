@@ -48,7 +48,7 @@ Electronic Lab notebook is often used as the general term for software that can 
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic (including embedding almost anything already on the web!!)*
 
 
-# JOIN TOO !
+# JUST TRY IT TOGETHER !
 For **open science** reasons, my order of preference is: Jupyter, R&nbsp;notebooks, Observable
 ![notebook brands](notebooks.png)
 
