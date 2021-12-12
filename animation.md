@@ -41,10 +41,8 @@ Those who do use data, often copy-paste it into a document, but:
 - It's awfully difficult to keep files consistent with each other (within specified versions)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 
-# LINK REFER, OR EMBED INSTEAD !
-We all know hyperlinks to manually click from one page to the next, but URLs can do more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to just use algorithms and their output within your writing in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word Online as part of Microsoft Teams are famous for cooperating among writers, these notebooks allow to add programmers to the mix.
-
-Enrich your text with algorithms (also known as **CODE**) that can run inside the document context. This code can process **LIVE DATA** and show results, often plots. Electronic Lab notebook is often used as the general term for software that can do this.
+# LINK REFER, AND EMBED INSTEAD !
+We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to just use algorithms and their output within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word Online as part of Microsoft Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** and results (often **PLOT**) to the mix.
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they can have their techy colleagues (or support staff) in the same shared document doing their magic (including embedding almost anything already on the web!!)*
 
