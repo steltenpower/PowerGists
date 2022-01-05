@@ -36,6 +36,7 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 Those who do use data, often copy-paste it into a document, but:
 ![CopyPasteWaste](CopyPasteWaste.png)
+[This needs visual examples, including already familiar ones: style lost / vector pixelated]
 - If in manually copy-pasting a mistake is made, that mistake is often impossible to detect in the result, let alone repairable.
 - As you copy only a result, you miss the process behind it; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
 - It's awfully difficult to keep files consistent with each other (within specified versions)
