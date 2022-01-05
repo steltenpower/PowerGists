@@ -36,8 +36,15 @@ But, aren't many documents still much like a sheet of paper in some sort of type
 
 Those who do use data, often copy-paste it into a document, but:
 ![CopyPasteWaste](CopyPasteWaste.png)<br>
-[The below needs visual examples, including already familiar ones: style lost / vector pixelated]
-- If in manually copy-pasting a mistake is made, that mistake is often impossible to detect in the result, let alone repairable.
+[The image above is just a statement, no explanation, so should be replaced. Below some explanations to be used, for building up this part of the story.]<br>
+At first there are automatic conversions while pasting of the end result, some examples:
+- styled text becoming plain text
+- WordArt becoming an raster image, in which you can't search
+- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.
+- video becoming a silent snapshot
+- interactive objects becoming dead photos
+But there's more than just end results, there's also context and process:
+- If in manually copy-pasting a mistake is made, making a slight or completely wrong selection, that mistake is often impossible to detect in the result, let alone repairable.
 - As you copy only a result, you miss the process behind it; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
 - It's awfully difficult to keep files consistent with each other (within specified versions)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
