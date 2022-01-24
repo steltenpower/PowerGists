@@ -20,7 +20,10 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 ---
 
-# PAPER STILL
+# NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
+![dead papers]()
+
+
 
 What 4-letter word, that our narratives nowadays are often heavily based on, was not mentioned so far ?
 
