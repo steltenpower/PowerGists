@@ -27,11 +27,11 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 Well, usually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
 First, result information is often crippled. For example:
-- styled text becoming plain text<br>[IMG]
-- WordArt becoming an raster image, in which you can't search<br>[IMG]
-- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG]
-- video becoming a silent snapshot<br>[IMG]
-- interactive objects becoming dead photos<br>[IMG]
+- styled text becoming plain text<br>[IMG needed]
+- WordArt becoming an raster image, in which you can't search<br>[IMG needed]
+- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG needed]
+- video becoming a silent snapshot<br>[IMG needed]
+- interactive objects becoming dead photos<br>[IMG needed]
 In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 Second, context and process is lost:
