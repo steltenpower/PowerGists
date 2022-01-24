@@ -19,25 +19,22 @@ Electronics moved most of the typewriter behind the paper, leaving only a thin k
 Nowadays invisible wires connect to some cloud that allows typing on papers elsewhere<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 
 ---
-
-# BUT NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
-Well, usually ...![dead papers](deadpapers.jfif)
-
-
-
+---
 ---
 
-# NO COPY-PASTE WASTE !
+# BUT NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
 
-Those who do use data, often copy-paste it into a document, but:
+Well, usually ...<br>![dead papers](deadpapers.jfif)
+
+Because ...<br>
 ![CopyPasteWaste](CopyPasteWaste.png)<br>
-[The image above is just a statement, no explanation, so should be replaced. Below some explanations to be used, for building up this part of the story.]<br>
-At first there are automatic conversions while pasting of the end result, some examples:
-- styled text becoming plain text
-- WordArt becoming an raster image, in which you can't search
-- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.
-- video becoming a silent snapshot
-- interactive objects becoming dead photos
+
+
+- styled text becoming plain text<br>[IMG]
+- WordArt becoming an raster image, in which you can't search<br>[IMG]
+- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG]
+- video becoming a silent snapshot<br>[IMG]
+- interactive objects becoming dead photos<br>[IMG]
 
 But there's more than just end results, there's also context and process:
 - If in manually copy-pasting a mistake is made, making a slight or completely wrong selection, that mistake is often impossible to detect in the result, let alone repairable.
