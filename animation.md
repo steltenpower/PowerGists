@@ -22,9 +22,9 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 ---
 ---
 
-# BUT NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
+# SO, NOWADAYS DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
 
-Well, usually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
+Well, actually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
 First, result information is often crippled. For example:
 - styled text becoming plain text<br>[IMG needed]
