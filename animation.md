@@ -46,7 +46,7 @@ We all know hyperlinks to manually click from one page to the next, but web addr
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
 And as notebooks are usually built on web technology, you can then include almost anything found on the web.
 
-**JUST TRY IT TOGETHER**: For **open science** reasons, my order of preference is:
+**JUST TRY IT WITH YOUR TEAM**: For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)
 
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
