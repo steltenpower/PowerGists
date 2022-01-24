@@ -8,9 +8,9 @@ Luckily lighter materials were found<br>![paper airplane](https://www.pngitem.co
 
 Easily stained however<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
 
-But shit makes inventful<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
+Shit makes inventful though<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
-For lousy scriblers a mechanical contraption was developed<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
+Mechanical contraptions were developed for lousy scriblers<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 
 Against sneezing and bird droppings many people covered their paper document with a glass plate and put a lamp behind it<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
@@ -40,15 +40,14 @@ Second, context and process is lost:
 - It's awfully difficult to keep files consistent with each other (within specified versions)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 
+
 # GO BEYOND THE PAPER THINKING: EMBED YOUR DATA SCIENCE IN THE DOCUMENT!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to just use algorithms and their output within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
 And as notebooks are usually built on web technology, you can then include almost anything found on the web.
 
-
-# JUST TRY IT TOGETHER !
-For **open science** reasons, my order of preference is: Jupyter, R&nbsp;notebooks, Observable
+**JUST TRY IT TOGETHER**: For **open science** reasons, my order of preference is: Jupyter, R&nbsp;notebooks, Observable
 ![notebook brands](notebooks.png)
 
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
