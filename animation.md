@@ -40,13 +40,13 @@ Second, context and process is lost:
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 - It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page.
 
-# GO BEYOND THE PAPER THINKING: EMBED YOUR DATA SCIENCE IN A NOTEBOOK WITH THE POWER OF THE WEB!
+# GO BEYOND THE PAPER THINKING:<br>EMBED YOUR DATA SCIENCE IN A NOTEBOOK WITH THE POWER OF THE WEB!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to just use algorithms and their output within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
 And as notebooks are usually built on web technology, you can then include almost anything found on the web.
 
-**JUST TRY IT TOGETHER**: For **open science** reasons, my order of preference is: Jupyter, R&nbsp;notebooks, Observable
+**JUST TRY IT TOGETHER**: For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)
 
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
