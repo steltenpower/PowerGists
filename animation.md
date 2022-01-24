@@ -14,7 +14,7 @@ Mechanical contraptions were developed for lousy scriblers<br>![typewriter](http
 
 Against sneezing and bird droppings paper documents were covered with a glass plate and a lamp put behind it<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
-Electronics moved most of the typewriter behind the paper, leaving only a thin keyboard in front of it, attached by some wire<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
+Electronics moved most of the typewriter behind the paper, leaving only a thin keyboard in front of it<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
 Nowadays invisible wires connect to some cloud that allows typing on papers elsewhere<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 
