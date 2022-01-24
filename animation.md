@@ -26,7 +26,7 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 Well, usually ...<br>![dead papers](deadpapers.jfif)
 
-First, information is lost with copy-paste<br>
+First, result information is lost with copy-paste<br>
 ![CopyPasteWaste](CopyPasteWaste.png)<br>
 
 For example:
@@ -36,9 +36,9 @@ For example:
 - video becoming a silent snapshot<br>[IMG]
 - interactive objects becoming dead photos<br>[IMG]
 
-But there's more than just end results, there's also context and process:
-- If in manually copy-pasting a mistake is made, making a slight or completely wrong selection, that mistake is often impossible to detect in the result, let alone repairable.
+Second, context and process is lost:
 - As you copy only a result, you miss the process behind it; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
+- If in manually copy-pasting a mistake is made, making a slight or completely wrong selection, that mistake is often impossible to detect in the result, let alone repairable.
 - It's awfully difficult to keep files consistent with each other (within specified versions)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 
