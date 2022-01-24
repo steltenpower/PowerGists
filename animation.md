@@ -26,10 +26,10 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 Well, usually ...<br>![dead papers](deadpapers.jfif)
 
-Because ...<br>
+First, information is lost with copy-paste<br>
 ![CopyPasteWaste](CopyPasteWaste.png)<br>
 
-
+For example:
 - styled text becoming plain text<br>[IMG]
 - WordArt becoming an raster image, in which you can't search<br>[IMG]
 - infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG]
