@@ -31,7 +31,7 @@ First, result information is often crippled. For example:
 - WordArt becoming an raster image, in which you can't search<br>[IMG needed]
 - infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG needed]
 - video becoming a silent snapshot<br>[IMG needed]
-- interactive objects becoming dead photos<br>[IMG needed]
+- interactive objects becoming dead photos<br>[IMG needed]<br><br>
 In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 Second, context and process is lost:
