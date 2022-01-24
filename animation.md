@@ -22,7 +22,7 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 ---
 ---
 
-# SO, NOWADAYS DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
+# SO PAPER NOWADAYS IS DATA-ENABLED, INTERACTIVE, MULTI-USER? RIGHT?
 
 Well, actually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
