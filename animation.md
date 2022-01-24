@@ -20,18 +20,10 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 ---
 
-# NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
-![dead papers]()
+# BUT NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
+Well, usually ...![dead papers](deadpapers.jfif)
 
 
-
-What 4-letter word, that our narratives nowadays are often heavily based on, was not mentioned so far ?
-
-hints: ????-driven, or better: ????-assisted
-
-DATA !!!!
-
-But, aren't many documents still much like a sheet of paper in some sort of typewriter?
 
 ---
 
