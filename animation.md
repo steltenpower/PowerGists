@@ -36,7 +36,7 @@ In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 Second, context and process is lost:
 - A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter.
-- A slightly wrong selection to copy is often impossible to detect in the result, let alone repairable.
+- A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable.
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 - It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page.
 
