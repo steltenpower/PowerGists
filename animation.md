@@ -24,25 +24,23 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 # BUT NOW DATA-ASSISTED, INTERACTIVE, MULTI-USER, RIGHT?
 
-Well, usually ...<br>![dead papers](deadpapers.jfif)
+Well, usually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
-First, result information is lost with copy-paste<br>
-![CopyPasteWaste](CopyPasteWaste.png)<br>
-
-For example:
+First, result information is often crippled. For example:
 - styled text becoming plain text<br>[IMG]
 - WordArt becoming an raster image, in which you can't search<br>[IMG]
 - infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG]
 - video becoming a silent snapshot<br>[IMG]
 - interactive objects becoming dead photos<br>[IMG]
+In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 Second, context and process is lost:
-- As you copy only a result, you miss the process behind it; a disaster for REPRODUCIBILITY and reasoning about and experimenting with the matter.
-- If in manually copy-pasting a mistake is made, making a slight or completely wrong selection, that mistake is often impossible to detect in the result, let alone repairable.
+- A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter.
+- A slightly wrong selection to copy is often impossible to detect in the result, let alone repairable.
 - It's awfully difficult to keep files consistent with each other (within specified versions)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date.
 
-# LINK REFER, AND EMBED INSTEAD !
+# GO BEYOND THE PAPER THINKING: EMBED YOUR DATA SCIENCE IN THE DOCUMENT!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to just use algorithms and their output within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
