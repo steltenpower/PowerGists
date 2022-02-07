@@ -27,18 +27,18 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 Well, actually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
 First, result information is often crippled. For example:
-- styled text becoming plain text<br>[IMG needed]
-- WordArt becoming an raster image, in which you can't search<br>[IMG needed]
-- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[IMG needed]
-- video becoming a silent snapshot<br>[IMG needed]
-- interactive objects becoming dead photos<br>[IMG needed]<br><br>
+- styled text becoming plain text<br>[animatedIMG needed]
+- WordArt becoming an raster image, in which you can't search<br>[animatedIMG needed]
+- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[animatedIMG needed]
+- video becoming a silent snapshot<br>[animatedIMG needed]
+- interactive objects becoming dead photos<br>[animatedIMG needed]<br><br>
 In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 Second, context and process is lost:
-- A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter<br>[IMG needed]
-- A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[IMG needed]
-- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[IMG needed]
-- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[IMG needed]
+- A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter<br>[animatedIMG needed]
+- A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed]
+- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed]
+- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed]
 
 # GO BEYOND THE PAPER THINKING:<br>EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to just use algorithms and their output within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
