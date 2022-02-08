@@ -28,7 +28,7 @@ Well, actually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
 First, result information is often crippled. For example:
 - styled text becoming plain text<br>[animatedIMG needed]
-- WordArt becoming an raster image, in which you can't search<br>[animatedIMG needed]
+- WordArt becoming a raster image, in which you can't search<br>[animatedIMG needed]
 - infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[animatedIMG needed]
 - video becoming a silent snapshot<br>[animatedIMG needed]
 - interactive objects becoming dead photos<br>[animatedIMG needed]<br><br>
