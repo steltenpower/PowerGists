@@ -1,4 +1,4 @@
-# ROCK, PAPER, ~~SCISSORS~~ WEB-BASED SCIENCE NOTEBOOKS
+# ROCK, PAPER, ~~SCISSORS~~ WEB-POWERED SCIENCE NOTEBOOKS
 
 Creating documents ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
