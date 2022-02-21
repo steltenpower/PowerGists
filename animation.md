@@ -1,8 +1,8 @@
 # PAPER HISTORY
 
-Writers ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
+Creating documents ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
-... bringing it to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
+... and bringing them to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 
 Luckily lighter materials were found ...<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 
@@ -12,9 +12,9 @@ Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic
 
 ... with contraptions for lousy scriblers ...<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 
-... and shielding against bird droppings ...<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
+... later shielding against bird droppings ...<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
-... later also hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
+... and hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
 Nowadays you can even type on papers elsewhere.<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 
