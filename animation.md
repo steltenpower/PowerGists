@@ -22,12 +22,9 @@ Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic
 
 ---
 
-Then digitalization brought limitless possibilities ... <br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
-... but our habits are quite stuck in the physical paper age.<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)
-
----
-
-![dead papers](deadpapers.jfif)
+Then digitalization brought limitless possibilities ...<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
+... while habits hold us back, using physical paper (simulation), ...<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)
+... not hyper-connected in any way you can imagine<br>![dead papers](deadpapers.jfif)
 
 ---
 
