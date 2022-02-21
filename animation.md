@@ -22,7 +22,7 @@ Nowadays you can even type on papers elsewhere.<br>![cloud](https://images.theco
 ---
 ---
 
-# DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE?
+# DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
 
 Well, mostly ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
