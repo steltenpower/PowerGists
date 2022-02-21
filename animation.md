@@ -24,9 +24,9 @@ Nowadays you can even type on papers elsewhere.<br>![cloud](https://images.theco
 
 # DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
 
-Well, mostly ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
+Well, mostly ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste, as
 
-1st: result information is often crippled. For example:
+2nd: result information is often crippled, e.g.:
 - styled text becoming plain text<br>[animatedIMG needed]
 - WordArt becoming a raster image, in which you can't search<br>[animatedIMG needed]
 - infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[animatedIMG needed]
@@ -34,7 +34,7 @@ Well, mostly ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 - interactive objects becoming dead photos<br>[animatedIMG needed]<br><br>
 In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
-2nd: context and process is lost:
+but 1st: context and process is lost:
 - A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter<br>[animatedIMG needed]
 - A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed]
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed]
