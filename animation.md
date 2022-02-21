@@ -17,7 +17,7 @@ Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic
 ... and hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
 Nowadays digitalization gives limitless possibilities ... <br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop) ...
-but our use of it seems stuck in the paper age ![dead papers](deadpapers.jfif)
+but our use of it seems stuck in the paper age.<br>![dead papers](deadpapers.jfif)
 
  DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
 
