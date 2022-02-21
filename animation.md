@@ -24,7 +24,7 @@ Nowadays you can even type on papers elsewhere.<br>![cloud](https://images.theco
 
 # DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
 
-Well, mostly ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste, as
+Well, mostly ...<br>![dead papers](deadpapers.jfif),<br>where copy-paste is complicit:
 
 2nd: result information is often crippled, e.g.:
 - styled text becoming plain text<br>[animatedIMG needed]
