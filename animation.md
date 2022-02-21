@@ -10,9 +10,9 @@ Easily stained however<br>![birdshit](https://www.nicepng.com/png/detail/147-147
 
 Shit makes inventful though<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
-Mechanical contraptions were developed for lousy scriblers<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
+with contraptions for lousy scriblers<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 
-Against sneezing and bird droppings paper documents were covered with a glass plate and a lamp put behind it<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
+And document shielding against bird droppings<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
 Electronics moved most of the typewriter behind the paper, leaving only a thin keyboard in front of it<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
