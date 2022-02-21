@@ -16,15 +16,12 @@ Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic
 
 ... and hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
-Nowadays you can even type on papers elsewhere.<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
+Nowadays digitalization gives limitless possibilities ... <br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop) ...
+but our use of it seems stuck in the paper age ![dead papers](deadpapers.jfif)
 
----
----
----
+ DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
 
-# DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
-
-Well, mostly ...<br>![dead papers](deadpapers.jfif),<br>where copy-paste is complicit:
+where copy-paste is complicit:
 
 2nd: result information is often crippled, e.g.:
 - styled text becoming plain text<br>[animatedIMG needed]
