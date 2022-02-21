@@ -4,9 +4,13 @@ Creating documents ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstoc
 
 ... and bringing them to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 
+---
+
 Luckily lighter materials were found ...<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 
 ... easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
+
+---
 
 Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
@@ -16,10 +20,14 @@ Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic
 
 ... and hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
-Nowadays digitalization gives limitless possibilities ... <br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop) ...
-but our use of it seems stuck in the paper age.<br>![dead papers](deadpapers.jfif)
+---
 
- DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER?
+Nowadays digitalization gives limitless possibilities ... <br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
+... but our use of it seems stuck in the paper (thinking) age.<br>![dead papers](deadpapers.jfif)
+
+---
+
+Isn't  ...<br>... DATA-ENABLED, INTERACTIVE, FLUENTLY MULTI-USER with in-context forms of communication?
 
 where copy-paste is complicit:
 
