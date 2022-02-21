@@ -2,11 +2,11 @@
 
 Writers ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
-... bringing it to readers<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
+... bringing it to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 
 Luckily lighter materials were found ...<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
 
-... easily stained however<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
+... easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
 
 Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
@@ -14,17 +14,17 @@ Shit makes inventful though ...<br>![feather pen](https://encrypted-tbn0.gstatic
 
 ... and shielding against bird droppings ...<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
-... later hiding half the typewriter<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
+... later also hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
-Nowadays invisible wires connect to some cloud that allows typing on papers elsewhere<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
+Nowadays you can even type on papers elsewhere<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 
 ---
 ---
 ---
 
-# SO PAPER NOWADAYS IS ...<br>... DATA-ENABLED, INTERACTIVE, MULTI-USER? RIGHT?
+# DID THIS MAKE OUR WRITING ...<br>... DATA-ENABLED, INTERACTIVE?
 
-Well, actually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
+Well, mostly ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
 1st: result information is often crippled. For example:
 - styled text becoming plain text<br>[animatedIMG needed]
