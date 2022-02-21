@@ -26,7 +26,7 @@ Nowadays invisible wires connect to some cloud that allows typing on papers else
 
 Well, actually ...<br>![dead papers](deadpapers.jfif)<br>because of copy-paste
 
-First, result information is often crippled. For example:
+1st: result information is often crippled. For example:
 - styled text becoming plain text<br>[animatedIMG needed]
 - WordArt becoming a raster image, in which you can't search<br>[animatedIMG needed]
 - infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[animatedIMG needed]
@@ -34,7 +34,7 @@ First, result information is often crippled. For example:
 - interactive objects becoming dead photos<br>[animatedIMG needed]<br><br>
 In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
 
-Second, context and process is lost:
+2nd: context and process is lost:
 - A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter<br>[animatedIMG needed]
 - A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed]
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed]
