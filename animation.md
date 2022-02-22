@@ -1,6 +1,6 @@
 # ROCK, PAPER, ~~SCISSORS~~ WEB-POWERED SCIENCE NOTEBOOKS
 
-Creating documents ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
+First making rock hard documents ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
 ... and bringing them to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 
