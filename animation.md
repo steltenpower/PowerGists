@@ -30,7 +30,7 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 ---
 
-Explaining the content limitations:<br>![CopyPasteWaste](CopyPasteWaste.png)
+Part is content type incompatibilities:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 - styled text becoming plain text<br>[animatedIMG needed?]
 - Formulas becoming raster images, in which you can't search<br>[animatedIMG needed?]
