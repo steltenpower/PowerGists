@@ -45,6 +45,7 @@ Probably more important, but not as easy to notice: the context and process is l
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed?]
 - A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed?]
 
+---
 
 # EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK INSTEAD!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to edit, run and show the output of algorithms within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
