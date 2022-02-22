@@ -51,7 +51,7 @@ Probably more important, but not as easy to notice: the context and process is l
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to edit, run and show the output of algorithms within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
-And as notebooks are usually built on web technology, you can then include almost anything found on the web.
+And as these notebooks are built on web technology, you can include almost anything found on the web.
 
 **JUST TRY IT WITH YOUR TEAM**: For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)
