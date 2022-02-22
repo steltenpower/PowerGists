@@ -1,8 +1,8 @@
 # ROCK, PAPER, ~~SCISSORS~~ WEB-POWERED SCIENCE NOTEBOOKS
 
-The very first making rock hard documents ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
+How the very first rock hard documents were made ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
-... and bringing them to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
+... and delivered to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
 
 ---
 
