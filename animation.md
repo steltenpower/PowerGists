@@ -26,25 +26,25 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 ... but physical paper (simulation) habits ...<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)
 
-... don't use hyper-connected interactivity<br>![dead papers](deadpapers.jfif)
+... don't use the hyper-connected interactivity of the web<br>![dead papers](deadpapers.jfif)
 
 ---
 
-where copy-paste is complicit:
+Explaining the content limitations:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
-2nd: result information is often crippled, e.g.:
-- styled text becoming plain text<br>[animatedIMG needed]
-- WordArt becoming a raster image, in which you can't search<br>[animatedIMG needed]
-- infinite zoomable vector graphics turned into a raster image in which zooming quickly becomes pixelated.<br>[animatedIMG needed]
-- video becoming a silent snapshot<br>[animatedIMG needed]
-- interactive objects becoming dead photos<br>[animatedIMG needed]<br><br>
-In other words<br>![CopyPasteWaste](CopyPasteWaste.png)
+- styled text becoming plain text<br>[animatedIMG needed?]
+- Formulas becoming raster images, in which you can't search<br>[animatedIMG needed?]
+- infinite zoomable vector graphics turned into a pixelated raster images<br>[animatedIMG needed?]
+- video becoming a silent snapshot<br>[animatedIMG needed?]
+- interactive objects becoming dead photos<br>[animatedIMG needed?]<br><br>
 
-but 1st: context and process is lost:
-- A **disaster for REPRODUCIBILITY** and reasoning about and experimenting with the matter<br>[animatedIMG needed]
-- A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed]
-- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed]
-- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed]
+
+Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
+- Reasoning about and experimenting with the matter, is frustrated<br>[animatedIMG needed?]
+- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed?]
+- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed?]
+- A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed?]
+
 
 # EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms (these things computer programmers create) use URLs to refer to up-to-date input data. And now there's a way to edit, run and show the output of algorithms within your **TEXT** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word within Teams are famous for cooperating among writers, these notebooks allow to add programmers, **CODE** (in which anybody can read where data comes from) and results (often **PLOT**).
