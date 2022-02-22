@@ -62,4 +62,4 @@ END
 ---
 
 - If you like this, you probably like [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) too. Have a coder available for a bit, to implement further?
-- A bit more difficult to wrap your head around, but the more powerful: [Train of Thought](https://github.com/steltenpower/Train-Of-Thought/blob/main/README.md). Slowly moving forward, possibly a lot faster soon.
+- A bit more difficult to wrap your head around, but the more powerful: [Train of Thought](https://github.com/steltenpower/Train-Of-Thought/blob/main/README.md). Some funding was received to implement a first bit of the plan.
