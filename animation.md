@@ -1,4 +1,4 @@
-# ROCK, PAPER, ~~SCISSORS~~ WEB-POWERED SCIENCE NOTEBOOKS
+# ROCK, PAPER, ~~SCISSORS~~ SCIENCE NOTEBOOKS
 
 How the very first rock hard documents were made ...<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 
