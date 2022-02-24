@@ -43,7 +43,7 @@ Probably more important, but not as easy to notice: the context and process is l
 - Reasoning about and experimenting with the matter, is frustrated<br>[animatedIMG needed?]
 - It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed?]
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed?]
-- A slightly wrong selection to copy (a decimal point missed?) is often impossible to detect in the result, let alone repairable<br>[animatedIMG needed?]
+- When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>[animatedIMG needed?]
 
 ---
 
