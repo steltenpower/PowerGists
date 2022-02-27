@@ -33,15 +33,15 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 Part of the problem is content type incompatibilities``*`` between applications:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 - styled text becoming plain text<br>[animatedIMG needed?]
-- Formulas becoming raster images, in which you can't search<br>[animatedIMG needed?]
+- Word Art and formulas becoming raster images, in which you can't search<br>[animatedIMG needed?]
 - infinite zoomable vector graphics turned into a pixelated raster images<br>[animatedIMG needed?]
-- video becoming a silent snapshot<br>[animatedIMG needed?]
+- video and animations become a silent snapshot<br>[animatedIMG needed?]
 - interactive objects becoming dead photos<br>[animatedIMG needed?]<br><br>
 
 Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
 - Reasoning about and experimenting with the matter, is frustrated<br>[animatedIMG needed?]
-- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed?]
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed?]
+- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed?]
 - When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>[animatedIMG needed?]
 
 ---
