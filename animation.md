@@ -30,14 +30,13 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 ---
 
-Part of the problem is content type incompatibilities between applications:<br>![CopyPasteWaste](CopyPasteWaste.png)
+Part of the problem is ``*``content type incompatibilities between applications:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 - styled text becoming plain text<br>[animatedIMG needed?]
 - Formulas becoming raster images, in which you can't search<br>[animatedIMG needed?]
 - infinite zoomable vector graphics turned into a pixelated raster images<br>[animatedIMG needed?]
 - video becoming a silent snapshot<br>[animatedIMG needed?]
 - interactive objects becoming dead photos<br>[animatedIMG needed?]<br><br>
-
 
 Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
 - Reasoning about and experimenting with the matter, is frustrated<br>[animatedIMG needed?]
@@ -58,9 +57,10 @@ As these notebooks are built on web technology, you can include/embed almost any
 
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
 
+``*`` content type incompatibilities occur less when sticking to open file formats, which help Interoperability, the I in FAIR data. To make that easier
+[FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Hoping to implement it everywhere.
+
 END
 
 ---
 
-- If you like this, you probably like [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) too. Hoping to implement it everywhere.
-- A bit more difficult to wrap your head around, but the more powerful: [Train of Thought](https://github.com/steltenpower/Train-Of-Thought/blob/main/README.md). Some funding was received to make a start implementing
