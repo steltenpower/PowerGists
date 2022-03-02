@@ -62,5 +62,6 @@ _psst: Notebooks can be exported to several formats, both dynamic (dashboards, w
 
 END
 
+The above will be used in a 1080p YouTube clip
 ---
 
