@@ -42,7 +42,7 @@ Probably more important, but not as easy to notice: the context and process is l
 - It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
-In other words:<b>![CopyPasteWaste](CopyPasteWaste.png)
+In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 ---
 
