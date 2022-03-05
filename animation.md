@@ -35,9 +35,7 @@ Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ betw
 - styled text becomes plain text<br>[animatedIMG needed?]
 - formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>[animatedIMG needed?]
 - always-sharp vector graphics turn into pixelated raster images<br>[animatedIMG needed?]
-- video and animations become a silent snapshot<br>[animatedIMG needed?]
-- interactive objects become static photos<br>[animatedIMG needed?]<br><br>
-
+- video, animations and interactive objects become silent static snapshot<br>[animatedIMG needed?]
 
 Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
 - Reasoning about and experimenting with the matter, is frustrated<br>[animatedIMG needed?]
