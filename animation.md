@@ -63,6 +63,6 @@ END
 
 Basing a 1080p YouTube clip on the above
 
-Look what I found now: https://www.nature.com/articles/d41586-022-00563-z
+[A more technically detailed article in Nature with the same message](https://www.nature.com/articles/d41586-022-00563-z)
 ---
 
