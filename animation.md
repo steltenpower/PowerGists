@@ -58,7 +58,7 @@ As these notebooks are built on web technology, you can include/embed almost any
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
 
 ``*`` content type incompatibilities occur less when sticking to open file formats, which help Interoperability, the I in FAIR data. To make that easier
-[FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Hoping to implement it everywhere.
+[FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 END
 
