@@ -37,12 +37,13 @@ Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ betw
 - videos, animations and interactive objects become silent static snapshots<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
-- Reasoning about and experimenting with the matter, is frustrated<br><br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- Reasoning about and experimenting with the matter, is frustrated<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 In other words:![CopyPasteWaste](CopyPasteWaste.png)
+
 ---
 
 # EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK INSTEAD!
