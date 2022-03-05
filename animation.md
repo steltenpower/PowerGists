@@ -34,7 +34,7 @@ Part of the problem is content type incompatibilities``*`` between applications:
 
 - styled text becomes plain text<br>[animatedIMG needed?]
 - formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>[animatedIMG needed?]
-- always sharp vector graphics turn into pixelated raster images<br>[animatedIMG needed?]
+- always-sharp vector graphics turn into pixelated raster images<br>[animatedIMG needed?]
 - video and animations become a silent snapshot<br>[animatedIMG needed?]
 - interactive objects become static photos<br>[animatedIMG needed?]<br><br>
 
