@@ -30,9 +30,7 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 ---
 
-Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ between applications:<br>![CopyPasteWaste](CopyPasteWaste.png)
-
-For example:
+Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ between applications, for example:
 - styled text becomes plain text<br>[animatedIMG needed?]
 - formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>[animatedIMG needed?]
 - always-sharp vector graphics turn into pixelated raster images<br>[animatedIMG needed?]
@@ -44,6 +42,7 @@ Probably more important, but not as easy to notice: the context and process is l
 - It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed?]
 - When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>[animatedIMG needed?]
 
+In other words:![CopyPasteWaste](CopyPasteWaste.png)
 ---
 
 # EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK INSTEAD!
