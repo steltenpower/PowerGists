@@ -32,6 +32,7 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ between applications:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
+For example:
 - styled text becomes plain text<br>[animatedIMG needed?]
 - formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>[animatedIMG needed?]
 - always-sharp vector graphics turn into pixelated raster images<br>[animatedIMG needed?]
