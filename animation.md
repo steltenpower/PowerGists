@@ -31,16 +31,16 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 ---
 
 Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ between applications, for example:
-- styled text becomes plain text<br>[animatedIMG needed?]
-- formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>[animatedIMG needed?]
-- always-sharp vector graphics turn into pixelated raster images<br>[animatedIMG needed?]
-- videos, animations and interactive objects become silent static snapshots<br>[animatedIMG needed?]
+- styled text becomes plain text<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- always-sharp vector graphics turn into pixelated raster images<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- videos, animations and interactive objects become silent static snapshots<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
-- Reasoning about and experimenting with the matter, is frustrated<br>[animatedIMG needed?]
-- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>[animatedIMG needed?]
-- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>[animatedIMG needed?]
-- When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>[animatedIMG needed?]
+- Reasoning about and experimenting with the matter, is frustrated<br><br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- It's awfully difficult to keep files consistent with each other (within specified versions). Google "git" when finished reading this page<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 In other words:![CopyPasteWaste](CopyPasteWaste.png)
 ---
