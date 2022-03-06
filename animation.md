@@ -30,13 +30,15 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 ---
 
-Part of the Cut/Copy/Paste problem is _content-type incompatibilities``*``_ between applications, for example:
+Part of the Cut/Copy/Paste problem is content-type incompatibilities between applications, for example:
 - styled text becomes plain text<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - formulas and text in visualizations become raster images, which can't be directly edited, or searched or indexed<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - always-sharp vector graphics turn into pixelated raster images<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - videos, animations and interactive objects become silent static snapshots<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
-Probably more important, but not as easy to notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
+Part of these problems can be avoided by sticking to open file formats``*``, as they improve Interoperability, the I in FAIR data.
+
+But probably more important and easier to not notice: the context and process is lost, a **disaster for REPRODUCIBILITY**:
 - Reasoning about and experimenting with the matter, is frustrated<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - A later change in the source will not be automatically reflected in where it's copied to. There it will be out of date<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - It's awfully difficult to keep files consistent with each other (within specified versions)``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
@@ -57,15 +59,15 @@ As these notebooks are built on web technology, you can include/embed almost any
 
 _psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
 
-``*``: content type incompatibilities occur less when sticking to open file formats, which help Interoperability, the I in FAIR data. To make that easier [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
+``*``: To easier take more advantage of open file formats [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ``**``: make sure to look into the de facto standard for version control: [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+
+[A more technically detailed article in Nature with the same message](https://www.nature.com/articles/d41586-022-00563-z)
 
 END
 
 Basing a 1080p YouTube clip on the above
-
-[A more technically detailed article in Nature with the same message](https://www.nature.com/articles/d41586-022-00563-z)
 
 ---
 
