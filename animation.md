@@ -63,7 +63,7 @@ _psst: Notebooks can be exported to several formats, both dynamic (dashboards, w
 
 ``**``: make sure to look into the de facto standard for version control: [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
-[A more technically detailed article in Nature with the same message](https://www.nature.com/articles/d41586-022-00563-z)
+[A more technically detailed article in Nature about these Notebooks](https://www.nature.com/articles/d41586-022-00563-z)
 
 END
 
