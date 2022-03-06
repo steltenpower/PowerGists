@@ -69,4 +69,4 @@ END
 
 ---
 
-Basing a 1080p YouTube clip on the above
+A 1080p YouTube clip is under development with the above as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation. Suggestions are very welcome. Help out!
