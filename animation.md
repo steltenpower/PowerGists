@@ -34,7 +34,7 @@ Part of the Cut/Copy/Paste problem is content-type incompatibilities between app
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- Losing movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 Part of these problems can be avoided by sticking to open file formats``*``, as they improve Interoperability, the I in FAIR data.
 
