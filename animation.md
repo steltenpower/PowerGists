@@ -40,11 +40,11 @@ Content-type not interoperable``*``:
 
 Losing context and process; **KILLING REPRODUCIBILITY**:
 <br>>>> Put them in a 2x2 grid!!!
-- When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- No experimenting``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- Clumsy while copying<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- No auto-updating``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)
-
 ---
 
 # EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK INSTEAD!
