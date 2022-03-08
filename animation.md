@@ -28,7 +28,7 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 
 … not using the hyper-connected data-driven interactivity of the web.<br>![dead papers](deadpapers.jfif)
 
----
+<br><br>
 
 The old habits' troubles are non-Interoperable Content-type``*`` …:
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
