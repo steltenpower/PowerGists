@@ -30,7 +30,7 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 
 <br><br>
 
-The old habits' troubles are non-Interoperable Content-type``*`` …:
+The old habits' troubles are non-<span style="text-decoration:underline;">interoperable</span> content-type``*`` …:
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
@@ -62,6 +62,8 @@ As these notebooks are built on web technology, you can include/embed almost any
 Your work can then also be exported to both dynamic (dashboards, web apps, etc.) and static formats (e.g. stone tablets now named PDF).
 
 ENJOY!
+
+---
 
 ``*``: To easier take more advantage of open file formats [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
