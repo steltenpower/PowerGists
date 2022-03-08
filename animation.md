@@ -40,9 +40,10 @@ Content-type not interoperable``*``:
 
 Losing context and process; **KILLING REPRODUCIBILITY**:
 <br>>>> Put them in a 2x2 grid!!!
-- Clumsy while copying<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- No auto-updating``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- File edits less consistently manageable``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)
 ---
