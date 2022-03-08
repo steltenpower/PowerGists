@@ -36,7 +36,7 @@ Content-type not interoperable``*``:
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
-- -
+<br><br><br><br>
 
 Losing context and process; **KILLING REPRODUCIBILITY**:
 <br>>>> Put them in a 2x2 grid!!!
