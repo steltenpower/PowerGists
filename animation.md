@@ -30,7 +30,7 @@ Then digitalization brought limitless possibilities ...<br>![cloud](https://imag
 
 ---
 
-Part of the Cut/Copy/Paste problem is content-type incompatibilities between applications, for example:
+Content-type incompatibilities like:
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
@@ -42,7 +42,7 @@ Part of these problems can be avoided by sticking to open file formats``*``, as 
 
 Context and process is lost, a **disaster for REPRODUCIBILITY**:
 - When you didn't copy (or type) what you thought you did, it is often impossible to detect, let alone repair<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- No experimenting<.br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - It's awfully difficult to keep files consistent with each other (within specified versions)``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
