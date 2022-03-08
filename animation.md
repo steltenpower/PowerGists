@@ -39,7 +39,6 @@ The old habits' troubles are non-Interoperable Content-type``*`` …:
 <br><br><br><br>
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
-<br>>>> Put them in a 2x2 grid!!!
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
@@ -74,4 +73,6 @@ END
 
 A 1080p YouTube clip is under development with the above as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation. Suggestions are very welcome. Help out!
 
-TODO: I have similar keyboard and computer screen at home, so should dust them off and make public domain photos.
+TODO:
+- I have similar keyboard and computer screen at home, so should dust them off and make public domain photos.
+- The 8 images explaining the problem of cut/copy/paste will be arranged into 2 pages each with a 2x2 grid of images.
