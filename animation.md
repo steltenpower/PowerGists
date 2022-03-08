@@ -30,7 +30,7 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 
 ---
 
-The old habits trouble's are unInteroperable Content-type``*`` …:
+The old habits' troubles are unInteroperable Content-type``*`` …:
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
