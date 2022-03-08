@@ -36,7 +36,7 @@ The old habits' troubles are non-Interoperable Content-type``*`` …:
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
-<br><br><br><br>
+<br><br>
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
