@@ -44,6 +44,8 @@ The old habits' troubles are non-Interoperable Content-type``*`` …:
 - No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - File edits less consistently manageable``**``.<br>start doing **git**![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
+<br><br>
+
 In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)
 
 ---
