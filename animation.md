@@ -38,7 +38,7 @@ Content-type not interoperable``*``:
 
 <br><br><br><br>
 
-Losing context and process; **KILLING REPRODUCIBILITY**:
+Losing context and process **= KILLING REPRODUCIBILITY**:
 <br>>>> Put them in a 2x2 grid!!!
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
