@@ -62,7 +62,7 @@ _psst: Notebooks can be exported to several formats, both dynamic (dashboards, w
 
 ``*``: To easier take more advantage of open file formats [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
-``**``: make sure to look into the de facto standard for version control of collections of files potentially edited by groups: [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+``**``: make sure to look into the de facto standard for version control (of collections of files potentially edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
 [A more technically detailed article in Nature about these Notebooks](https://www.nature.com/articles/d41586-022-00563-z)
 
