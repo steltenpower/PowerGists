@@ -10,7 +10,7 @@ Luckily lighter materials were soon found …<br>![paper airplane](https://www.p
 
 … easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
 
----
+<br><br>
 
 Shit makes inventful though …<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
