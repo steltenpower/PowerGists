@@ -78,5 +78,5 @@ END
 A 1080p YouTube clip is under development with the above as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation. Suggestions are very welcome. Help out!
 
 TODO:
-- I have similar keyboard and computer screen at home, so should dust them off and make public domain photos.
+- I have a similar keyboard and computer screen at home, so should dust them off and make public domain photos.
 - The 8 images explaining the problem of cut/copy/paste will be arranged into 2 pages each with a 2x2 grid of images.
