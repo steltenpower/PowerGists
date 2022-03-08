@@ -16,9 +16,9 @@ Shit makes inventful though …<br>![feather pen](https://encrypted-tbn0.gstatic
 
 … with contraptions for lousy scriblers …<br>![typewriter](https://cdn3.vectorstock.com/i/1000x1000/23/67/drawing-of-old-typewriter-with-a-paper-in-black-vector-20272367.jpg)
 
-… later shielding against bird droppings …<br> >>> I have a similar computer screen, I can make a public domain picture myself !!! <br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
+… later shielding against bird droppings …<br>![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 
-… and hiding most of the typewriter.<br> >>> I have a similar keyboard, I can make a public domain picture myself !!! <br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
+… and hiding most of the typewriter.<br>![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)
 
 ---
 
@@ -71,3 +71,5 @@ END
 ---
 
 A 1080p YouTube clip is under development with the above as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation. Suggestions are very welcome. Help out!
+
+TODO: I have similar keyboard and computer screen at home, so should dust them off and make public domain photos.
