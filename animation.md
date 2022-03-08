@@ -58,7 +58,9 @@ As these notebooks are built on web technology, you can include/embed almost any
 **JUST TRY IT WITH YOUR TEAM**: For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)
 
-_psst: Notebooks can be exported to several formats, both dynamic (dashboards, web apps, etc.) and static (e.g. stone tablets now named PDF)._
+Your work can then also be exported to both dynamic (dashboards, web apps, etc.) and static formats (e.g. stone tablets now named PDF).
+
+ENJOY!
 
 ``*``: To easier take more advantage of open file formats [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
