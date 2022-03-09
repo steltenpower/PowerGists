@@ -23,11 +23,11 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 ---
 
-Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
+Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈🛈
 
-… but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)
+… but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)🛈brand🛈
 
-… not using the hyper-connected data-driven interactivity of the web.<br>![dead papers](deadpapers.jfif)
+… not using the hyper-connected data-driven interactivity of the web.<br>![dead papers](deadpapers.jfif)🛈🛈
 
 <br><br>
 
