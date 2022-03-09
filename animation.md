@@ -41,7 +41,7 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``con
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>Not copying what was meant to be copied![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - No experimenting.<br>How would the output be different if this value changed?![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- No auto-updating.<br>!If the original data changed, it wouldn't change here[animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- No auto-updating.<br>!If the original data changed, it wouldn't change here![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - File edits less consistently manageable``**``.<br>Show how B never sees fix by A and then overwrites it![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 
 <br><br>
