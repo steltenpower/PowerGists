@@ -17,9 +17,9 @@ Shit makes inventful though …<br>![feather pen](https://encrypted-tbn0.gstatic
 … with contraptions for lousy scriblers …<br>![typewriter](https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg)[.](https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg)
 
 … later shielding against bird droppings …<br><!--![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
--->![MyMonitor](IMG_20220309_114247129.jpg)
+-->![MyMonitor](IMG_20220309_114247129.jpg)🛈Ruud🛈
 
-… and hiding most of the typewriter.<br><!--![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)-->![MyKeyboard](IMG_20220309_115605800_HDR.jpg)
+… and hiding most of the typewriter.<br><!--![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)-->![MyKeyboard](IMG_20220309_115605800_HDR.jpg)🛈Ruud🛈
 
 ---
 
