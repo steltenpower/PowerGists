@@ -39,7 +39,7 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``con
 <br><br>
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
-- Unrepairable manual errors<br>Not copying what was meant to be copied![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Not copying what was meant to be copied
+- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Not copying what was meant to be copied
 - No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)How would the output be different if this value changed?
 - No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)If the original data changed, it wouldn't change here
 - File edits less consistently manageable``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Show how B never sees fix by A and then overwrites it
