@@ -14,7 +14,7 @@ Luckily lighter materials were soon found …<br>![paper airplane](https://www.p
 
 Shit makes inventful though …<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)
 
-… with contraptions for lousy scriblers …<br>![typewriter](https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg)
+… with contraptions for lousy scriblers …<br>![typewriter](https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg)[.](https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg)
 
 … later shielding against bird droppings …<br><!--![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
 -->![MyMonitor](IMG_20220309_114247129.jpg)
