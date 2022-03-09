@@ -31,18 +31,18 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 <br><br>
 
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``content-types …
-- Losing style<br>Copy Styled text, Paste plain text![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- Losing direct edit, search, index.<br>Copy text within visual, Paste raster image![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- Losing sharpness<br>Copy vector image, Paste pixelated raster image![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- Losing interactivity, movement and sound<br>Copy video/animation/InteractiveVisual, Paste static raster image![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy Styled text, Paste plain text
+- Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy text within visual, Paste raster image
+- Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy vector image, Paste pixelated raster image
+- Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy video/animation/InteractiveVisual, Paste static raster image
 
 <br><br>
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
-- Unrepairable manual errors<br>Not copying what was meant to be copied![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- No experimenting.<br>How would the output be different if this value changed?![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- No auto-updating.<br>!If the original data changed, it wouldn't change here![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
-- File edits less consistently manageable``**``.<br>Show how B never sees fix by A and then overwrites it![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
+- Unrepairable manual errors<br>Not copying what was meant to be copied![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Not copying what was meant to be copied
+- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)How would the output be different if this value changed?
+- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)If the original data changed, it wouldn't change here
+- File edits less consistently manageable``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Show how B never sees fix by A and then overwrites it
 
 <br><br>
 
