@@ -1,18 +1,18 @@
 # ROCK, PAPER, ~~SCISSORS~~ SCIENCE NOTEBOOKS
 
-How the very first rock hard science documents were made …<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
+How the very first rock hard science documents were made …<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)🛈🛈
 
-… and delivered to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
+… and delivered to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)🛈🛈
 
 ---
 
-Luckily lighter materials were soon found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)
+Luckily lighter materials were soon found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈🛈
 
-… easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)
+… easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈🛈
 
 <br><br>
 
-Shit makes inventful though …<br>![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)[add blood ink](https://freesvg.org/hand-with-a-quill)
+Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)-->[add blood ink](https://freesvg.org/hand-with-a-quill)🛈🛈
 
 … with contraptions for lousy scriblers …<br>![typewriter](https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg)[🛈WikiCommons🛈](https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg)
 
@@ -47,7 +47,7 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``con
 
 <br><br>
 
-In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)
+In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 ---
 
@@ -58,7 +58,7 @@ We all know hyperlinks to manually click from one page to the next, but web addr
 As these notebooks are built on web technology, you can include/embed almost anything found on the web. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available.
 
 **JUST TRY IT WITH YOUR TEAM**: For **open science** reasons, my order of preference is:
-![notebook brands](notebooks.png)
+![notebook brands](notebooks.png)🛈Ruud/brands🛈
 
 Your work can then also be exported to both dynamic (dashboards, web apps, etc.) and static formats (e.g. stone tablets now named PDF).
 
