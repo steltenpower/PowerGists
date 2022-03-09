@@ -2,7 +2,7 @@
 
 How the very first rock hard science documents were made …<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)🛈[CartoonStock](https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071)🛈
 
-… and delivered to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)🛈🛈
+… and delivered to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)🛈[e-mail sent](https://www.toonpool.com/cartoons/Send%20email_38040)🛈
 
 ---
 
