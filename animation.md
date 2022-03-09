@@ -30,7 +30,7 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 
 <br><br>
 
-The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲ content-type``*`` …
+The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
 - Losing sharpness<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)
