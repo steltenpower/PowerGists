@@ -53,7 +53,7 @@ In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 # EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK INSTEAD!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
-![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
+![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈🛈
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
 As these notebooks are built on web technology, you can include/embed almost anything found on the web. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available.
 
