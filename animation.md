@@ -65,15 +65,15 @@ ENJOY!
 
 ---
 
-``*``: To easier take more advantage of open file formats [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
+``*``: Part of that problem is fixed by using open file formats. To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ``**``: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
-A more technically detailed article in Nature ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
+A more technically detailed article in Nature: ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
 
-["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018
+What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018
 
-Thanks to everybody honestly pointing me at nerd speak to get rid off.
+Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions.
 
 END
 
