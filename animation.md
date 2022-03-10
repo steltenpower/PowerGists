@@ -34,7 +34,7 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy Styled text, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy text within visual, Paste raster image
-- Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png)Copy vector image, Paste pixelated raster image
+- Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png)Add arrow. Copy vector image, Paste pixelated raster image
 - Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy video/animation/InteractiveVisual, Paste static raster image
 
 <br><br>
