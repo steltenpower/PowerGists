@@ -6,7 +6,7 @@ How the very first rock hard science documents were made …<br>![tablets](https
 
 ---
 
-Luckily lighter materials were soon found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈🛈
+Luckily lighter materials were soon found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
 
 … easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈🛈
 
