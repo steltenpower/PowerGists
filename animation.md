@@ -1,4 +1,4 @@
-# [ROCK](#how-the-very-first-rock-hard-science-documents-were-made-cartoonstock), [PAPER](#luckily-lighter-materials-were-soon-found-e-mail-sent), ~~SCISSORS~~ [SCIENCE NOTEBOOKS](#embed-your-data-science-in-a-web-powered-notebook-instead)
+# [ROCK](#how-the-very-first-rock-hard-science-documents-were-made-cartoonstock), [PAPER](#luckily-lighter-materials-were-soon-found-e-mail-sent), [~~SCISSORS~~](#then-digitalization-brought-limitless-possibilities-shutterstock) [SCIENCE NOTEBOOKS](#embed-your-data-science-in-a-web-powered-notebook-instead)
 
 #### How the very first rock hard science documents were made …<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)🛈[CartoonStock](https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071)🛈
 
