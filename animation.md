@@ -23,7 +23,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 ---
 
-Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈[Shutterstock](https://www.shutterstock.com/image-photo/white-cloud-blue-sky-111668297)🛈
+#### Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈[Shutterstock](https://www.shutterstock.com/image-photo/white-cloud-blue-sky-111668297)🛈
 
 … but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)🛈brand🛈
 
