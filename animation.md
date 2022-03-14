@@ -35,7 +35,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy Styled text, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy text with cursor in visual, Paste raster image
 - Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Add arrow. Copy vector image, Paste pixelated raster image
-- Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy video/animation/InteractiveVisual, Paste static raster image
+- Losing interactivity, animation and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy video/animation/InteractiveVisual, Paste static raster image
 
 <br><br>
 
