@@ -82,7 +82,7 @@ A more technically detailed article in Nature: ["Cut the tyranny of copy-and-pas
 
 Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.
 
-END
+THE END
 
 ---
 
