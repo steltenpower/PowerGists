@@ -55,7 +55,7 @@ In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook), CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
-As these notebooks are built on web technology, you can include/embed almost anything found on the web``***``. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available.
+As these notebooks are built on web technology, you can include/embed almost anything found on the web``****``. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available.
 
 **JUST TRY IT WITH YOUR TEAM**: For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)🛈Ruud/brands🛈
@@ -70,7 +70,9 @@ ENJOY!
 
 ``**``: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
-``***``: If your institution really wants open science, it also provides you with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
+``***``: Working more data-driven will get errors noticed more often. Have responsibility and automatic checks on many levels for a grown-up information management. Start with spell checkers everywhere.
+
+``****``: If your institution really wants open science, it also provides you with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
 
 What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018
 
