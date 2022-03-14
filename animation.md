@@ -66,7 +66,7 @@ ENJOY!
 
 ---
 
-``*``: Part of that problem is fixed by using open file formats. To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
+``*``: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, ODF, frictionless data). To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ``**``: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
