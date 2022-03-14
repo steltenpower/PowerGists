@@ -41,8 +41,8 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
-- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) A slider to change a value not part of Paste action.
-- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here
+- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy a slider and the parameter it controls. Paste a static number.
+- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here (not automatically and not on page refresh)
 - File edits less consistently manageable².<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) change table from one app, forget to update chart from other app. Inconsistency introduced.
 
 <br><br>
