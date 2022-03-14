@@ -32,7 +32,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 <br><br>
 
 #### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
-- Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text shaped for extra meaning (showing cursor) within visual, Paste plain text
+- Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy visual including text, Paste raster image (with pointer over text, not cursor)
 - Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Copy vector image, Paste pixelated raster image
 - Losing interactivity, animation and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy [animated Fourier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg) Paste static raster image
