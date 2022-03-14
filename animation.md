@@ -31,7 +31,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 <br><br>
 
-#### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``content-types …
+#### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy Styled text, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy text with cursor in visual, Paste raster image
 - Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Add arrow. Copy vector image, Paste pixelated raster image
@@ -66,7 +66,7 @@ ENJOY!
 
 ---
 
-``*``: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, Open Document Format, Linked Data, frictionless data). To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
+¹: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, Open Document Format, Linked Data, frictionless data). To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ``**``: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
