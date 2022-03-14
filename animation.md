@@ -40,7 +40,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 <br><br>
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
-- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied
+- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
 - No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) A slider to change a value not part of Paste action.
 - No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here
 - File edits less consistently manageable².<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Show how B never sees fix by A and then overwrites it
