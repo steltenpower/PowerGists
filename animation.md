@@ -32,18 +32,18 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 <br><br>
 
 #### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲``*``content-types …
-- Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy Styled text, Paste plain text
-- Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy text within visual, Paste raster image
-- Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png)Add arrow. Copy vector image, Paste pixelated raster image
-- Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Copy video/animation/InteractiveVisual, Paste static raster image
+- Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy Styled text, Paste plain text
+- Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy text within visual, Paste raster image
+- Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Add arrow. Copy vector image, Paste pixelated raster image
+- Losing interactivity, movement and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy video/animation/InteractiveVisual, Paste static raster image
 
 <br><br>
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
-- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Not copying what was meant to be copied
-- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)A slider to change a value not part of Paste action.
-- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)If the original data changed, it wouldn't change here
-- File edits less consistently manageable``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png)Show how B never sees fix by A and then overwrites it
+- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied
+- No experimenting.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) A slider to change a value not part of Paste action.
+- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here
+- File edits less consistently manageable``**``.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Show how B never sees fix by A and then overwrites it
 
 <br><br>
 
@@ -66,7 +66,7 @@ ENJOY!
 
 ---
 
-``*``: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, ODF, frictionless data). To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
+``*``: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, ODF, RDF, frictionless data). To help that, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ``**``: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
