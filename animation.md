@@ -72,7 +72,7 @@ ENJOY!
 
 ³: Working more data-driven will get errors noticed more often. Have responsibility and automatic checks on many levels for a grown-up information management. Start with spell checkers everywhere.
 
-⁴	: If your institution really wants open science, it also provides you with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
+⁴	: If your institution really wants open science, it also provides everybody with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
 
 What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018
 
