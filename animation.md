@@ -35,7 +35,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected styled text (showing cursor) within visual, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy visual including text, Paste raster image (with pointer over text, not cursor)
 - Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Copy vector image, Paste pixelated raster image
-- Losing interactivity, animation and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy [Fourier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg) Paste static raster image
+- Losing interactivity, animation and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy [animated Fourier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg) Paste static raster image
 
 <br><br>
 
