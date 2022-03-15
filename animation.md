@@ -61,7 +61,7 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹conten
 
 ---
 
-# CUT THE HABIT
+# CUT THE HABIT OF COPY-PASTE
 
 ![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
