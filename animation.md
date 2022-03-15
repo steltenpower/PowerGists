@@ -86,7 +86,7 @@ THE END
 
 ---
 
-A 1080p YouTube clip is under development with the above as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation. Suggestions are very welcome. Help out!
-
 TODO:
-- The 8 images explaining the problem of cut/copy/paste will be arranged into 2 pages each with a 2x2 grid of images.
+- Replace the "image needed" images with actual images and then delete the text describing what image is needed
+- Turn this into proper HTML document with layout, where [the 8 images explaining the problem of Cut/Copy/Paste](#the-old-habits-troubles-are-non-i%CC%B2n%CC%B2t%CC%B2e%CC%B2r%CC%B2o%CC%B2p%CC%B2e%CC%B2r%CC%B2a%CC%B2b%CC%B2l%CC%B2e%CC%B2content-types-) will be arranged into 2 sets of each a 2x2 grid of images.
+- Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
