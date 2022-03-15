@@ -16,7 +16,7 @@
 
 … easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
 
-# STILL PAPER
+# PAPER TOOLS
 
 Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)-->![SVGhand](https://freesvg.org/img/1575645791feather-quil-freesvg.org.png)[🛈CC,vector,needs blood trace🛈](https://freesvg.org/hand-with-a-quill)
 
@@ -28,6 +28,8 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 … and hiding most of the typewriter.<br><!--![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)-->![MyKeyboard](IMG_20220309_115605800_HDR.jpg)🛈Ruud🛈
 
 ---
+
+# PAPER PROBLEMS
 
 #### Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈[Shutterstock](https://www.shutterstock.com/image-photo/white-cloud-blue-sky-111668297)🛈
 
