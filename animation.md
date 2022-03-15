@@ -82,6 +82,8 @@ ENJOY!
 
 ---
 
+# NOTES
+
 ¹: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, ePub, Open Document Format, Linked Data, frictionless data), where implementations in popular open source software usually shine. To help the end user with both, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ²: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
