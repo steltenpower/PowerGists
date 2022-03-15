@@ -115,5 +115,5 @@ THE END<br>
 - Replace the "image needed" images with actual images and then delete the text describing what image is needed
 - Add blood to feather image
 - Buy stock photos, improve own photos
-- Cut this into sheets with usually multiple images on each.
+- Improve layout in the sheets
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
