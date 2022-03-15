@@ -1,4 +1,5 @@
-# [ROCK](#how-the-very-first-rock-hard-science-documents-were-made-cartoonstock), [PAPER](#luckily-lighter-materials-were-soon-found-e-mail-sent), [~~SCISSORS~~](#then-digitalization-brought-limitless-possibilities-shutterstock) [SCIENCE NOTEBOOKS](#embed-your-data-science-in-a-web-powered-notebook-instead)
+# [ROCK](#how-the-very-first-rock-hard-science-documents-were-made-cartoonstock), [PAPER](#luckily-lighter-materials-were-soon-found-e-mail-sent), [~~SCISSORS~~](#then-digitalization-brought-limitless-possibilities-shutterstock) [SCIENCE NOTEBOOKS](#embed-your-data-science-in-a-web-powered-notebook-instead)<br>
+(or how most of you're work is actually still limited in sheets of paper and what you win by going proper digital)
 
 ---
 
