@@ -4,7 +4,7 @@
 ---
 
 # ROCK
-#### hard science … delivered to readers.<br>
+hard science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delivered to readers.<br>
 🛈[CartoonStock](https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071)🛈, 🛈[e-mail sent](https://www.toonpool.com/cartoons/Send%20email_38040)🛈<br>
 ![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
 ![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
@@ -12,7 +12,7 @@
 ---
 
 # PAPER
-### Lighter materials found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
+Lighter materials found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
 
 … easily stained.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
 
@@ -33,7 +33,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 # PAPER SIMULATION
 
-#### Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈[Shutterstock](https://www.shutterstock.com/image-photo/white-cloud-blue-sky-111668297)🛈
+Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈[Shutterstock](https://www.shutterstock.com/image-photo/white-cloud-blue-sky-111668297)🛈
 
 … but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)🛈brand🛈
 
@@ -43,7 +43,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 # BREAKING CONTENT
 
-#### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
+The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy visual including text, Paste raster image (with pointer over text, not cursor)
 - Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Copy vector image, Paste pixelated raster image
