@@ -31,7 +31,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 ---
 
-# PAPER PROBLEMS
+# PAPER SIMULATION
 
 #### Then digitalization brought limitless possibilities …<br>![cloud](https://images.theconversation.com/files/243663/original/file-20181102-83644-b06itk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop)🛈[Shutterstock](https://www.shutterstock.com/image-photo/white-cloud-blue-sky-111668297)🛈
 
@@ -41,6 +41,8 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 ---
 
+# POOR SIMULATION
+
 #### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy visual including text, Paste raster image (with pointer over text, not cursor)
@@ -48,6 +50,8 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 - Losing interactivity, animation and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy [animated Fourier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg) Paste static raster image
 
 ---
+
+# POOR PROCESS
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
@@ -61,7 +65,7 @@ In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 ---
 
-# EMBED YOUR DATA SCIENCE IN A WEB-POWERED NOTEBOOK INSTEAD!
+# EMBED YOUR DATA SCIENCE IN WEB-POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook), CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
 ## *Especially NON-techies :heart: this, because without being forced to code themselves, they have short feedback cycles with their techy colleagues (or support staff) and after a while often start some coding themselves too.*
@@ -93,7 +97,7 @@ THE END<br>
 
 ---
 
-TODO:
+# TODO:
 - Replace the "image needed" images with actual images and then delete the text describing what image is needed
 - Add blood to feather image
 - Buy stock photos, improve own photos
