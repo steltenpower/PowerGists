@@ -12,9 +12,11 @@
 ---
 
 # PAPER
-### Luckily lighter materials were soon found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
+### Lighter materials found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
 
-… easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
+… easily stained.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
+
+---
 
 # PAPER TOOLS
 
@@ -37,7 +39,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 … not using the hyper-connected data-driven interactivity of the web.<br>![dead papers](deadpapers.jfif)🛈??🛈
 
-<br><br>
+---
 
 #### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
@@ -45,7 +47,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 - Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Copy vector image, Paste pixelated raster image
 - Losing interactivity, animation and sound<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy [animated Fourier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg) Paste static raster image
 
-<br><br>
+---
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
@@ -53,7 +55,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 - No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here (not automatically and not on page refresh)
 - File edits less consistently manageable².<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) change table from one app, forget to update chart from other app. Inconsistency introduced.
 
-<br><br>
+---
 
 In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
