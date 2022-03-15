@@ -10,11 +10,12 @@
 
 ---
 
+# PAPER
 ### Luckily lighter materials were soon found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
 
 … easily stained however.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
 
-<br><br>
+# STILL PAPER
 
 Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)-->![SVGhand](https://freesvg.org/img/1575645791feather-quil-freesvg.org.png)[🛈CC,vector,needs blood trace🛈](https://freesvg.org/hand-with-a-quill)
 
