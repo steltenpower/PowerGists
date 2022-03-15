@@ -79,7 +79,11 @@ Without being forced to code yourself, you can have shorter feedback cycles with
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
 
-**JUST TRY IT WITH YOUR TEAM**: For **open science** reasons, my order of preference is:
+---
+
+# JUST TRY IT WITH YOUR TEAM
+
+For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)🛈Ruud/brands🛈
 
 Your work can then also be exported to both dynamic (dashboards, web apps, etc.) and static formats (e.g. stone tablets now named PDF).
