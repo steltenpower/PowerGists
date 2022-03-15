@@ -1,5 +1,7 @@
 # [ROCK](#how-the-very-first-rock-hard-science-documents-were-made-cartoonstock), [PAPER](#luckily-lighter-materials-were-soon-found-e-mail-sent), [~~SCISSORS~~](#then-digitalization-brought-limitless-possibilities-shutterstock) [SCIENCE NOTEBOOKS](#embed-your-data-science-in-a-web-powered-notebook-instead)
 
+---
+
 #### How the very first rock hard science documents were made …<br>![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)🛈[CartoonStock](https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071)🛈
 
 … and delivered to readers.<br>![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)🛈[e-mail sent](https://www.toonpool.com/cartoons/Send%20email_38040)🛈
@@ -88,5 +90,5 @@ TODO:
 - Replace the "image needed" images with actual images and then delete the text describing what image is needed
 - Add blood to feather image
 - Buy stock photos, improve own photos
-- Turn this into proper HTML document with layout, where [the 8 images explaining the problem of Cut/Copy/Paste](#the-old-habits-troubles-are-non-i%CC%B2n%CC%B2t%CC%B2e%CC%B2r%CC%B2o%CC%B2p%CC%B2e%CC%B2r%CC%B2a%CC%B2b%CC%B2l%CC%B2e%CC%B2content-types-) will be arranged into 2 sets of each a 2x2 grid of images.
+- Cut this into sheets with usually multiple images on each.
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
