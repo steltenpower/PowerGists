@@ -70,7 +70,7 @@ ENJOY!
 
 ²: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
-³: Working more data-driven will get errors noticed more often. Have responsibility and automatic checks on many levels for a grown-up information management. Start with spell checkers everywhere.
+³: Working more data-driven will get errors and inefficient information structures noticed more often and earlier. Personal responsibility, in-context feedback options throughout the organisation and automatic data quality checks in several places are a necessity for grown-up efficient information management. Start with spell checkers everywhere and keep growing.
 
 ⁴	: If your institution really wants open science, it also provides everybody with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
 
