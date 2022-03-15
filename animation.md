@@ -61,7 +61,9 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 ---
 
-In other words:<br>![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
+# CUT THE HABIT
+
+![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 ---
 
