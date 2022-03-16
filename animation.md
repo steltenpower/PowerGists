@@ -41,7 +41,7 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://imag
 
 ---
 
-# BREAKING CONTENT
+# BREAKING CONTENT :disappointed:
 
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
@@ -51,7 +51,7 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹conten
 
 ---
 
-# BREAKING PROCESS
+# BREAKING PROCESS :angry:
 
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
