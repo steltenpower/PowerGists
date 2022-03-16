@@ -12,7 +12,7 @@ hard science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…&nbsp;&nbsp;&nbsp;&nbsp
 ---
 
 # PAPER
-Lighter materials found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
+Lighter material found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
 
 … easily stained.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
 
