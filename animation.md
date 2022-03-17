@@ -164,4 +164,5 @@ THE END<br>
 - Add blood to feather image
 - Buy stock photos, improve own photos
 - Improve layout in the sheets
+- Turn this itself in [a notebook to present as sheets?](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
