@@ -84,19 +84,32 @@ Losing sharpness<br>
   Copy vector image, Paste pixelated raster image
   </td><td>
 Losing interactivity, animation and sound<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"><br>
-  🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈 + static version 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"> + static version<br>
+  🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
   </td></tr></table>
   
 ---
 
 # BREAKING PROCESS :angry:
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
-- Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
-- No experimenting.<br>![experiment](https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif)+ static version©[CC](https://opensource.com/article/18/11/python-libraries-data-science)©
-- No auto-updating (not immediately, nor on page refresh).<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here
-- File edits less consistently manageable².<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) change table from one app, forget to update chart from other app. Inconsistency introduced.
-
+<table><tr><td>
+Unrepairable manual errors<br>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
+  </td><td>
+No experimenting<br>
+  <img src="https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif"> + static version<br>
+  <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
+  </td></tr><tr><td>
+No auto-updating (not immediately, nor on page refresh).<br>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  If the original data changed, it wouldn't change here
+  </td><td>
+- File edits less consistently manageable².<br>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  change table from one app, forget to update chart from other app. Inconsistency introduced.
+  </td></tr></table>
+  
 ---
 
 # CUT THE HABIT OF COPY-PASTE
