@@ -4,10 +4,15 @@
 ---
 
 # ROCK
-hard science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delivered to readers.<br>
-🛈[CartoonStock](https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071)🛈, 🛈[e-mail sent](https://www.toonpool.com/cartoons/Send%20email_38040)🛈<br>
-![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)
-![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)
+<table><tr><td>
+hard science<br>
+![tablets](https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg)<br>
+🛈[CartoonStock](https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071)🛈
+</td><td>
+delivered to readers.<br>
+![trebucheting](https://www.toonpool.com/user/3107/files/send_email_380405.jpg)<br>
+🛈[e-mail sent](https://www.toonpool.com/cartoons/Send%20email_38040)🛈<br>
+</td></tr></table>
 
 ---
 
