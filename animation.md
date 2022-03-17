@@ -69,12 +69,25 @@ Then digitalization brought limitless possibilities …<br>
 ---
 
 # BREAKING CONTENT :disappointed:
-The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
-- Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
-- Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy visual including text, Paste raster image (with pointer over text, not cursor)
-- Losing sharpness<br>![vector2raster](https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png) Copy vector image, Paste pixelated raster image
-- Losing interactivity, animation and sound<br>![animated Fourier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg)[🛈CC🛈](https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg) + static version 
-
+The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
+<table><tr><td>
+Losing style<br>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
+  </td><td>
+Losing direct edit, search, index.<br>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  Copy visual including text, Paste raster image (with pointer over text, not cursor)
+  </td></tr><tr><td>
+Losing sharpness<br>
+  <img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"><br>
+  Copy vector image, Paste pixelated raster image
+  </td><td>
+Losing interactivity, animation and sound<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"><br>
+  🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈 + static version 
+  </td></tr></table>
+  
 ---
 
 # BREAKING PROCESS :angry:
@@ -105,7 +118,7 @@ As these notebooks are built on web technology, you can include/embed almost any
 ---
 
 # JUST TRY IT WITH YOUR TEAM
-As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.
+As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)🛈Ruud/brands🛈
 
