@@ -30,15 +30,24 @@ Lighter material found …<br>
 ---
 
 # PAPER TOOLS
-Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)-->![SVGhand](https://freesvg.org/img/1575645791feather-quil-freesvg.org.png)[🛈CC,vector,needs blood trace🛈](https://freesvg.org/hand-with-a-quill)
-
-… with contraptions for lousy scriblers …<br>![typewriter](https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg)[🛈WikiCommons🛈](https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg)
-
-… later shielding against bird droppings …<br><!--![monitor](https://thumbs.dreamstime.com/z/old-retro-crt-monitor-display-blank-white-screen-isolated-background-162226372.jpg)
--->![MyMonitor](IMG_20220309_114247129.jpg)🛈Ruud🛈
-
-… and hiding most of the typewriter.<br><!--![keyboard](https://content.instructables.com/ORIG/FOT/CW6G/HPFZZGBK/FOTCW6GHPFZZGBK.jpg?auto=webp)-->![MyKeyboard](IMG_20220309_115605800_HDR.jpg)🛈Ruud🛈
-
+<table><tr><td>
+Shit makes inventful though …<br>
+  <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png"><br>
+  🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈<br>
+  </td><td>
+… with contraptions for lousy scriblers …<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg"><br>
+  🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈<br>
+  </td></tr><tr><td>
+… later shielding against bird droppings …<br>
+  <img src="IMG_20220309_114247129.jpg"><br>
+  🛈Ruud🛈
+  </td><td>
+… and hiding most of the typewriter.<br>
+  <img src="IMG_20220309_115605800_HDR.jpg"><br>
+  🛈Ruud🛈
+  </td></tr></table>
+  
 ---
 
 # PAPER SIMULATION
