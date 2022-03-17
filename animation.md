@@ -33,7 +33,7 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 
 # PAPER SIMULATION
 
-Then digitalization brought limitless possibilities …<br>![cloud](https://www.maxpixel.net/photo-1551174)🛈[CC](https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174)🛈
+Then digitalization brought limitless possibilities …<br>![cloud](https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg)🛈[CC](https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174)🛈
 
 … but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)🛈brand🛈
 
