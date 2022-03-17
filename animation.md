@@ -56,7 +56,7 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹conten
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
 - No experimenting.<br>![experiment](https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif)©[CC](https://opensource.com/article/18/11/python-libraries-data-science)©
-- No auto-updating.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here (not automatically and not on page refresh)
+- No auto-updating (not immediately, nor on page refresh).<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) If the original data changed, it wouldn't change here
 - File edits less consistently manageable².<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) change table from one app, forget to update chart from other app. Inconsistency introduced.
 
 ---
