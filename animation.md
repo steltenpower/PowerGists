@@ -83,6 +83,7 @@ As these notebooks are built on web technology, you can include/embed almost any
 
 # JUST TRY IT WITH YOUR TEAM
 
+As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.
 For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)🛈Ruud/brands🛈
 
