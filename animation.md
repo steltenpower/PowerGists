@@ -17,14 +17,19 @@ hard science …<br>
 ---
 
 # PAPER
-Lighter material found …<br>![paper airplane](https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png)🛈[e-mail sent](https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/)🛈
-
-… easily stained.<br>![birdshit](https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png)🛈[CC](https://pngset.com/download-free-png-elnos)🛈
-
+<table><tr><td>
+Lighter material found …<br>
+<img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png"><br>
+ 🛈<a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>🛈
+  </td><td>
+… easily stained.<br>
+<img src="https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png"><br>
+  🛈<a href="https://pngset.com/download-free-png-elnos">CC</a>🛈
+  </td></tr></table>
+  
 ---
 
 # PAPER TOOLS
-
 Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8SI83PV8vXV1DoUtGe4-wt_IT3Bq7BGJ6RVZlUnh64Azp9eGOwRd7vzZUaIzrqte6Ik&usqp=CAU)-->![SVGhand](https://freesvg.org/img/1575645791feather-quil-freesvg.org.png)[🛈CC,vector,needs blood trace🛈](https://freesvg.org/hand-with-a-quill)
 
 … with contraptions for lousy scriblers …<br>![typewriter](https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg)[🛈WikiCommons🛈](https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg)
@@ -37,7 +42,6 @@ Shit makes inventful though …<br><!--![feather pen](https://encrypted-tbn0.gst
 ---
 
 # PAPER SIMULATION
-
 Then digitalization brought limitless possibilities …<br>![cloud](https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg)🛈[CC](https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174)🛈
 
 … but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)🛈brand🛈
@@ -47,7 +51,6 @@ Then digitalization brought limitless possibilities …<br>![cloud](https://www.
 ---
 
 # BREAKING CONTENT :disappointed:
-
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …
 - Losing style<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
 - Losing direct edit, search, index.<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Copy visual including text, Paste raster image (with pointer over text, not cursor)
@@ -57,7 +60,6 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹conten
 ---
 
 # BREAKING PROCESS :angry:
-
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 - Unrepairable manual errors<br>![animation needed](https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png) Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
 - No experimenting.<br>![experiment](https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif)+ static version©[CC](https://opensource.com/article/18/11/python-libraries-data-science)©
@@ -67,7 +69,6 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹conten
 ---
 
 # CUT THE HABIT OF COPY-PASTE
-
 ![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 ---
@@ -79,7 +80,6 @@ We all know hyperlinks to manually click from one page to the next, but web addr
 ---
 
 # WHY ESPECIALLY NON-TECHIES :heart: THIS
-
 Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do surprise themselves with a little coding in R, Python or any of the other available languages.
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
@@ -87,7 +87,6 @@ As these notebooks are built on web technology, you can include/embed almost any
 ---
 
 # JUST TRY IT WITH YOUR TEAM
-
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.
 For **open science** reasons, my order of preference is:
 ![notebook brands](notebooks.png)🛈Ruud/brands🛈
@@ -99,7 +98,6 @@ ENJOY!
 ---
 
 # NOTES
-
 ¹: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, ePub, Open Document Format, Linked Data, frictionless data), where implementations in popular open source software usually shine. To help the end user with both, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ²: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
