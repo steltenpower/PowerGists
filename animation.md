@@ -51,12 +51,21 @@ Shit makes inventful though …<br>
 ---
 
 # PAPER SIMULATION
-Then digitalization brought limitless possibilities …<br>![cloud](https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg)🛈[CC](https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174)🛈
-
-… but physical paper (simulation) habits stayed …<br>![cutPaste](https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t)🛈brand🛈
-
-… not using the hyper-connected data-driven interactivity of the web.<br>![dead papers](deadpapers.jfif)🛈??🛈
-
+<table><tr><td>
+Then digitalization brought limitless possibilities …<br>
+  <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg"><br>
+  🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈
+  </td><td>
+… but physical paper (simulation) habits stayed …<br>
+  <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t"><br>
+  🛈brand🛈<br>
+<br>
+  <br>
+… not using the hyper-connected data-driven interactivity of the web.<br>
+  <img src="deadpapers.jfif"><br>
+  🛈??🛈
+  </td></tr></table>
+  
 ---
 
 # BREAKING CONTENT :disappointed:
