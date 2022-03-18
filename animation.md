@@ -135,7 +135,7 @@ As these notebooks are built on web technology, you can include/embed almost any
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, and supported programming languages, my order of preference is:
 <table><tr><td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> Julia + Python + R + ~100 other<br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> **Ju**lia + **Pyt**hon + **R** + ~100 other<br>
   🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
   </td><td>
   <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<br>
