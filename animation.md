@@ -102,7 +102,7 @@ No experimenting<br>
   <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
   </td></tr><tr><td>
 No auto-updating (not immediately, nor on page refresh).<br>
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  <img src="https://tomchen.github.io/animated-svg-clock/clock.svg"><br>
   If the original data changed, it wouldn't change here
   </td><td>
 - File edits less consistently manageable².<br>
