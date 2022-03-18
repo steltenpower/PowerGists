@@ -148,8 +148,8 @@ For **open science** reasons, my order of preference is:
   🛈brand🛈
   </td></tr></table>
   
-![notebook brands](notebooks.png)
-🛈Ruud/brands🛈
+<!--![notebook brands](notebooks.png)
+🛈Ruud/brands🛈-->
 
 Now go talk to your research supporter about it!
 
