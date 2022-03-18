@@ -133,15 +133,15 @@ As these notebooks are built on web technology, you can include/embed almost any
 
 ### GO TRY IT WITH YOUR TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
-For **open science** reasons, my order of preference is:
+For **open science** reasons, and supported programming languages, my order of preference is:
 <table><tr><td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"><br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> Julia + Python + R + ~100 other<br>
   🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
   </td><td>
-  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"><br>
+  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<br>
   🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
   </td><td>
-    <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"><br>
+    <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"> JavaScript<br>
   🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
   </td></tr><tr><td>
   <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"><br>
