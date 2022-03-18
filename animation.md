@@ -134,6 +134,11 @@ As these notebooks are built on web technology, you can include/embed almost any
 # GO TRY IT WITH YOUR TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, my order of preference is:
+<table><tr><td>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"><br>
+  <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>
+  </td><td>
+  
 ![notebook brands](notebooks.png)
 🛈Ruud/brands🛈
 
