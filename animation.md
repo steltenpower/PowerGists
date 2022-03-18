@@ -178,6 +178,7 @@ THE END<br>
 
 ## TODO:
 - Replace the "image needed" images with actual images and then delete the text describing what image is needed
+- Change some current images to have what-is-copied on the left and what-is-pasted on the right
 - Add blood to feather image
 - Buy stock photos, improve own photos
 - Improve layout in the sheets
