@@ -144,7 +144,8 @@ For **open science** reasons, my order of preference is:
     <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"><br>
   🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
   </td></tr><tr><td>
-  Observable
+  <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"><br>
+  🛈brand🛈
   </td></tr></table>
   
 ![notebook brands](notebooks.png)
