@@ -152,8 +152,7 @@ For **open science** reasons, my order of preference is:
 🛈Ruud/brands🛈-->
 
 Now go talk to your research supporter about it!
-
-Your work can then also be exported to both dynamic (dashboards, web apps, etc.) and static formats (e.g. stone tablets now named PDF).
+If (s)he tells you to provide PDFs instead, explain it can export to formats like dashboards, web apps, presentations, and static formats including that stone tablet format.
 
 ENJOY!
 
