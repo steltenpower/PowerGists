@@ -133,7 +133,10 @@ As these notebooks are built on web technology, you can include/embed almost any
 # JUST TRY IT WITH YOUR TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, my order of preference is:
-![notebook brands](notebooks.png)🛈Ruud/brands🛈
+![notebook brands](notebooks.png)
+🛈Ruud/brands🛈
+
+Now go talk to your research supporter about it!
 
 Your work can then also be exported to both dynamic (dashboards, web apps, etc.) and static formats (e.g. stone tablets now named PDF).
 
