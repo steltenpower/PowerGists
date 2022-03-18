@@ -141,10 +141,10 @@ For **open science** reasons, and supported programming languages, my order of p
   <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<br>
   🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
   </td><td>
-    <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"> JavaScript<br>
+    + <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"><br>
   🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
   </td></tr><tr><td>
-  <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"><br>
+  <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"> JavaScript<br>
   🛈brand🛈
   </td></tr></table>
   
