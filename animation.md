@@ -112,7 +112,7 @@ No auto-updating (not immediately, nor on page refresh).<br>
   
 ---
 
-# CUT THE HABIT OF COPY-PASTE
+# CUT THE HABIT OF COPY:scissors:PASTE
 ![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 ---
