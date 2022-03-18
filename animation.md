@@ -138,6 +138,10 @@ For **open science** reasons, my order of preference is:
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"><br>
   <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>
   </td><td>
+  Rstudio Rmarkdown
+  </td></tr><tr><td>
+  Observable
+  </td></tr></table>
   
 ![notebook brands](notebooks.png)
 🛈Ruud/brands🛈
