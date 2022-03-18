@@ -3,7 +3,7 @@
 
 ---
 
-# ROCK
+## ROCK
 <table><tr><td>
 hard science …<br>
 <img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg"><br>
@@ -16,7 +16,7 @@ hard science …<br>
 
 ---
 
-# PAPER
+## PAPER
 <table><tr><td>
 Lighter material found …<br>
 <img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png"><br>
@@ -29,7 +29,7 @@ Lighter material found …<br>
   
 ---
 
-# PAPER TOOLS
+### PAPER TOOLS
 <table><tr><td>
 Shit makes inventful though …<br>
   <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png"><br>
@@ -50,7 +50,7 @@ Shit makes inventful though …<br>
   
 ---
 
-# PAPER SIMULATION
+### PAPER SIMULATION
 <table><tr><td>
 Then digitalization brought limitless possibilities …<br>
   <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg"><br>
@@ -68,7 +68,7 @@ Then digitalization brought limitless possibilities …<br>
   
 ---
 
-# BREAKING CONTENT :disappointed:
+### BREAKING CONTENT :disappointed:
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
 <table><tr><td>
 Losing style<br>
@@ -91,7 +91,7 @@ Losing interactivity, animation and sound<br>
   
 ---
 
-# BREAKING PROCESS :angry:
+### BREAKING PROCESS :angry:
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 <table><tr><td>
 Unrepairable manual errors<br>
@@ -113,25 +113,25 @@ No auto-updating (not immediately, nor on page refresh).<br>
   
 ---
 
-# CUT THE HABIT OF COPY:scissors:PASTE
+### CUT THE HABIT OF COPY:scissors:PASTE
 ![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
 
 ---
 
-# EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
+## EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook), CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
 
 ---
 
-# WHY ESPECIALLY NON-TECHIES :heart: THIS
+### WHY ESPECIALLY NON-TECHIES :heart: THIS
 Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do surprise themselves with a little coding in R, Python or any of the other available languages.
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
 
 ---
 
-# GO TRY IT WITH YOUR TEAM
+### GO TRY IT WITH YOUR TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, my order of preference is:
 <table><tr><td>
@@ -159,7 +159,7 @@ ENJOY!
 
 ---
 
-# NOTES
+## NOTES
 ¹: Part of that problem is fixed by using open file formats (e.g. HTML, SVG, ePub, Open Document Format, Linked Data, frictionless data), where implementations in popular open source software usually shine. To help the end user with both, [FAIR files listing](https://github.com/steltenpower/FAIRfilesListing) was thought up. Looking to have it implemented everywhere for you, so help out!
 
 ²: make sure to look into the de facto standard for version control (of collections of files to be edited by groups): [git](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
@@ -177,7 +177,7 @@ THE END<br>
 
 ---
 
-# TODO:
+## TODO:
 - Replace the "image needed" images with actual images and then delete the text describing what image is needed
 - Add blood to feather image
 - Buy stock photos, improve own photos
