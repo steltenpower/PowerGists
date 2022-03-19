@@ -1,4 +1,4 @@
-# ROCK, PAPER, ~~SCISSORS~~ [SCIENCENOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)<br>
+# ROCK, PAPER, ~~SCISSORS~~ [SCIENCE NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)<br>
 (or how most of your work is actually still rather constrained in sheets of paper<br>
 &nbsp;&nbsp;and what you win by going proper digital in electronic notebooks)
 
