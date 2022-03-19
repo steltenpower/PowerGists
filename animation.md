@@ -125,7 +125,7 @@ For **open science** reasons, and supported programming languages, my order of p
 <table><tr><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> <b>Ju</b>lia + <b>Pyt</b>hon + <b>R</b> + ~100 other
   </td><td>
-  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<
+  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python
   </td><td>
     + <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg">
   </td></tr><tr><td>
