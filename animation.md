@@ -107,7 +107,7 @@ No auto-updating (not immediately, nor on page refresh).<br>
 
 ## EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
-![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook)
+![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 
 ---
 
@@ -130,9 +130,6 @@ For **open science** reasons, and supported programming languages, my order of p
   </td></tr><tr><td>
   <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"> JavaScript
   </td></tr></table>
-  
-<!--![notebook brands](notebooks.png)
-🛈Ruud/brands🛈-->
 
 Now go talk to your research supporter about it!
 If (s)he tells you to provide PDFs instead, explain it can export to formats like dashboards, web apps, presentations, and static formats including that stone tablet format.
@@ -189,7 +186,7 @@ THE END<br>
 - noUpdating 🛈??🛈
 - noFilesConsistency IMAGE NEEDED
 - PasteWaste 🛈Ruud/brands🛈
-- notebook, CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
+- notebook, 🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook),CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
 - jupyter 🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
 - Rstudio 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
 - Rmarkdown 🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
