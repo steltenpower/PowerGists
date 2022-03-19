@@ -132,7 +132,7 @@ For **open science** reasons, and supported programming languages, my order of p
   </td></tr></table>
 
 Now go talk to your research supporter about it!
-If (s)he tells you to provide PDFs instead, explain it can export to formats like dashboards, web apps, presentations, and static formats including that stone tablet format.
+If (s)he tells you to provide PDFs instead, explain it can export to formats like dashboards, web apps, presentation 'sheets', and static formats including that stone tablet format.
 
 ENJOY!
 
