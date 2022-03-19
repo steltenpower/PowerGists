@@ -126,8 +126,7 @@ For **open science** reasons, and supported programming languages, my order of p
   </td><td>
   <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<
   </td><td>
-    + <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"><br>
-  🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
+    + <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg">
   </td></tr><tr><td>
   <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"> JavaScript
   </td></tr></table>
@@ -192,5 +191,6 @@ THE END<br>
 - PasteWaste 🛈Ruud/brands🛈
 - notebook, CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
 - jupyter 🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
-- Rmarkdown 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
+- Rstudio 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
+- Rmarkdown 🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
 - Observable 🛈brand🛈
