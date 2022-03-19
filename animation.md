@@ -58,7 +58,7 @@ Then digitalization brought limitless possibilities …<br>
   
 ---
 
-### BREAKING CONTENT :disappointed: (:construction:)
+### BREAKING&nbsp;CONTENT&nbsp;:disappointed: (:construction:)
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
 <table><tr><td>
 Losing style<br>
