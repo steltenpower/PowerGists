@@ -16,7 +16,7 @@ hard science …<br>
 ---
 
 ## PAPER
-<table><tr><td>
+<table><tr><td style="vertical-align:top">
 Lighter material found …<br>
 <img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png">
   </td><td>
