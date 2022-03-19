@@ -36,7 +36,7 @@ Shit makes inventful though …<br>
   <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png"><br>
   🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈<br>
   </td><td>
-… with contraptions for lousy scriblers …<br>
+… with contraptions for lousy scriblers,<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg"><br>
   🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈<br>
   </td></tr><tr><td>
