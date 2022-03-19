@@ -8,7 +8,7 @@
 <table><tr><td>
 hard science …<br>
 <img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg">
-</td><td style="vertical-align:top">
+</td><td>
 … delivered to readers.<br>
 <img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg">
 </td></tr></table>
@@ -19,7 +19,7 @@ hard science …<br>
 <table><tr><td>
 Lighter material found …<br>
 <img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png">
-  </td><td style="vertical-align:top">
+  </td><td>
 … easily stained.<br>
 <img src="https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png">
   </td></tr></table>
