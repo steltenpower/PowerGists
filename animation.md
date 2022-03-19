@@ -7,12 +7,10 @@
 ## ROCK
 <table><tr><td>
 hard science …<br>
-<img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg"><br>
-🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈
+<img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg">
 </td><td>
 … delivered to readers.<br>
-<img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg"><br>
-  🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈<br>
+<img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg">
 </td></tr></table>
 
 ---
@@ -20,12 +18,10 @@ hard science …<br>
 ## PAPER
 <table><tr><td>
 Lighter material found …<br>
-<img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png"><br>
- 🛈<a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>🛈
+<img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png">
   </td><td>
 … easily stained.<br>
-<img src="https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png"><br>
-  🛈<a href="https://pngset.com/download-free-png-elnos">CC</a>🛈
+<img src="https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png">
   </td></tr></table>
   
 ---
@@ -33,20 +29,16 @@ Lighter material found …<br>
 ### PAPER TOOLS
 <table><tr><td>
 Shit makes inventful though …<br>
-  <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png"><br>
-  🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈<br>
+  <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">
   </td><td>
 … with contraptions for lousy scriblers,<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg"><br>
-  🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg">
   </td></tr><tr><td>
 … later shielding against bird droppings …<br>
-  <img src="IMG_20220309_114247129.jpg"><br>
-  🛈Ruud🛈
+  <img src="IMG_20220309_114247129.jpg">
   </td><td>
 … and hiding most of the typewriter.<br>
-  <img src="IMG_20220309_115605800_HDR.jpg"><br>
-  🛈Ruud🛈
+  <img src="IMG_20220309_115605800_HDR.jpg">
   </td></tr></table>
   
 ---
@@ -54,17 +46,14 @@ Shit makes inventful though …<br>
 ### PAPER SIMULATION
 <table><tr><td>
 Then digitalization brought limitless possibilities …<br>
-  <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg"><br>
-  🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈
+  <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg">
   </td><td>
 … but physical paper (simulation) habits stayed …<br>
-  <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t"><br>
-  🛈brand🛈<br>
+  <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t"
 <br>
   <br>
 … not using the hyper-connected data-driven interactivity of the web.<br>
-  <img src="deadpapers.jfif"><br>
-  🛈??🛈
+  <img src="deadpapers.jfif">
   </td></tr></table>
   
 ---
@@ -75,7 +64,6 @@ The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹conten
 Losing style<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>
 Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
-  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈
   </td><td>
 Losing direct edit, search, index.<br>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
@@ -86,8 +74,7 @@ Losing sharpness<br>
   Copy vector image, Paste pixelated raster image
   </td><td>
 Losing interactivity, animation and sound<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"> + static version<br>
-  🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"> + static version
   </td></tr></table>
   
 ---
@@ -100,8 +87,7 @@ Unrepairable manual errors<br>
   Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
   </td><td>
 No experimenting<br>
-  <img src="https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif"> + static version<br>
-  <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
+  <img src="https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif"> + static version
   </td></tr><tr><td>
 No auto-updating (not immediately, nor on page refresh).<br>
   <img src="https://tomchen.github.io/animated-svg-clock/clock.svg"><br>
@@ -115,13 +101,13 @@ No auto-updating (not immediately, nor on page refresh).<br>
 ---
 
 ### CUT THE HABIT OF COPY:scissors:PASTE
-![CopyPasteWaste](CopyPasteWaste.png)🛈Ruud/brands🛈
+![CopyPasteWaste](CopyPasteWaste.png)
 
 ---
 
 ## EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks. So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
-![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook), CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
+![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook)
 
 ---
 
@@ -136,17 +122,14 @@ As these notebooks are built on web technology, you can include/embed almost any
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, and supported programming languages, my order of preference is:
 <table><tr><td>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> <b>Ju</b>lia + <b>Pyt</b>hon + <b>R</b> + ~100 other<br>
-  🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> <b>Ju</b>lia + <b>Pyt</b>hon + <b>R</b> + ~100 other
   </td><td>
-  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<br>
-  🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
+  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python<
   </td><td>
     + <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg"><br>
   🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
   </td></tr><tr><td>
-  <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"> JavaScript<br>
-  🛈brand🛈
+  <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"> JavaScript
   </td></tr></table>
   
 <!--![notebook brands](notebooks.png)
@@ -185,3 +168,29 @@ THE END<br>
 - Improve layout in the sheets
 - Turn this itself in [a notebook to present as sheets?](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
+
+## SOURCES:
+- tablet 🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈
+- launch 🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈
+- plane 🛈<a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>🛈
+- poop 🛈<a href="https://pngset.com/download-free-png-elnos">CC</a>🛈
+- feather 🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈
+- typewriter 🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈
+- screen 🛈Ruud🛈
+- keyboard 🛈Ruud🛈
+- cloud 🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈
+- cutNpaste 🛈brand🛈
+- deadPapers 🛈??🛈
+- noStyle  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈
+- noText IMAGE NEEDED
+- unSharp 🛈??🛈
+- noLife 🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
+- unDetectable IMAGE NEEDED
+- noExperimenting <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
+- noUpdating 🛈??🛈
+- noFilesConsistency IMAGE NEEDED
+- PasteWaste 🛈Ruud/brands🛈
+- notebook, CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
+- jupyter 🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
+- Rmarkdown 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
+- Observable 🛈brand🛈
