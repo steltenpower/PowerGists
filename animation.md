@@ -74,7 +74,7 @@ Losing sharpness<br>
   Copy vector image, Paste pixelated raster image
   </td><td>
 Losing interactivity, animation and sound<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"> + static version
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705">
   </td></tr></table>
   
 ---
