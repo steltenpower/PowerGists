@@ -123,9 +123,9 @@ As your team probably shares files behind a login, it's good to know you can hav
 For **open science** reasons, and supported programming languages, my order of preference is:
 <table><tr><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> <b>Ju</b>lia + <b>Pyt</b>hon + <b>R</b> + ~100 other
-  </td><td>
-  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python
-  </td><td>
+  </td></tr><tr><td>
+<!--  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg"> R + Python
+  </td></tr><tr><td> -->
     + <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg">
   </td></tr><tr><td>
   <img src="https://mms.businesswire.com/media/20210721005245/en/892813/2/Observable_Logo.jpg"> JavaScript
