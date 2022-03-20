@@ -62,7 +62,7 @@ Then digitalization brought limitless possibilities …<br>
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
 <table><tr><td>
 Losing style<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg">NASA<br>
 Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
   </td><td colspan=2>
 Losing direct edit, search, index.<br>
