@@ -70,8 +70,7 @@ Losing direct edit, search, index.<br>
   Copy visual including text, Paste raster image (with pointer over text, not cursor)
   </td></tr><tr><td>
 Losing sharpness<br>
-  <img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"><br>
-  Copy vector image, Paste pixelated raster image
+  <img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png">
   </td><td>
 Losing interactivity, animation and sound<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705">
