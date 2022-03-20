@@ -166,37 +166,21 @@ THE END<br>
 - Turn this itself in [a notebook to present as sheets?](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
 
-## SOURCES:
-- tablet 🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈
-- launch 🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈
+## SOURCES
+tablet 🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈, launch 🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈
  
-- plane 🛈<a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>🛈
-- poop 🛈<a href="https://pngset.com/download-free-png-elnos">CC</a>🛈
+plane 🛈<a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>🛈, poop 🛈<a href="https://pngset.com/download-free-png-elnos">CC</a>🛈
  
-- feather 🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈
-- typewriter 🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈
-- screen 🛈Ruud🛈
-- keyboard 🛈Ruud🛈
+feather 🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈, typewriter 🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈, screen 🛈Ruud🛈, keyboard 🛈Ruud🛈
  
-- cloud 🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈
-- cutNpaste 🛈brand🛈
-- deadPapers 🛈??🛈
+cloud 🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈, cutNpaste 🛈brand🛈, deadPapers 🛈??🛈
  
-- noStyle  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈
-- noText IMAGE NEEDED
-- unSharp 🛈??🛈
-- noLife 🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
+noStyle  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈, noText IMAGE NEEDED, unSharp 🛈??🛈, noLife 🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
 
-- unDetectable IMAGE NEEDED
-- noExperimenting <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
-- noUpdating 🛈??🛈
-- noFilesConsistency IMAGE NEEDED
+unDetectable IMAGE NEEDED, noExperimenting <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>, noUpdating 🛈??🛈, noFilesConsistency IMAGE NEEDED
 
-- PasteWaste 🛈Ruud/brands🛈
+PasteWaste 🛈Ruud/brands🛈
 
-- notebook, 🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook),CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
+notebook, 🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook),CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
 
-- jupyter 🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈
-- Rstudio 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈
-- Rmarkdown 🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈
-- Observable 🛈brand🛈
+jupyter 🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈, Rstudio 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈, Rmarkdown 🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈, Observable 🛈brand🛈
