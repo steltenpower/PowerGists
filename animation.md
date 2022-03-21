@@ -58,7 +58,7 @@ Then digitalization brought limitless possibilities …<br>
   
 ---
 
-### LOSING&nbsp;CONTENT&nbsp;:disappointed:<br>(:construction:)
+### LOSING&nbsp;INFORMATION&nbsp;:disappointed:<br>(:construction:)
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
 <table><tr><td>
 Losing style<br>
@@ -157,12 +157,9 @@ THE END<br>
 ---
 
 ## TODO:
-- Replace the "image needed" images with actual images and then delete the text describing what image is needed
-- Change some current images to have what-is-copied on the left and what-is-pasted on the right
-- Add blood to feather image
-- Buy stock photos, improve own photos
+- Fix images, certainly those in "LOSING INFORMATION" and "LOSING PROCESS". Also buy stock photos, improve own photos
 - Improve layout in the sheets
-- Turn this itself in [a notebook to present as sheets?](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
+- Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
 
 ## SOURCES
