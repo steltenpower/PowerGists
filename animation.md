@@ -58,14 +58,18 @@ Then digitalization brought limitless possibilities …<br>
   
 ---
 
-### LOSING&nbsp;INFORMATION&nbsp;:disappointed:<br>(:construction:)
+### LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(:construction:)
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
-<table><tr><td>
-Losing style<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg">NASA<br>
-Copy selected text preferably shaped for extra meaning (and showing cursor) within visual, Paste plain text
+<table><tr><td colspan="2">
+Losing style
+  </td><td colspan="2">
+  Losing direct edit, search, index
+  </td></tr><tr><td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>
+Selected text preferably shaped for extra meaning (and showing cursor) within visual
+  </td>NASA<td><br>(=Paste plain text)
   </td><td colspan=2>
-Losing direct edit, search, index.<br>
+.<br>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Copy visual including text, Paste raster image (with pointer over text, not cursor)
   </td></tr><tr><td>
@@ -78,7 +82,7 @@ Losing interactivity, animation and sound<br>
   
 ---
 
-### LOSING PROCESS :angry:<br>(:construction:)
+### LOSING&nbsp;PROCESS with copy-paste:angry:<br>(:construction:)
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 <table><tr><td>
 Unrepairable manual errors<br>
