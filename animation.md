@@ -72,9 +72,9 @@ Losing style
   Losing direct edit, search, index
   </td></tr><tr><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>
-Selected text preferably shaped for extra meaning (and showing cursor) within visual
-  </td><td>
-  NASA<br>(=Paste plain text)
+Selected "AS" and showing cursor
+  </td><td style="font-size:5ex;">
+  AS
   </td><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>
   (select "EGO" on brick, show cursor)
