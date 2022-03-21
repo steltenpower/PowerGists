@@ -93,7 +93,7 @@ Losing sharpness
   
 ---
 
-:construction: ## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
+## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td>
 Unrepairable manual errors
   </td><td>
