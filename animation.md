@@ -58,7 +58,7 @@ Then digitalization brought limitless possibilities …<br>
   
 ---
 
-### BREAKING&nbsp;CONTENT&nbsp;:disappointed:<br>(:construction:)
+### LOSING&nbsp;CONTENT&nbsp;:disappointed:<br>(:construction:)
 The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
 <table><tr><td>
 Losing style<br>
@@ -78,7 +78,7 @@ Losing interactivity, animation and sound<br>
   
 ---
 
-### BREAKING PROCESS :angry:<br>(:construction:)
+### LOSING PROCESS :angry:<br>(:construction:)
 … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 <table><tr><td>
 Unrepairable manual errors<br>
