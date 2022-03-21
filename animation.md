@@ -26,7 +26,7 @@ Lighter material found …<br>
   
 ---
 
-### PAPER TOOLS
+## PAPER TOOLS
 <table><tr><td>
 Shit makes inventful though …<br>
   <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">
@@ -43,7 +43,7 @@ Shit makes inventful though …<br>
   
 ---
 
-### PAPER SIMULATION
+## PAPER SIMULATION
 <table><tr><td>
 Then digitalization brought limitless possibilities …<br>
   <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg">
@@ -58,8 +58,8 @@ Then digitalization brought limitless possibilities …<br>
   
 ---
 
-### LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(:construction:)
-The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
+## LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(:construction:)
+### The old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types …<br>
 <table><tr><td colspan="2">
 Losing style
   </td><td colspan="2">
@@ -86,8 +86,8 @@ Losing sharpness
   
 ---
 
-### LOSING&nbsp;PROCESS with copy-paste:angry:<br>(:construction:)
-… and losing context and process, thereby **KILLING REPRODUCIBILITY**.
+## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(:construction:)
+### … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 <table><tr><td>
 Unrepairable manual errors<br>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
@@ -107,7 +107,7 @@ File edits less consistently manageable².<br>
   
 ---
 
-### CUT THE HABIT OF COPY:scissors:PASTE
+## CUT THE HABIT OF COPY:scissors:PASTE
 ![CopyPasteWaste](CopyPasteWaste.png)
 
 ---
@@ -119,14 +119,14 @@ So where shared documents like Google Docs and Word/Teams are famous for coopera
  
 ---
 
-### WHY ESPECIALLY NON-TECHIES :heart: THIS
+## WHY ESPECIALLY NON-TECHIES :heart: THIS
 Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do surprise themselves with a little coding.
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
 
 ---
 
-### GO TRY IT WITH YOUR TEAM
+## GO TRY IT WITH YOUR TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
 For **open science** reasons, and supported programming languages, my order of preference is:
 <table><tr><td>
