@@ -67,16 +67,20 @@ Losing style
   </td></tr><tr><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>
 Selected text preferably shaped for extra meaning (and showing cursor) within visual
-  </td>NASA<td><br>(=Paste plain text)
-  </td><td colspan=2>
-.<br>
+  </td><td>
+  NASA<br>(=Paste plain text)
+  </td><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Copy visual including text, Paste raster image (with pointer over text, not cursor)
-  </td></tr><tr><td>
-Losing sharpness<br>
+  visual including text (cursor over text)
+  </td><td>
+  Paste raster image (pointer over text)
+  </td></tr><tr><td colspan="2">
+Losing sharpness
+  </td><td colspan="2">
+ Losing interactivity, animation and sound
+  </td></tr><tr><td colspan="2">
   <img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png">
   </td><td>
-Losing interactivity, animation and sound<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705">
   </td></tr></table>
   
