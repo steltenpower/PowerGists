@@ -77,7 +77,7 @@ Selected "AS" and showing cursor
   AS
   </td><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>
-  Selected "EGO", showing cursor)
+  Selected "EGO", showing cursor
   </td><td>
   Paste raster image (pointer over text, on exact spot previous picture gave cursor)
   </td></tr><tr><td colspan="2">
