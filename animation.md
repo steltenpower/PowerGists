@@ -72,14 +72,14 @@ Losing style
   Losing direct edit, search, index
   </td></tr><tr><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>
-Selected "AS" and showing cursor
+Selected "AS", showing cursor
   </td><td style="font-size:5ex;">
   AS
   </td><td>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>
   Selected "EGO", showing cursor
   </td><td>
-  Paste raster image (pointer over text, on exact spot previous picture gave cursor)
+  Raster version (pointer over text, on exact spot previous picture gave cursor)
   </td></tr><tr><td colspan="2">
 Losing sharpness
   </td><td colspan="2">
