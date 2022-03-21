@@ -79,7 +79,7 @@ Selected text preferably shaped for extra meaning (and showing cursor) within vi
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>
   (select "EGO" on brick, show cursor)
   </td><td>
-  Paste raster image (pointer over text)
+  Paste raster image (pointer over text, on exact spot previous picture gave cursor)
   </td></tr><tr><td colspan="2">
 Losing sharpness
   </td><td colspan="2">
