@@ -89,18 +89,23 @@ Losing sharpness
 ## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(:construction:)
 ### … and losing context and process, thereby **KILLING REPRODUCIBILITY**.
 <table><tr><td>
-Unrepairable manual errors<br>
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Not copying what was meant to be copied, e.g. missing one character or digit, or adding a space.
+Unrepairable manual errors
   </td><td>
-No experimenting<br>
-  <img src="https://opensource.com/sites/default/files/uploads/ipyvolume_volume-rendering.gif"> + static version
+  No experimenting
   </td></tr><tr><td>
-No auto-updating (not immediately, nor on page refresh).<br>
-  <img src="https://tomchen.github.io/animated-svg-clock/clock.svg"><br>
-  If the original data changed, it wouldn't change here
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  Image showing: You meant to copy "xyz", but instead copied "yz" or "xyz "
   </td><td>
-File edits less consistently manageable².<br>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+ Image with: How would output change if I change this parameter a little?
+  </td></tr><tr><td>
+No auto-updating (not immediately, nor on page refresh)
+  </td><td>
+File edits less consistently manageable²
+  </td></tr><tr><td>
+  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
+  change table from one app, forget to update chart from other app. Inconsistency introduced.
+  </td><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   change table from one app, forget to update chart from other app. Inconsistency introduced.
   </td></tr></table>
@@ -168,7 +173,7 @@ THE END<br>
 - Fix images, certainly those in "LOSING INFORMATION" and "LOSING PROCESS". Also buy stock photos, improve own photos
 - Improve layout in the sheets
 - Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
-- Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming) notebook-based cooperation (have footage? want to create?)
+- Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
 
 ## SOURCES
 tablet 🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈, launch 🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈
