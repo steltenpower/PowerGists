@@ -57,9 +57,8 @@ Then digitalization brought limitless possibilities …
   </td></tr><tr><td>
   <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg">
   </td><td>
-  <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t"
-<br>
-  <br>
+  <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t">
+  </td></tr><tr><td></td><td>
 … not using the<br>hyper-connected data-driven interactivity<br> of the web.<br>
   <img src="deadpapers.jfif">
   </td></tr></table>
