@@ -32,16 +32,19 @@ Lighter material found …
 
 ## PAPER TOOLS
 <table><tr><td>
-Shit makes inventful though …<br>
+Shit makes inventful though …
+  </td><td>… with contraptions for lousy scriblers,
+  </td></tr><tr><td>
   <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">
   </td><td>
-… with contraptions for lousy scriblers,<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg">
   </td></tr><tr><td>
-… later shielding against bird droppings …<br>
+… later shielding against bird droppings …
+  </td><td>
+… and hiding most of the typewriter.
+  </td></tr><tr><td>
   <img src="IMG_20220309_114247129.jpg">
   </td><td>
-… and hiding most of the typewriter.<br>
   <img src="IMG_20220309_115605800_HDR.jpg">
   </td></tr></table>
   
@@ -49,10 +52,11 @@ Shit makes inventful though …<br>
 
 ## PAPER SIMULATION
 <table><tr><td>
-Then digitalization brought limitless possibilities …<br>
+Then digitalization brought limitless possibilities …
+  </td><td>… but physical paper (simulation) habits stayed …
+  </td></tr><tr><td>
   <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg">
   </td><td>
-… but physical paper (simulation) habits stayed …<br>
   <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t"
 <br>
   <br>
