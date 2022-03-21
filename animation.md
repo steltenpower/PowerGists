@@ -76,8 +76,8 @@ Selected text preferably shaped for extra meaning (and showing cursor) within vi
   </td><td>
   NASA<br>(=Paste plain text)
   </td><td>
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  visual including text (cursor over text)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>
+  (select "EGO" on brick, show cursor)
   </td><td>
   Paste raster image (pointer over text)
   </td></tr><tr><td colspan="2">
@@ -193,7 +193,9 @@ feather 🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs 
  
 cloud 🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈, cutNpaste 🛈brand🛈, deadPapers 🛈??🛈
  
-noStyle  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈, noText IMAGE NEEDED, unSharp 🛈??🛈, noLife 🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
+noStyle  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈,
+noText 🛈<a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC</a>🛈,
+unSharp 🛈??🛈, noLife 🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈
 
 unDetectable IMAGE NEEDED, noExperimenting <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>, noUpdating 🛈??🛈, noFilesConsistency IMAGE NEEDED
 
