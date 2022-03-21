@@ -66,8 +66,7 @@ Then digitalization brought limitless possibilities …
   
 ---
 
-## LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(:construction:)
-(the old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types)
+##:construction: LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types)
 <table><tr><td colspan="2">
 Losing style
   </td><td colspan="2">
@@ -94,8 +93,7 @@ Losing sharpness
   
 ---
 
-## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(:construction:)
-(losing context is **LOSING:skull:REPRODUCIBILITY**.
+:construction:## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td>
 Unrepairable manual errors
   </td><td>
