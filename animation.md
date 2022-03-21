@@ -117,7 +117,7 @@ File edits less consistently manageable²
   </td><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
-  Change table from one app, forget to update chart from other app. Inconsistency introduced.
+  Change table with one app, forget to update chart with other app. Inconsistency introduced.
   </td></tr></table>
   
 ---
