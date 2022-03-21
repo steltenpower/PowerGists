@@ -100,11 +100,11 @@ Unrepairable manual errors
   No experimenting
   </td></tr><tr><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Image showing:<br>
+  Image to be created showing:<br>
   You meant to copy "xyz", but instead copied "yz" or "xyz "
   </td><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
- Image showing:<br>
+ Image to be created showing:<br>
   How would output change if I change this parameter a little?
   </td></tr><tr><td>
 No auto-updating (not immediately, nor on page refresh)
@@ -112,11 +112,11 @@ No auto-updating (not immediately, nor on page refresh)
 File edits less consistently manageable²
   </td></tr><tr><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Image showing:<br>
+  Image to be created showing:<br>
   There's a new (version of the) input file, but you're still using the old ...
   </td><td>
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Image showing:<br>
+  Image to be created showing:<br>
   Change table from one app, forget to update chart from other app. Inconsistency introduced.
   </td></tr></table>
   
