@@ -125,7 +125,7 @@ So where shared documents like Google Docs and Word/Teams are famous for coopera
 ---
 
 ## WHY ESPECIALLY NON-TECHIES :heart: THIS
-Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do surprise themselves with a little coding.
+Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do make their first code edits.
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
 
