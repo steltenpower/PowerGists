@@ -67,20 +67,20 @@ Then digitalization brought limitless possibilities …
 
 ## :construction: LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types)
 <table><tr>
-  <td colspan="2">Losing interactivity, animation and sound</td>
-  <td colspan="2">Losing direct edit, search, index</td>
+  <td colspan="2" width="50%">Losing interactivity, animation and sound</td>
+  <td colspan="2" width="50%">Losing direct edit, search, index</td>
 </tr><tr>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705"></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>Selected "EGO", showing cursor</td>
-  <td>Raster version (pointer over text, on exact spot previous picture gave cursor)</td>
+  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"></td>
+  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705"></td>
+  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>Selected "EGO", showing cursor</td>
+  <td width="25%">Raster version (pointer over text, on exact spot previous picture gave cursor)</td>
 </tr><tr>
-  <td colspan="2">Losing sharpness</td>
-  <td colspan="2">Losing style</td>
+  <td colspan="2" width="50%">Losing sharpness</td>
+  <td colspan="2" width="50%">Losing style</td>
 </tr><tr>
-  <td colspan="2"><img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>Selected "AS", showing cursor</td>
-  <td>AS</td>
+  <td colspan="2" width="50%"><img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"></td>
+  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>Selected "AS", showing cursor</td>
+  <td width="25%">AS</td>
 </tr></table>
   
 ---
