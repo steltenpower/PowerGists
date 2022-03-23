@@ -16,33 +16,33 @@
 ---
 
 ## PAPER
-<table><tr><td>
+<table><tr><td width="50%">
 Lighter material found …
-  </td><td>
+  </td><td width="50%">
   … easily stained.
-  </td></tr><tr><td>
+  </td></tr><tr><td width="50%">
 <img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png">
-  </td><td>
+  </td><td width="50%">
 <img src="https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png">
   </td></tr></table>
   
 ---
 
 ## PAPER TOOLS
-<table><tr><td>
+<table><tr><td width="50%">
 Shit makes inventful though …
-  </td><td>… with contraptions for lousy scriblers,
-  </td></tr><tr><td>
+  </td><td width="50%">… with contraptions for lousy scriblers,
+  </td></tr><tr><td width="50%">
   <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">
-  </td><td>
+  </td><td width="50%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg">
-  </td></tr><tr><td>
+  </td></tr><tr><td width="50%">
 … later shielding against bird droppings …
-  </td><td>
+  </td><td width="50%">
 … and hiding most of the typewriter.
-  </td></tr><tr><td>
+  </td></tr><tr><td width="50%">
   <img src="IMG_20220309_114247129.jpg">
-  </td><td>
+  </td><td width="50%">
   <img src="IMG_20220309_115605800_HDR.jpg">
   </td></tr></table>
   
@@ -84,27 +84,27 @@ Then digitalization brought limitless possibilities …
 ---
 
 ## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
-<table><tr><td>
+<table><tr><td width="50%">
 Unrepairable manual errors
-  </td><td>
+  </td><td width="50%">
   No experimenting
-  </td></tr><tr><td>
+  </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
   You meant to copy "xyz", but instead copied "yz" or "xyz ". This may never be detected, while conclusions are built on it.
-  </td><td>
+  </td><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
  Image to be created showing:<br>
   How would output change if I change this parameter a little?
-  </td></tr><tr><td>
+  </td></tr><tr><td width="50%">
 No auto-updating (not immediately, nor on page refresh)
-  </td><td>
+  </td><td width="50%">
 File edits less consistently manageable²
-  </td></tr><tr><td>
+  </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
   There's a new (version of the) input file, but you're still using the old ...
-  </td><td>
+  </td><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
   Change table with one app, forget to update chart with other app. Inconsistency introduced.
