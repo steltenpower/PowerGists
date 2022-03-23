@@ -5,15 +5,13 @@
 ---
 
 ## ROCK
-<table><tr><td>
-hard science …
-  </td><td>
-  … delivered to readers.
-  </td></tr><tr><td>
-<img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg">
-</td><td>
-<img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg">
-</td></tr></table>
+<table><tr>
+  <td width="50%">hard science …</td>
+  <td width="50%">… delivered to readers.</td>
+</tr><tr>
+  <td width="50%"><img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg"></td>
+  <td width="50%"><img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg"></td>
+</tr></table>
 
 ---
 
