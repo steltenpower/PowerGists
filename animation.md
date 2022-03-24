@@ -30,7 +30,7 @@ Lighter material found …
 
 ## PAPER TOOLS
 <table><tr><td width="50%">
-Shit makes inventful though …
+Shit makes [bloody] inventful though …
   </td><td width="50%">… with contraptions for lousy scriblers,
   </td></tr><tr><td width="50%">
   <img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">
@@ -132,7 +132,7 @@ As these notebooks are built on web technology, you can include/embed almost any
 ---
 
 ## GO TRY IT WITH YOUR TEAM
-As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too.<br>
+As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too, which will also speed things up, and depending the server make heavy computation on big data possible.
 R and Python are the most popular programming languages in data science nowadays, and <a href="https://carpentries.org">carpentries.org</a> lessons can give you a useful start in a day or two. There are many different notebooks and derivatives, but here are 3 popular ones and the languages they support:
 <table><tr><td>
   <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></td><td><b>Ju</b>lia<br><b>Pyt</b>hon<br><b>R</b><br>~100 other
