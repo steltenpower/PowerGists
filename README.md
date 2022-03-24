@@ -143,4 +143,4 @@ I do have [crazy ideas](https://github.com/topics/steltenrepo?o=desc&s=updated) 
 WHAT ABOUT JARGON?:
 ===
 If you insist, have some:<br>
-AJB,BOM,CSS,D3,ELN,FUN,GIS,HTML,i18n,JS,K-means,LOVE,md,N3,OWL,P-value,QA,RE,SVG,TSV,UX,VRE,WWW,XR,YAML,ZZZ
+a11y,BOM,CSS,D3,ELN,FUN,GIS,HTML,i18n,JS,K-means,LAMP,md,N3,OWL,p-value,QA,RE,SVG,TSV,UX,VRE,WWW,XR,YAML,ZZZ
