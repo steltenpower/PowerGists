@@ -58,7 +58,7 @@ Then digitalization brought limitless possibilities, …
   </td><td>
   <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t">
   </td></tr><tr><td></td><td>
-… not using the<br>hyper-connected data-driven interactivity<br> of the web.<br>
+… not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.<br>
   <img src="deadpapers.jfif">
   </td></tr></table>
   
