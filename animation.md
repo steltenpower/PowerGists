@@ -6,7 +6,7 @@
 
 ## ROCK
 <table><tr>
-  <td width="50%">hard science …</td>
+  <td width="50%">Hard science …</td>
   <td width="50%">… delivered to readers.</td>
 </tr><tr>
   <td width="50%"><img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg"></td>
@@ -66,16 +66,16 @@ Then digitalization brought limitless possibilities …
 
 ## :construction: LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types)
 <table><tr>
-  <td colspan="2" width="50%">Losing interactivity, animation and sound</td>
-  <td colspan="2" width="50%">Losing direct edit, search, index</td>
+  <td colspan="2" width="50%">Losing interactivity, animation and sound.</td>
+  <td colspan="2" width="50%">Losing direct edit, search, index.</td>
 </tr><tr>
   <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"></td>
   <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705"></td>
   <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>Selected "EGO", showing cursor</td>
   <td width="25%">Raster version (pointer over text, on exact spot previous picture gave cursor)</td>
 </tr><tr>
-  <td colspan="2" width="50%">Losing sharpness</td>
-  <td colspan="2" width="50%">Losing style</td>
+  <td colspan="2" width="50%">Losing sharpness.</td>
+  <td colspan="2" width="50%">Losing style.</td>
 </tr><tr>
   <td colspan="2" width="50%"><img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"></td>
   <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>Selected "AS", showing cursor</td>
@@ -86,9 +86,9 @@ Then digitalization brought limitless possibilities …
 
 ## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
-Unrepairable manual errors
+Unrepairable manual errors.
   </td><td width="50%">
-  No experimenting
+  No experimenting.
   </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
@@ -98,9 +98,9 @@ Unrepairable manual errors
  Image to be created showing:<br>
   How would output change if I change this parameter a little?
   </td></tr><tr><td width="50%">
-No auto-updating (not immediately, nor on page refresh)
+No auto-updating (not immediately, nor on page refresh).
   </td><td width="50%">
-File edits less consistently manageable²
+File edits less consistently manageable².
   </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
