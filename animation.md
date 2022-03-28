@@ -17,7 +17,7 @@
 
 ## PAPER
 <table><tr><td width="50%">
-Lighter material found …
+Lighter material found, …
   </td><td width="50%">
   … easily stained.
   </td></tr><tr><td width="50%">
