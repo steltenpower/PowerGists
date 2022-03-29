@@ -24,7 +24,7 @@ Lighter material found,
 
 ## PAPER TOOLS
 <table><tr><td width="50%">
-Shit makes [bird-bloody] inventful though,
+Shit makes bloody inventful though,
   </td><td width="50%">with contraptions for lousy scriblers,
   </td></tr><tr><td width="50%">
   <img src="1575645791feather-quil-freesvg.org%20(1).svg">
@@ -164,7 +164,7 @@ PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
-FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs blood trace
+FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs trace of blood (RGB #660000)
 <br>
 TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">CC-SA</a>
 <br>
