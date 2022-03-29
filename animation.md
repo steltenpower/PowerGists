@@ -183,7 +183,7 @@ NOTEXT <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC-
 <br>
 UNSHARP ???
 <br>
-NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD</a>
+NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD</a>≈ CC0
 
 UNDETECTABLE *image needed*
 <br>
