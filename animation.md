@@ -4,8 +4,8 @@
 
 ## ROCK
 <table><tr>
-  <td width="50%">Hard science …</td>
-  <td width="50%">… delivered to readers.</td>
+  <td width="50%">Hard science,</td>
+  <td width="50%">delivered to readers.</td>
 </tr><tr>
   <td width="50%"><img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg"></td>
   <td width="50%"><img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg"></td>
@@ -13,9 +13,9 @@
 
 ## PAPER
 <table><tr><td width="50%">
-Lighter material found, …
+Lighter material found,
   </td><td width="50%">
-  … easily stained.
+  easily stained.
   </td></tr><tr><td width="50%">
 <img src="https://www.pngitem.com/pimgs/m/31-317183_painted-paper-plane-hand-png-download-free-clipart.png">
   </td><td width="50%">
@@ -24,17 +24,17 @@ Lighter material found, …
 
 ## PAPER TOOLS
 <table><tr><td width="50%">
-Shit makes [bird-bloody] inventful though, …
-  </td><td width="50%">… with contraptions for lousy scriblers,
+Shit makes [bird-bloody] inventful though,
+  </td><td width="50%">with contraptions for lousy scriblers,
   </td></tr><tr><td width="50%">
   <img src="1575645791feather-quil-freesvg.org%20(1).svg">
   <!--<img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">-->
   </td><td width="50%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg">
   </td></tr><tr><td width="50%">
-… later shielding against bird droppings …
+later shielding against bird droppings
   </td><td width="50%">
-… and hiding most of the typewriter.
+and hiding most of the typewriter.
   </td></tr><tr><td width="50%">
   <img src="IMG_20220309_114247129.jpg">
   </td><td width="50%">
@@ -43,14 +43,14 @@ Shit makes [bird-bloody] inventful though, …
 
 ## PAPER SIMULATION
 <table><tr><td>
-Then digitalization brought limitless possibilities, …
-  </td><td>… but physical paper (simulation) habits stayed, …
+Then digitalization brought limitless possibilities,
+  </td><td>but physical paper (simulation) habits stayed,
   </td></tr><tr><td>
   <img src="https://www.maxpixel.net/static/photo/1x/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174.jpg">
   </td><td>
   <img src="https://diy.bostik.com/sites/default/files/styles/square_crop/public/2020-10/Bostik-DIY-SouthAfrica-Stationery-Cut%27nPaste-40g%2Bscissors-product-teaser-600x600.jpg?itok=fLdeEB0t">
   </td></tr><tr><td></td><td>
-… not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.<br>
+not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.<br>
   <img src="deadpapers.jfif">
   </td></tr></table>
 
@@ -151,9 +151,9 @@ ENJOY!
 
 ## TODO
 - Fix images, certainly those in "LOSING INFORMATION" and "LOSING PROCESS". Also buy stock photos, improve own photos
-- Improve layout in the sheets
-- Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
+- Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
+- Improve layout in the sheets
 
 ## SOURCES
 tablet 🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈, launch 🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈
