@@ -156,23 +156,36 @@ ENJOY!
 - Improve layout in the sheets
 
 ## SOURCES
-TABLET 🛈<a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>)🛈, LAUNCH 🛈<a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>🛈
+- TABLET <a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>
+- LAUNCH <a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>
  
-PLANE 🛈<a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>🛈, POOP 🛈<a href="https://pngset.com/download-free-png-elnos">CC</a>🛈
+- PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>
+- POOP <a href="https://pngset.com/download-free-png-elnos">CC</a>
  
-FEATHER 🛈<a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace🛈, TYPEWRITER 🛈<a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>🛈, SCREEN 🛈Ruud🛈, KEYBOARD 🛈Ruud🛈
+- FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace
+- TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>
+- SCREEN Ruud
+- KEYBOARD Ruud
  
-CLOUD 🛈<a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>🛈, CUT&PASTE 🛈brand🛈, DEAD-PAPERS 🛈??🛈
+- CLOUD <a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>
+- CUT&PASTE brand
+- DEAD-PAPERS ???
 
-NOLIFE 🛈<a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>🛈,
-NOTEXT 🛈<a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC</a>🛈,
-UNSHARP 🛈??🛈, 
-NOSTYLE  🛈<a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>🛈
+- NOLIFE <a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>
+- NOTEXT <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC</a>
+- UNSHARP ???
+- NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>
 
-UNDETECTABLE *IMAGE NEEDED*, NO-EXPERIMENTING <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>, NO-UPDATING 🛈??🛈, NO-FILES-CONSISTENCY *IMAGE NEEDED*
+- UNDETECTABLE *image needed*
+- NO-EXPERIMENTING <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
+- NO-UPDATING  *image needed*
+- NO-FILES-CONSISTENCY *image needed*
 
-PASTEWASTE 🛈Ruud/brands🛈
+- PASTEWASTE Ruud/brands
 
-NOTEBOOK, 🛈[image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook),CC, [license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)🛈
+- NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook) [CC license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
 
-JUPYTER 🛈<a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>🛈, RSTUDIO 🛈<a href="https://www.rstudio.com/about/logos/">brand</a>🛈, RMARKDOWN 🛈<a href="https://github.com/rstudio/hex-stickers/">??</a>🛈, OBSERVABLE 🛈brand🛈
+- JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>
+- RSTUDIO <a href="https://www.rstudio.com/about/logos/">brand</a>
+-  RMARKDOWN <a href="https://github.com/rstudio/hex-stickers/">??</a>
+-  OBSERVABLE brand
