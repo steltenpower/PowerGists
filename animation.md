@@ -142,9 +142,9 @@ ENJOY!
 ⁴	: If your institution really wants open science, it also provides everybody with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
 
 ## FURTHER READING
-What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018<br>
-["eLife launches Executable Research Articles for publishing computationally reproducible results"](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results), Aug 24, 2020<br>
-A more technically detailed article in Nature: ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
+- What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018
+- ["eLife launches Executable Research Articles for publishing computationally reproducible results"](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results), Aug 24, 2020
+- A more technically detailed article in Nature: ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
 
 ## THE END
 (Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
