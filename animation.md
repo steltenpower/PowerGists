@@ -79,24 +79,24 @@ Unrepairable manual errors.
   No experimenting.
   </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Image to be created showing:<br>
-  You meant to copy ".12", but instead copied "12" or "12 ". This may never be detected, while conclusions are built on it.
+  *(Image to be created showing:<br>
+  You meant to copy ".12", but instead copied "12" or "12 ". This may never be detected, while conclusions are built on it.)*
   </td><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
- Image to be created showing:<br>
-  How would output change if I change this parameter a little?
+ *(Image to be created showing:<br>
+  How would output change if I change this parameter a little?)*
   </td></tr><tr><td width="50%">
 No auto-updating (not immediately, nor on page refresh).
   </td><td width="50%">
 File edits less consistently manageable².
   </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Image to be created showing:<br>
-  There's a new (version of the) input file, but you're still using the old ...
+  *(Image to be created showing:<br>
+  There's a new (version of the) input file, but you're still using the old ... )*
   </td><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  Image to be created showing:<br>
-  Change table with one app, forget to update chart with other app. Inconsistency introduced.
+  *(Image to be created showing:<br>
+  Change table with one app, forget to update chart with other app. Inconsistency introduced.)*
   </td></tr></table>
 
 ## CUT THE HABIT OF COPY:scissors:PASTE
