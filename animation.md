@@ -160,13 +160,9 @@ TABLET <a href="https://www.cartoonstock.com/search?type=images&keyword=backup&p
 <br>
 LAUNCH <a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>
 
-<br><br>
-
 PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC</a>
-
-<br><br>
 
 FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace
 <br>
@@ -175,15 +171,11 @@ TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter
 SCREEN Ruud
 <br>KEYBOARD Ruud
  
- <br><br>
- 
 CLOUD <a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>
 <br>
 CUT&PASTE brand
 <br>
 DEAD-PAPERS ???
-
-<br><br>
 
 NOLIFE <a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>
 <br>
@@ -193,8 +185,6 @@ UNSHARP ???
 <br>
 NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>
 
-<br><br>
-
 UNDETECTABLE *image needed*
 <br>
 NO-EXPERIMENTING <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
@@ -203,15 +193,9 @@ NO-UPDATING  *image needed*
 <br>
 NO-FILES-CONSISTENCY *image needed*
 
-<br><br>
-
 PASTEWASTE Ruud/brands
 
-<br><br>
-
 NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook) [CC license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
-
-<br><br>
 
 JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>
 <br>
