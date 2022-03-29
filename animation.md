@@ -162,7 +162,7 @@ LAUNCH <a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail se
 
 PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>
 <br>
-POOP <a href="https://pngset.com/download-free-png-elnos">CC</a>
+POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
 FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs blood trace
 <br>
