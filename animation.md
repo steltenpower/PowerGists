@@ -80,7 +80,7 @@ Unrepairable manual errors.
   </td></tr><tr><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
   Image to be created showing:<br>
-  You meant to copy "xyz", but instead copied "yz" or "xyz ". This may never be detected, while conclusions are built on it.
+  You meant to copy ".12", but instead copied "12" or "12 ". This may never be detected, while conclusions are built on it.
   </td><td width="50%">
   <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
  Image to be created showing:<br>
