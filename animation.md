@@ -201,6 +201,6 @@ JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">BSD</
 <br>
 RsTuDiO <a href="https://www.rstudio.com/about/logos/">brand</a>
 <br>
-RMARKDOWN <a href="https://github.com/rstudio/hex-stickers/">??</a>
+RMARKDOWN <a href="https://github.com/rstudio/hex-stickers/">CC0</a>
 <br>
 OBSERVABLE brand
