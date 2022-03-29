@@ -168,8 +168,8 @@ FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs blo
 <br>
 TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">CC-SA</a>
 <br>
-SCREEN Ruud
-<br>KEYBOARD Ruud
+SCREEN Ruud='CC0'
+<br>KEYBOARD Ruud='CC0'
  
 CLOUD <a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC0</a>
 <br>
