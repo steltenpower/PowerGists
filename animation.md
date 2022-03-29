@@ -2,8 +2,6 @@
 (or how most of your work is actually still rather constrained in sheets of paper<br>
 &nbsp;&nbsp;and what you win by going proper digital in electronic notebooks)
 
----
-
 ## ROCK
 <table><tr>
   <td width="50%">Hard science …</td>
@@ -12,8 +10,6 @@
   <td width="50%"><img src="https://s3.amazonaws.com/lowres.cartoonstock.com/technology-backup-backed_up-spare-history-caves-shr1435_low.jpg"></td>
   <td width="50%"><img src="https://www.toonpool.com/user/3107/files/send_email_380405.jpg"></td>
 </tr></table>
-
----
 
 ## PAPER
 <table><tr><td width="50%">
@@ -25,8 +21,6 @@ Lighter material found, …
   </td><td width="50%">
 <img src="https://www.nicepng.com/png/detail/147-1472116_royalty-free-collection-of-high-quality-free-cliparts.png">
   </td></tr></table>
-  
----
 
 ## PAPER TOOLS
 <table><tr><td width="50%">
@@ -46,8 +40,6 @@ Shit makes [bird-bloody] inventful though, …
   </td><td width="50%">
   <img src="IMG_20220309_115605800_HDR.jpg">
   </td></tr></table>
-  
----
 
 ## PAPER SIMULATION
 <table><tr><td>
@@ -61,8 +53,6 @@ Then digitalization brought limitless possibilities, …
 … not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.<br>
   <img src="deadpapers.jfif">
   </td></tr></table>
-  
----
 
 ## :construction: LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types)
 <table><tr>
@@ -81,8 +71,6 @@ Then digitalization brought limitless possibilities, …
   <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>Selected "AS", showing cursor</td>
   <td width="25%">AS</td>
 </tr></table>
-  
----
 
 ## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
@@ -110,27 +98,19 @@ File edits less consistently manageable².
   Image to be created showing:<br>
   Change table with one app, forget to update chart with other app. Inconsistency introduced.
   </td></tr></table>
-  
----
 
 ## CUT THE HABIT OF COPY:scissors:PASTE
 ![CopyPasteWaste](CopyPasteWaste.png)
-
----
 
 ## EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks.
 ![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
 So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
- 
----
 
 ## WHY ESPECIALLY NON-TECHIES :heart: THIS
 Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do make their first code edits.
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
-
----
 
 ## GO TRY IT WITH YOUR TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too, which will also speed things up and depending the server make heavy computation on big data possible.
@@ -161,14 +141,13 @@ ENJOY!
 
 ⁴	: If your institution really wants open science, it also provides everybody with both a public and an internal way of (web)serving the most succesfull open format (HTML), right? RIGHT?
 
+## FURTHER READING
 What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018<br>
 ["eLife launches Executable Research Articles for publishing computationally reproducible results"](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results), Aug 24, 2020<br>
 A more technically detailed article in Nature: ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
 
-THE END<br>
+## THE END
 (Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
-
----
 
 ## TODO:
 - Fix images, certainly those in "LOSING INFORMATION" and "LOSING PROCESS". Also buy stock photos, improve own photos
