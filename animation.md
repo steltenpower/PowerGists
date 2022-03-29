@@ -149,7 +149,7 @@ ENJOY!
 ## THE END
 (Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
 
-## TODO:
+## TODO
 - Fix images, certainly those in "LOSING INFORMATION" and "LOSING PROCESS". Also buy stock photos, improve own photos
 - Improve layout in the sheets
 - Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
