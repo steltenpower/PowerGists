@@ -166,7 +166,7 @@ POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
 FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs blood trace
 <br>
-TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>
+TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">CC-SA</a>
 <br>
 SCREEN Ruud
 <br>KEYBOARD Ruud
@@ -195,7 +195,7 @@ NO-FILES-CONSISTENCY *image needed*
 
 PASTEWASTE Ruud/brands
 
-NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook) [CC0](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
+NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook), [CC0](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
 
 JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">BSD</a>
 <br>
