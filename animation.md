@@ -164,26 +164,26 @@ PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC</a>
 
-FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC</a>,vector,needs blood trace
+FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs blood trace
 <br>
 TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">WikiCommons</a>
 <br>
 SCREEN Ruud
 <br>KEYBOARD Ruud
  
-CLOUD <a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC</a>
+CLOUD <a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC0</a>
 <br>
 CUT&PASTE brand
 <br>
 DEAD-PAPERS ???
 
-NOLIFE <a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC</a>
+NOLIFE <a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC-SA</a>
 <br>
-NOTEXT <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC</a>
+NOTEXT <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC-SA</a>
 <br>
 UNSHARP ???
 <br>
-NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">CC</a>
+NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD</a>
 
 UNDETECTABLE *image needed*
 <br>
@@ -195,9 +195,9 @@ NO-FILES-CONSISTENCY *image needed*
 
 PASTEWASTE Ruud/brands
 
-NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook) [CC license](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
+NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook) [CC0](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
 
-JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">CC</a>
+JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">BSD</a>
 <br>
 RsTuDiO <a href="https://www.rstudio.com/about/logos/">brand</a>
 <br>
