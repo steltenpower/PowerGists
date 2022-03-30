@@ -192,8 +192,6 @@ NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch0
 
 JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">BSD</a>
 <br>
-RsTuDiO <a href="https://www.rstudio.com/about/logos/">brand</a>
-<br>
 RMARKDOWN <a href="https://github.com/rstudio/hex-stickers/">CC0</a>
 <br>
 <a href="https://observablehq.com/@observablehq/logo">OBSERVABLE</a> is a <a href="https://observablehq.com/@observablehq/terms-of-service">brand</a>
