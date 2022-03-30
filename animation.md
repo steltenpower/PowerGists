@@ -157,9 +157,9 @@ ENJOY!
 ## SOURCES
 TABLET <a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>
 <br>
-LAUNCH <a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>
+LAUNCH <a href="https://www.toonpool.com/cartoons/Send%20email_38040">[e-mail sent]</a>?
 
-PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>
+PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-white-clipart-paper/">[e-mail sent]</a>?
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
@@ -172,7 +172,7 @@ SCREEN Ruud≈ CC0
  
 CLOUD <a href="https://www.maxpixel.net/Sky-Cloud-Blue-Heaven-Heavenly-White-Background-1551174">CC0</a>
 <br>
-CUT&PASTE brand
+CUT&PASTE brand ?
 <br>
 DEAD-PAPERS ???
 
@@ -186,7 +186,7 @@ NASA <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD
 
 EXPERIMENTING <a href="https://www.castoriscausa.com/index2.html">CC-SA</a>
 
-PASTEWASTE Ruud/brands
+PASTEWASTE Ruud/brands ?
 
 NOTEBOOK [image](https://subscription.packtpub.com/book/data/9781789800265/1/ch01lvl1sec07/launching-a-jupyter-notebook), [CC0](https://github.com/temporaer/tutorial_ml_gkbionics/blob/master/LICENSE)
 
