@@ -61,8 +61,8 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 </tr><tr>
   <td width="25%"><img src="wavy_clean_ani.svg"></td>
   <td width="25%"><img src="wavy_clean_static.svg"></td>
-  <td width="25%"><img src="LEGOclean.svg"><br>Selected "EGO", showing cursor</td>
-  <td width="25%">Raster version (pointer over text, on exact spot previous picture gave cursor)</td>
+  <td width="25%"><img src="EGO.png"></td>
+  <td width="25%"><img src="LEGO.png"></td>
 </tr><tr>
   <td colspan="2" width="50%">Losing sharpness.</td>
   <td colspan="2" width="50%">Losing style.</td>
