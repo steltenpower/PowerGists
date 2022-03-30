@@ -149,8 +149,7 @@ ENJOY!
 (Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
 
 ## TODO
-- Buy stock photo and check other licensing
-- Make the feather write in <a href="https://htmlcolorcodes.com/colors/blood-red/">blood</a> (as it was pulled from the shitting bird)
+- Buy the 1 stock photo and check other licensing
 - Retake the photos of screen and/or keyboard?
 - Improve other images, layout ?
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
