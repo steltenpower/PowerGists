@@ -77,7 +77,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 Unrepairable manual errors.
   </td><td width="50%">
   No experimenting.
-  </td></tr><tr><td width="50%" style="text-align:center;">
+  </td></tr><tr><td width="50%">
   Instead of copying<br>
   "<b>.12</b>"<br>
 you copied<br>
