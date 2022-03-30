@@ -68,7 +68,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
   <td colspan="2" width="50%">Losing style.</td>
 </tr><tr>
   <td colspan="2" width="50%"><img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"></td>
-  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NASA_Wormball_logo.svg"><br>Selected "AS", showing cursor</td>
+  <td width="25%"><img src="AS.png"></td>
   <td width="25%">AS</td>
 </tr></table>
 
@@ -183,7 +183,7 @@ LEGO <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC-SA
 <br>
 UNSHARP ???
 <br>
-NOSTYLE <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD</a>≈ CC0
+NASA <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD</a>≈ CC0
 
 UNDETECTABLE *image needed*
 <br>
