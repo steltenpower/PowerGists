@@ -164,7 +164,7 @@ PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
-FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs trace of blood (RGB #660000)
+FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs trace of <a href="https://htmlcolorcodes.com/colors/blood-red/">blood</a>
 <br>
 TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">CC-SA</a>
 <br>
