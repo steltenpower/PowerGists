@@ -151,7 +151,8 @@ ENJOY!
 ## TODO
 - Buy stock photo and check other licensing
 - Make the feather write in <a href="https://htmlcolorcodes.com/colors/blood-red/">blood</a> (as it was pulled from the shitting bird)
-- improve images, layout ?
+- Retake the photos of screen and/or keyboard?
+- Improve other images, layout ?
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
 - Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 
