@@ -69,7 +69,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 </tr><tr>
   <td colspan="2" width="50%"><img src="https://logosbynick.com/wp-content/uploads/2019/10/vector-raster.png"></td>
   <td width="25%"><img src="AS.png"></td>
-  <td width="25%">AS</td>
+  <td width="25%" style="text-align:center;font-size:300%">AS</td>
 </tr></table>
 
 ## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
