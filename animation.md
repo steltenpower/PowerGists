@@ -90,14 +90,12 @@ you copied<br>
 No auto-updating (not immediately, nor on page refresh).
   </td><td width="50%">
 File edits less consistently manageable².
-  </td></tr><tr><td width="50%">
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  <i>(Image to be created showing:<br>
-    There's a new (version of the) input file, but you're still using the old ... )</i>
+  </td></tr><tr><td width="50%">real-time satellite data<br>
+  is impossible to copy-paste
   </td><td width="50%">
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  <i>(Image to be created showing:<br>
-    Change table with one app, forget to update chart with other app. Inconsistency introduced.)</i>
+  You changed a value in a table,<br>
+  but because your phone rang,<br>
+  forgot to change the related chart
   </td></tr></table>
 
 ## CUT THE HABIT OF COPY:scissors:PASTE
