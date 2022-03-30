@@ -27,7 +27,7 @@ Lighter material found,
 Shit makes bloody inventful though,
   </td><td width="50%">with contraptions for lousy scriblers,
   </td></tr><tr><td width="50%">
-  <img src="1575645791feather-quil-freesvg.org%20(1).svg">
+  <img src="blood_and_feather.svg">
   <!--<img src="https://freesvg.org/img/1575645791feather-quil-freesvg.org.png">-->
   </td><td width="50%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Remington_typewriter_1907_%2803%29.jpg">
