@@ -78,9 +78,12 @@ Unrepairable manual errors.
   </td><td width="50%">
   No experimenting.
   </td></tr><tr><td width="50%">
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
-  <i>(Image to be created showing:<br>
-  You meant to copy ".12", but instead copied "12" or "12 ". This may never be detected, while conclusions are built on it.)</i>
+  Instead of copying<br>
+  "<b>.12</b>"<br>
+you copied<br>
+  "<b>12</b>"<br>
+  or<br>
+  "<b>12 </b>"
   </td><td width="50%">
   <img src="https://www.castoriscausa.com/images/interact.gif">
   </td></tr><tr><td width="50%">
