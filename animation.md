@@ -82,9 +82,7 @@ Unrepairable manual errors.
   <i>(Image to be created showing:<br>
   You meant to copy ".12", but instead copied "12" or "12 ". This may never be detected, while conclusions are built on it.)</i>
   </td><td width="50%">
-  <img src="https://www.theromegroup.com/wp-content/uploads/2016/12/image-needed-300x200.png"><br>
- <i>(Image to be created showing:<br>
-   How would output change if I change this parameter a little?)</i>
+  <img src="https://www.castoriscausa.com/images/interact.gif">
   </td></tr><tr><td width="50%">
 No auto-updating (not immediately, nor on page refresh).
   </td><td width="50%">
@@ -187,7 +185,7 @@ NASA <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD
 
 UNDETECTABLE *image needed*
 <br>
-NO-EXPERIMENTING <a href="https://opensource.com/article/18/11/python-libraries-data-science">©</a>
+NO-EXPERIMENTING <a href="https://www.castoriscausa.com/index2.html">CC-SA</a>
 <br>
 NO-UPDATING  *image needed*
 <br>
