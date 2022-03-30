@@ -75,7 +75,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 ## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
 Unrepairable manual errors.
-  </td><td width="50%">
+  </td><td width="50%" style="text-align:center;">
   No experimenting.
   </td></tr><tr><td width="50%">
   Instead of copying<br>
