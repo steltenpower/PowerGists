@@ -59,8 +59,8 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
   <td colspan="2" width="50%">Losing interactivity, animation and sound.</td>
   <td colspan="2" width="50%">Losing direct edit, search, index.</td>
 </tr><tr>
-  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fourier_series_square_wave_circles_animation.svg"></td>
-  <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fourier_series_square_wave_circles_animation.svg/768px-Fourier_series_square_wave_circles_animation.svg.png?20200712183705"></td>
+  <td width="25%"><img src="wavy_clean_ani.svg"></td>
+  <td width="25%"><img src="wavy_clean_static"></td>
   <td width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lego_dimensions.svg"><br>Selected "EGO", showing cursor</td>
   <td width="25%">Raster version (pointer over text, on exact spot previous picture gave cursor)</td>
 </tr><tr>
