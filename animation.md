@@ -177,9 +177,9 @@ CUT&PASTE brand
 <br>
 DEAD-PAPERS ???
 
-NOLIFE <a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC-SA</a>
+FOURIER <a href="https://commons.wikimedia.org/wiki/File:Fourier_series_square_wave_circles_animation.svg">CC-SA</a>
 <br>
-NOTEXT <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC-SA</a>
+LEGO <a href="https://commons.wikimedia.org/wiki/File:Lego_dimensions.svg">CC-SA</a>
 <br>
 UNSHARP ???
 <br>
