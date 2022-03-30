@@ -149,8 +149,8 @@ ENJOY!
 (Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
 
 ## TODO
-- Buy stock photos, and other licensing
-- improve images, layout
+- Buy stock photo and other licensing
+- improve images, layout ?
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
 - Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 
