@@ -72,11 +72,11 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
   <td width="25%">&nbsp;&nbsp;&nbsp;&nbsp;<b>AS</b></td>
 </tr></table>
 
-## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
+## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
 Unrepairable manual errors.
   </td><td width="50%">
-  No experimenting.
+  No experimenting. No playing to get a feel.
   </td></tr><tr><td width="50%">
   Instead of copying<br>
   "<b>.12</b>"<br>
