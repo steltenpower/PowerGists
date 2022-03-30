@@ -150,6 +150,7 @@ ENJOY!
 
 ## TODO
 - Buy stock photo and check other licensing
+- Make the feather write in <a href="https://htmlcolorcodes.com/colors/blood-red/">blood</a> (as it was pulled from the shitting bird)
 - improve images, layout ?
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
 - Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
@@ -163,7 +164,7 @@ PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
-FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>,vector,needs trace of <a href="https://htmlcolorcodes.com/colors/blood-red/">blood</a>
+FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>
 <br>
 TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">CC-SA</a>
 <br>
