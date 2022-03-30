@@ -165,7 +165,7 @@ PLANE <a href="https://www.pngitem.com/middle/hTooJT_heart-we-it-paper-airplane-
 <br>
 POOP <a href="https://pngset.com/download-free-png-elnos">CC BY-NC 4.0</a>
 
-FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>
+FEATHER <a href="https://freesvg.org/hand-with-a-quill">CC0</a>, SPLATTER <a href="https://commons.wikimedia.org/wiki/File:Give_Blood.svg">CC</a>, FONT <a href="https://fonts.google.com/specimen/Great+Vibes?category=Handwriting#:~:text=licensed%20under%20the-,Open%20Font%20License,-.">Open Font license</a>
 <br>
 TYPEWRITER <a href="https://commons.wikimedia.org/wiki/File:Remington_typewriter_1907_(03).jpg">CC-SA</a>
 <br>
