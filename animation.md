@@ -184,13 +184,7 @@ UNSHARP ???
 <br>
 NASA <a href="https://commons.wikimedia.org/wiki/File:NASA_Wormball_logo.svg">PD</a>≈ CC0
 
-UNDETECTABLE text instead of image
-<br>
-NO-EXPERIMENTING <a href="https://www.castoriscausa.com/index2.html">CC-SA</a>
-<br>
-NO-UPDATING  *image needed*
-<br>
-NO-FILES-CONSISTENCY *image needed*
+EXPERIMENTING <a href="https://www.castoriscausa.com/index2.html">CC-SA</a>
 
 PASTEWASTE Ruud/brands
 
