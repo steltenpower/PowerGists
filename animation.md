@@ -194,4 +194,4 @@ JUPYTER <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg">BSD</
 <br>
 RMARKDOWN <a href="https://github.com/rstudio/hex-stickers/">CC0</a>
 <br>
-<a href="https://observablehq.com/@observablehq/logo">OBSERVABLE</a> is a <a href="https://observablehq.com/@observablehq/terms-of-service">brand</a>
+<a href="https://observablehq.com/@observablehq/logo">OBSERVABLE</a> is a <a href="https://observablehq.com/@observablehq/terms-of-service">brand</a>?
