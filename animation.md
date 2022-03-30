@@ -75,9 +75,9 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 ## :construction: LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
 Unrepairable manual errors.
-  </td><td width="50%" style="text-align:center;">
+  </td><td width="50%">
   No experimenting.
-  </td></tr><tr><td width="50%">
+  </td></tr><tr><td width="50%" style="text-align:center;">
   Instead of copying<br>
   "<b>.12</b>"<br>
 you copied<br>
@@ -151,10 +151,10 @@ ENJOY!
 (Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
 
 ## TODO
-- Fix images, certainly those in "LOSING INFORMATION" and "LOSING PROCESS". Also buy stock photos, improve own photos
+- Buy stock photos, and other licensing
+- improve images, layout
 - Create a 1080p YouTube clip with the above visual reasoning as introduction, followed by some actual (not too technically overwhelming, showing sliders for sure) notebook-based cooperation (have footage? want to create?)
 - Turn this itself in [a notebook to present as sheets](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
-- Improve layout in the sheets
 
 ## SOURCES
 TABLET <a href="https://www.cartoonstock.com/search?type=images&keyword=backup&page=4&expanded=CS370071">CartoonStock</a>
