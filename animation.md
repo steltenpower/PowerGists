@@ -73,9 +73,9 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 
 ## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
-Unrepairable manual errors.
+  <u>Unrepairable manual errors.</u>
   </td><td width="50%">
-  No experimenting. No playing to get a feel.
+  <b>No experimenting. No playing to get a feel.</b>
   </td></tr><tr><td width="50%">
   Instead of copying<br>
   "<b>.12</b>"<br>
