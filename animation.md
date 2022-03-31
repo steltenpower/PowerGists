@@ -73,7 +73,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
 
 ## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
-  <u>Unrepairable manual errors.</u>
+  <b>Unrepairable manual errors.</b>
   </td><td width="50%">
   <b>No experimenting. No playing to get a feel.</b>
   </td></tr><tr><td width="50%">
@@ -86,9 +86,9 @@ you copied<br>
   </td><td width="50%">
   <img src="https://www.castoriscausa.com/images/interact.gif">
   </td></tr><tr><td width="50%">
-No auto-updating (not immediately, nor on page refresh).
+  <b>No auto-updating (not immediately, nor on page refresh).</b>
   </td><td width="50%">
-File edits less consistently manageable².
+  <b>File edits less consistently manageable².</b>
   </td></tr><tr><td width="50%">real-time satellite data<br>
   is impossible to copy-paste
   </td><td width="50%">
