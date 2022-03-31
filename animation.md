@@ -142,6 +142,7 @@ ENJOY!
 ## FURTHER READING
 - What this fundamentally means for the quality and range of science: ["The scientific paper is obsolete"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), The Atlantic, APRIL 5, 2018
 - ["eLife launches Executable Research Articles for publishing computationally reproducible results"](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results), Aug 24, 2020
+- ["CODECHECK: an Open Science initiative for the independent execution of computations underlying research articles during peer review to improve reproducibility"](https://doaj.org/article/dac0927e90ec49c0a3ce2157e16caf56) JUL, 2021
 - A more technically detailed article in Nature: ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
 
 ## THE END
