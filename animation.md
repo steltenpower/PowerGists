@@ -1,5 +1,5 @@
-# _"ROCK,&nbsp;PAPER,&nbsp;~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
-(and how the "physical paper"-paradigm still constrains us in the digital era)
+# _"ROCK,&nbsp;PAPER,&nbsp;~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
+(and how the "physical&nbsp;paper"&#8209;paradigm still constrains us in the digital era)
 
 ## ROCK
 <table><tr>
@@ -53,7 +53,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
   <img src="deadpapers.jfif">
   </td></tr></table>
 
-## LOSING&nbsp;INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non-i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹content-types)
+## LOSING INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non&#8209;i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹&nbsp;content-types)
 <table><tr>
   <td colspan="2" width="50%">Losing interactivity, animation and sound.</td>
   <td colspan="2" width="50%">Losing direct edit, search, index.</td>
