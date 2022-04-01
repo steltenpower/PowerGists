@@ -102,7 +102,7 @@ you copied<br>
 
 ## EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks.
-![Text, Code, Result](https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png)
+<table><tr><td><img src="https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png" alt="Text, Code, Result, the 3 ingredients of e-notebooks"></td><tr></table>
 So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
 
 ## WHY ESPECIALLY NON-TECHIES :heart: THIS
