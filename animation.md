@@ -1,4 +1,4 @@
-# _"ROCK,&nbsp;PAPER, ~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
+# _"ROCK,&nbsp;PAPER, ~~SCISSORS~~ [SCIENCE NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
 (and how the "physical&nbsp;paper"&#8209;paradigm still constrains us in the digital era)
 
 ## ROCK
