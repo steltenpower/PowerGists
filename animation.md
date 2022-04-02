@@ -1,4 +1,4 @@
-# _"ROCK,&nbsp;PAPER, ~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
+# _"ROCK,&nbsp;PAPER, ~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
 (and how the "physical&nbsp;paper"&#8209;paradigm still constrains us in the digital era)
 
 ## ROCK
@@ -71,7 +71,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
   <td width="25%">&nbsp;&nbsp;&nbsp;&nbsp;<b>AS</b></td>
 </tr></table>
 
-## LOSING&nbsp;PROCESS with copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
+## LOSING&nbsp;PROCESS with&nbsp;copy-paste:angry:<br>(losing context is **LOSING:skull:REPRODUCIBILITY**)
 <table><tr><td width="50%">
   <b>Unrepairable manual errors.</b>
   </td><td width="50%">
@@ -97,10 +97,10 @@ you copied<br>
   forgot to change the related chart
   </td></tr></table>
 
-## CUT THE HABIT OF COPY:scissors:PASTE
+## CUT THE HABIT OF&nbsp;COPY:scissors:PASTE
 ![CopyPasteWaste](CopyPasteWaste.png)
 
-## EMBED YOUR (DATA)SCIENCE IN WEB&#8209;POWERED NOTEBOOKS!
+## EMBED YOUR (DATA)SCIENCE IN&nbsp;WEB&#8209;POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks.
 <table><tr><td><img src="https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png" alt="Text, Code, Result, the 3 ingredients of e-notebooks"></td><tr></table>
 So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
