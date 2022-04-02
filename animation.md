@@ -1,4 +1,4 @@
-# _"ROCK,&nbsp;PAPER,&nbsp;~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
+# _"ROCK,&nbsp;PAPER, ~~SCISSORS~~ [SCIENCE&nbsp;NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;how e&#8209;notebooks help&nbsp;**team&nbsp;science**
 (and how the "physical&nbsp;paper"&#8209;paradigm still constrains us in the digital era)
 
 ## ROCK
@@ -53,7 +53,7 @@ not using the<br>hyper-connected data-driven interactivity of&nbsp;the&nbsp;web.
   <img src="deadpapers.jfif">
   </td></tr></table>
 
-## LOSING INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non&#8209;i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹&nbsp;content-types)
+## LOSING INFORMATION with copy-paste:disappointed:<br>(the old habits' troubles are non&#8209;i̲n̲t̲e̲r̲o̲p̲e̲r̲a̲b̲l̲e̲¹ content&#8209;types)
 <table><tr>
   <td colspan="2" width="50%">Losing interactivity, animation and sound.</td>
   <td colspan="2" width="50%">Losing direct edit, search, index.</td>
@@ -100,17 +100,17 @@ you copied<br>
 ## CUT THE HABIT OF COPY:scissors:PASTE
 ![CopyPasteWaste](CopyPasteWaste.png)
 
-## EMBED YOUR (DATA) SCIENCE IN WEB-POWERED NOTEBOOKS!
+## EMBED YOUR (DATA)SCIENCE IN WEB&#8209;POWERED NOTEBOOKS!
 We all know hyperlinks to manually click from one page to the next, but web addresses (or URLs) can do much more. Algorithms created by computer programmers for example use URLs to refer to up-to-date input data³. And now there's a way to edit and run these algorithms (aka **Code**), plus show their output (often **Plot**) within your **Text** in so-called Electronic Lab Notebooks.
 <table><tr><td><img src="https://static.packt-cdn.com/products/9781789800265/graphics/assets/318443e2-2a55-4b0e-b59a-b89118d0b7ff.png" alt="Text, Code, Result, the 3 ingredients of e-notebooks"></td><tr></table>
 So where shared documents like Google Docs and Word/Teams are famous for cooperating among writers, these notebooks enable adding programmers.
 
-## WHY ESPECIALLY NON-TECHIES :heart: THIS
+## WHY ESPECIALLY NON&#8209;TECHIES :heart:&nbsp;THIS
 Without being forced to code yourself, you can have shorter feedback cycles with your techy colleagues (or support staff). After a while however, many do make their first code edits.
 
 As these notebooks are built on web technology, you can include/embed almost anything found on the web⁴. The helpful communities around them have also created all sorts of things to extend them, so many of your "wouldn't it be nice if …"-wishes are already implemented and available. Plus you can still use any application outside the notebook, while using the flow of the notebook to coordinate, for example: call an outside script to add a manual overlay, or get notified that after the last input change no new file was saved yet for the output of a manual step.
 
-## GO TRY IT WITH YOUR TEAM
+## GO TRY IT WITH&nbsp;YOUR&nbsp;TEAM
 As your team probably shares files behind a login, it's good to know you can have notebooks within that same environment too, which will also speed things up and depending the server make heavy computation on big data possible.
 R and Python are the most popular programming languages in data science nowadays, and <a href="https://carpentries.org">carpentries.org</a> lessons can give you a useful start in a day or two. There are many different notebooks and derivatives, but here are 3 popular ones and the languages they support:
 <table><tr><td>
@@ -146,7 +146,7 @@ ENJOY!
 - A more technically detailed article in Nature: ["Cut the tyranny of copy-and-paste with these coding tools"](https://www.nature.com/articles/d41586-022-00563-z), 28 February 2022
 
 ## THE END
-(Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions or motivating me to keep going to make it just right.)
+(Thanks to everybody honestly pointing me at nerd speak to get rid off in the draft versions, or motivating me to keep going to make it just right.)
 
 ## TODO
 - Buy the 1 stock photo and check other licensing
