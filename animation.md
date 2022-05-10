@@ -1,3 +1,7 @@
+# [ROCK, PAPER, SCIENCE NOTEBOOKS video](https://wiki.surfnet.nl/pages/viewpageattachments.action?pageId=59803702&preview=/59803702/65242021/ELN%20-%20V2-1080p-220420%20edit2.mp4)
+
+Below is the slightly outdated document which the video is based on
+
 # _"ROCK,&nbsp;PAPER, ~~SCISSORS~~ [SCIENCE NOTEBOOKS](#embed-your-data-science-in-web-powered-notebooks)"_, or how&nbsp;e&#8209;notebooks help **team&nbsp;science**
 (and how the "physical&nbsp;paper"&#8209;paradigm still&nbsp;constrains&nbsp;us in the digital era)
 
