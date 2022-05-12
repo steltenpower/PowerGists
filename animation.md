@@ -1,4 +1,6 @@
-# [ROCK, PAPER, SCIENCE NOTEBOOKS video](https://wiki.surfnet.nl/pages/viewpageattachments.action?pageId=59803702&preview=/59803702/65242021/ELN%20-%20V2-1080p-220420%20edit2.mp4)
+# [watch ROCK, PAPER, SCIENCE NOTEBOOKS video now!](https://wiki.surfnet.nl/pages/viewpageattachments.action?pageId=59803702&preview=/59803702/65242021/ELN%20-%20V2-1080p-220420%20edit2.mp4)
+
+---
 
 Below is the slightly outdated document which the video is based on
 
