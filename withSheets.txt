@@ -1,0 +1,91 @@
+#1
+@ SURF research day 2023
+Menno J. de Vries
+Research IT Coördinator bij Prinses Máxima Centrum
+presented a very nice example:
+Linked Data (RDF) for data aligning and usability that makes even the most digital-clumsy (but subject capable) person happy in "A data findability platform for pediatric cancer research and care"
+
+#2
+Just a few years ago some used default Internet Explorer on Windows and didn't know it was 'a browser' or alternatives existed. Since it was killed misunderstandings about which browser decreased, but didn't vanish.
+
+#3
+This was about reference managers, a subject space with many misunderstandings.
+Plus since iCloud, files and folders are more hidden, resulting in people having trouble with the concepts alltogether, which resulted in additions to programming courses.
+
+#4
+Data Organization in Spreadsheets for Ecologists [https://datacarpentry.org/spreadsheet-ecology-lesson/] from carpentries.org
+and in its incubator I started a derivative for people surrounding the researchers [https://github.com/carpentries-incubator/data-organisation-for-better-analysis]
+And if not already mentioned in those lessons, please take a look at https://frictionlessdata.io/ for how to properly define schema's to enable data validation
+
+#5
+Icons depict the applications you have associated with file types, not data types themselves. A cause of misunderstanding. Understandable though cause Windows/Teams/others are application sales channels, and files and their types were long considered sort of owned by or belonging to an application.
+	
+#6
+Conversion integrated with archiving tools?
+At archive side, and earlier!, so at client side
+
+#7
+The term 'MP4' is sometimes used for video in general like Google is for search in general. Similar things happen for other file formats
+
+#8
+You ALWAYS need an API, it's often more important than a GUI, as it allows the interaction to be shaped to workflows that fit the diversity of users and use cases. And people are for thinking, computers are for repetition.
+
+#9
+Software availability is scattered. Awareness of even popular alternatives is limited, let alone awareness of support, internal and elsewhere.
+
+#10
+For some departments software doesn't exist if there's no contract.
+Some parts of organisations still seem to have a hard time considering "open source" as serious options.
+
+#11
+FAIR data principles are great, but the I of interoperability is still mostly neglected, partly because it's hard to know a lot from the whole tech stack.
+As to me it seems Interoperability is the hardest part of FAIR to repair later, I think people should start with it: I-FAR.
+
+#12
+Next to FAIR and other buzzwords, also 'open standards' is often uttered by people not fully understanding them. These openly accessible lengthy docs also explain what is valid and often come with so called validators to check automatically.
+
+#13
+If something is not according to standard, it has a higher risk of not working after a change of data/hardware/software/version.
+
+#14
+Even if you're not allowed access to certain data, often there's no reason to not allow you to know of its existence and metadata. If that includes a schema, you can generate dummy data, to base analysis or software on, that can be used by people who do have access to the actual data, including maybe future you.
+People saying "application landscape" should be told to do 3 push-ups, as the prevailing application-centric mindset is the root cause of the messy state of information architecture in large institutions and on the web today, as further explained at datacentricmanifesto.org
+Open file formats and open vocabularies should be taken into account from the first moment towards deciding what software to use, instead of trying to connect things when the software is already in use much later.
+
+#15
+Data quality issues showing up is great, as it allows to fix them. The more exposure, the faster it can be fixed, though some issues should not escape test or draft phases.
+
+#16
+For findability and citation reasons metadata is usually not considered unimportant, but ... still something that is postponed to after many things considered more primary, having a higher priority. I think that can change.
+
+#17
+A 5 minute task can easily interrupt a high-concentration task for half an hour or more and if it keeps nagging in your brain it can make you less intelligent for much, much longer. The laws of physics state that any measurement influences the measured, human performance certainly not excluded.
+
+#18.
+After a colleague took part in a Carpentries.org "coding and data science skills" workshop I taught, she said: Much of this, especially the programming, I will probably never do again myself, but I do now understand a lot more of what programmer types talk about, where they see risks for data quality.
+
+#19
+This sheet is a screenshot of a 3 minute video explaining how much of what many do on computers is not very different from 'paper simulation' and how e-notebooks like Jupyter enable to go beyond that, allowing techies and non-techies to cooperate better. Expecting at least one e-notebook file format (.ipynb) 	to be added to the DANS list of preferred file formats
+
+#20
+It's great that somewhere is written down what must be done, but by the time you need it you can have completely forgotten. Top usability is focussing on the matter, not the tool, like a sculptor being extended by a chisel.
+
+#21
+This doesn't support all repo's perfectly, but it's open source, so you can help
+
+#22
+Let's just start with a few tools that many use. SURFdrive, SURFcloud, Yoda, perhaps?
+Images draw attention. Icons based directly on file type instead of indirectly would be a great improvement; maybe drawing from WikiData (that anybody can edit and extend).
+
+#23
+Where's my data, our data, file types in common? Instead of giving a list of applications that might scatter data more and less interoperable.
+
+#24
+The concepts are wikidata concepts, connecting data in many other sources, across disciplines. I see possibilities for serendipity in tools and am designing one [https://github.com/steltenpower/Train-Of-Thought]
+
+#25
+A wider (information) strategy by me: [https://htmlpreview.github.io/?https://github.com/steltenpower/PowerGists/blob/main/IFAR.html]
+
+
+
+
